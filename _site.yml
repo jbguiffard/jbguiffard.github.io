@@ -8,6 +8,7 @@ navbar:
       href: short-vitae.html
     - text: "Conferences"
       href: conferences.html
+
 output_dir: "."
 output:
   html_document:
