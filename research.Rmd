@@ -17,6 +17,15 @@ This paper examines the value that households place on broadband internet access
 
 I use the gradual arrival of submarine Internet cables on the coast and the route of the backbone cables network to demonstrate how high-speed Internet (fixed and mobile jointly considered) has an impact on political mobilization in Africa. I obtained robust difference-in-differences estimates using Afrobarometer data from ten countries, which reveal a positive effect on the likelihood of participating in a protest. Since having access to high-speed Internet allows access to social networks and other content, two mechanisms are explored to explain this positive impact: information and coordination channels. The main explanatory channel appears to be the enhanced coordination.
 
+
+
+```{r, echo=FALSE, out.width="50%"}
+knitr::include_graphics("images/map_senegal_backbone.jpg")
+knitr::include_graphics("images/coef_plot_backbone.jpg")
+```
+
+
+
 ----
 
 **Welfare Cost of Mobile Spectrum (Mis)allocation** (with Marc Ivaldi, Julienne Liang and Louise Aïmène) - [Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4228058)

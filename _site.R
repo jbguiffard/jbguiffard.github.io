@@ -2,6 +2,8 @@
 suppressPackageStartupMessages({
   library(tidyverse)
   library(stringr)
+  library(cowplot)
+  library(jpeg)
 })
 
 ## variables I need for my site 
