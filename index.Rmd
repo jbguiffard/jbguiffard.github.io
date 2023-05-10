@@ -8,7 +8,7 @@ output:
 
 
 
-![](images/profil_image.jpg){ width=90%}
+![](images/profil_image.jpg){ width=100%}
 
 ----
 
