@@ -9,26 +9,26 @@ output:
 
 2023:
 
-- 51st Research Conference on Communications, Information, and Internet Policy, Washington, USA. *Scheduled*
+- [51st Research Conference on Communications, Information, and Internet Policy](http://www.tprcweb.com/overview-2023), Washington, USA. *Scheduled*
 
-- 7th Nordic Development Research Conference, Uppsala University, Uppsala, Sweden. *Scheduled*
+- [7th Nordic Development Research Conference](https://www.nordev2023.se/), Uppsala University, Uppsala, Sweden. *Scheduled*
 
-- 32nd ITS European Conference, UNED, Madrid, Spain. *Scheduled*
+- [32nd ITS European Conference](https://itseurope.org/2023/), UNED, Madrid, Spain. *Scheduled*
 
-- 71st Congress of the French Economic Association (AFSE), SciencesPo, Paris, France. *Scheduled*
+- [71st Congress of the French Economic Association (AFSE)](https://afse2023.sciencesconf.org/), SciencesPo, Paris, France. *Scheduled*
 
-- 1st Welfare & Policy Conference, BSE, Bordeaux, France.
+- [1st Welfare & Policy Conference](https://wapsociety.org/event/conference-individual-and-collective-responses-to-a-troubled-world), BSE, Bordeaux, France.
 
-- 18th Doctorissimes PhD Conference, CES, Paris, France.
+- [18th Doctorissimes PhD Conference](https://sites.google.com/site/doctorissimes3/18th-doctorissimes-2023), CES, Paris, France.
 
 
 2022:
 
-- Young Economist Seminar, Telecom-Paris, Palaiseau, France.
+- [Young Economist Seminar](https://www.digitaleconomics-paris.fr/young-economist-seminar), Telecom-Paris, Palaiseau, France.
 
-- 25th QED (Quantative Economics Doctorate Network) Jamboree, University of Vienna, Vienna, Austria.
+- 25th QED ([Quantative Economics Doctorate Network](https://www.vgse.at/about-vgse/qed-network/)) Jamboree, University of Vienna, Vienna, Austria.
 
-- 31st ITS European Regional Conference, Chalmers University of Technology, Goteborg, Sweden.
+- [31st ITS European Regional Conference](https://itseurope.org/2022/), Chalmers University of Technology, Goteborg, Sweden.
 
 - EADI conference, AFD, Paris, France.
 
