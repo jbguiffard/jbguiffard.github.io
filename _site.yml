@@ -2,10 +2,10 @@ name: "R Markdown Websites Tutorial"
 navbar:
   title: "HOME"
   left:
-    - text: "Research"
-      href: research.html
     - text: "Short Vitae"
       href: short-vitae.html
+    - text: "Research"
+      href: research.html
     - text: "Conferences"
       href: conferences.html
 

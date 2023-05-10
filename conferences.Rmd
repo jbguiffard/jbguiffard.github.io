@@ -1,8 +1,34 @@
 ---
-title: "Conferences"
+title: "Conferences and Seminars"
 output:
   html_document:
     fig_width: 1
 ---
 
+----
+
+2023:
+
+- 51st Research Conference on Communications, Information, and Internet Policy, Washington, USA. *Scheduled*
+
+- 7th Nordic Development Research Conference, Uppsala University, Uppsala, Sweden. *Scheduled*
+
+- 32nd ITS European Conference, UNED, Madrid, Spain. *Scheduled*
+
+- 71st Congress of the French Economic Association (AFSE), SciencesPo, Paris, France. *Scheduled*
+
+- 1st Welfare & Policy Conference, BSE, Bordeaux, France.
+
+- 18th Doctorissimes PhD Conference, CES, Paris, France.
+
+
+2022:
+
+- Young Economist Seminar, Telecom-Paris, Palaiseau, France.
+
+- 25th QED (Quantative Economics Doctorate Network) Jamboree, University of Vienna, Vienna, Austria.
+
+- 31st ITS European Regional Conference, Chalmers University of Technology, Goteborg, Sweden.
+
+- EADI conference, AFD, Paris, France.
 
