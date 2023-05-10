@@ -95,50 +95,39 @@ Santiago Núñez-Regueiro présentera une réflexion sur les matériaux et techn
 - **Thursday, February, 17th 2022 (17h30-18h30)** : Quentin Chapus (INRAE)
 
 
-- **Thursday, Februrary, 24th 2022 (17h30-18h30)** : Jean-Baptiste Guiffard (UMR D&S)
-*Web scraper et représenter des réseaux de chercheurs (I)*
+- **Thursday, Februrary, 24th 2022 (17h30-18h30)** : Jean-Baptiste Guiffard (UMR D&S) - *Web scraper et représenter des réseaux de chercheurs (I)*
 
-- **Thursday, March, 10th 2022 (17h30-18h30)** : Jean-Baptiste Guiffard (UMR D&S)
-*Web scraper et représenter des réseaux de chercheurs (II)*
+- **Thursday, March, 10th 2022 (17h30-18h30)** : Jean-Baptiste Guiffard (UMR D&S) - *Web scraper et représenter des réseaux de chercheurs (II)*
 
 **Découvrir R**
 
-- **Thursday, March, 17th 2022 (17h30-18h30)** : Antoine Castet (UMR D&S) et Jean-Baptiste Guiffard (UMR D&S)
-*Les bases du langage (langage de base et Dplyr)*
+- **Thursday, March, 17th 2022 (17h30-18h30)** : Antoine Castet (UMR D&S) et Jean-Baptiste Guiffard (UMR D&S) - *Les bases du langage (langage de base et Dplyr)*
 
-- **Thursday, March, 24th 2022 (17h30-18h30)** : Antoine Castet (UMR D&S) et Jean-Baptiste Guiffard (UMR D&S)
-*Représentations graphiques et tableaux de statistiques*
+- **Thursday, March, 24th 2022 (17h30-18h30)** : Antoine Castet (UMR D&S) et Jean-Baptiste Guiffard (UMR D&S) - *Représentations graphiques et tableaux de statistiques*
 
 
-- **Thursday, April, 7th 2022 (17h30-18h30)** : Antoine Castet (UMR D&S) et Jean-Baptiste Guiffard (UMR D&S)
-*Introduction à Rmarkdown*
+- **Thursday, April, 7th 2022 (17h30-18h30)** : Antoine Castet (UMR D&S) et Jean-Baptiste Guiffard (UMR D&S) - *Introduction à Rmarkdown*
 
 
 **Des données en cartes**
 
-- **Thursday, April, 21th 2022 (17h30-18h30)** : Karine Marazyan (UMR D&S), Antoine Castet (UMR D&S) et Jean-Baptiste Guiffard (UMR D&S)
-*L'usage des cartes dans des travaux de recherche en économie*
+- **Thursday, April, 21th 2022 (17h30-18h30)** : Karine Marazyan (UMR D&S), Antoine Castet (UMR D&S) et Jean-Baptiste Guiffard (UMR D&S) - *L'usage des cartes dans des travaux de recherche en économie*
 
 
-- **Thursday, May, 5th 2022 (17h30-18h30)** : Antoine Castet (UMR D&S) et Jean-Baptiste Guiffard (UMR D&S)
-*Aperçu des bases et méthodes d’extraction*
+- **Thursday, May, 5th 2022 (17h30-18h30)** : Antoine Castet (UMR D&S) et Jean-Baptiste Guiffard (UMR D&S) - *Aperçu des bases et méthodes d’extraction*
 
 
-- **Thursday, May, 12th 2022 (17h30-18h30)** : Antoine Castet (UMR D&S) 
-*Une application avec Qgis*
+- **Thursday, May, 12th 2022 (17h30-18h30)** : Antoine Castet (UMR D&S) - *Une application avec Qgis*
 
 **Lexicographie**
 
 
-- **Thursday, May, 26th 2022 (17h30-18h30)** : Karine Marazyan (UMR D&S)
-*Les enseignements des données d'archives judiciaires au Sénégal*
+- **Thursday, May, 26th 2022 (17h30-18h30)** : Karine Marazyan (UMR D&S) - *Les enseignements des données d'archives judiciaires au Sénégal*
 
-- **Thursday, June, 9th 2022 (17h30-18h30)** : Tania Angeloff (UMR D&S)
-*Les enseignements d'une correspondance intime en Chine sous l'ère Mao*
+- **Thursday, June, 9th 2022 (17h30-18h30)** : Tania Angeloff (UMR D&S) - *Les enseignements d'une correspondance intime en Chine sous l'ère Mao*
 
 **Epigénétique**
 
-- **Thursday, June, 30th 2022 (15h-16h)** : Raphaëlle Chaix (CNRS, MNHN) et Frédéric Bourdier (IRD, UMR D&S) 
-*Epigender : « Influence des normes de genre sur les marqueurs épigénétiques de santé »*
+- **Thursday, June, 30th 2022 (15h-16h)** : Raphaëlle Chaix (CNRS, MNHN) et Frédéric Bourdier (IRD, UMR D&S) - *Epigender : « Influence des normes de genre sur les marqueurs épigénétiques de santé »*
 
 Référence bibliographique : CHAIX Raphaëlle et al., 2020 — Structures sociales et structures génétiques dans les populations humaines. BMSAP. Vol. 31, 1-2, p. 18-23. 10.3166/bmsap-2020-0071
