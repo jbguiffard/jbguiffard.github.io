@@ -1,6 +1,6 @@
-name: "R Markdown Websites Tutorial"
+name: "Jean-Baptiste Guiffard"
 navbar:
-  title: "HOME"
+  title: "Jean-Baptiste Guiffard"
   left:
     - text: "Short Vitae"
       href: short-vitae.html
