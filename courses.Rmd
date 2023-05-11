@@ -9,7 +9,7 @@ output:
 
 **Data and Climate**
 
-Dans l'objectif de se familiariser avec les enjeux climatiques et de comprendre la construction des indicateurs de développement durables, ce cours propose: 
+To become familiar with climate issues and to understand the construction of sustainable development indicators, this course proposes: 
 
 1. Intensive training in R software 
 
