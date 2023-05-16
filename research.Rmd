@@ -7,7 +7,7 @@ output:
 
 ----
 
-**Measuring the consumer's valuation of High-Speed Internet: The Impact of FTTH deployment on the House Market in France** - [Poster](https://drive.google.com/file/d/1x76zrmE8Y2Kmscs9NlPeEx4qsr-0wEvX/view?usp=drivesdk)
+**Measuring the consumer's valuation of High-Speed Internet: The Impact of FTTH deployment on the House Market in France** - [Poster](https://jeanbaptisteguiffard.github.io/mywebsite/Poster_Doctorissimes_Guiffard_2023.pdf)
 
 This paper examines the value that households place on broadband internet access, explicitly focusing on the impact of eligibility for Fiber to the Home (FTTH) technology on property prices. Using a Spatial Discontinuity Design based on the border of fiber eligibility zones which have significantly expanded under France's Plan Très Haut-Débit, I find that FTTH eligibility is a significant determinant of home prices, with an average increase of 1.8 percent. These findings highlight the growing importance of fast and reliable Internet access for households and have important implications for policymakers and Internet service providers.
 
