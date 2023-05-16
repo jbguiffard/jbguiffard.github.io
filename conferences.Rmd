@@ -7,6 +7,9 @@ output:
 
 ----
 
+
+<img src="images/tunisie_photo_1.jpg" align="right" width="400px"/>
+
 2023:
 
 - [51st Research Conference on Communications, Information, and Internet Policy](http://www.tprcweb.com/overview-2023), Washington, USA. *Scheduled*
@@ -31,4 +34,9 @@ output:
 - [31st ITS European Regional Conference](https://itseurope.org/2022/), Chalmers University of Technology, Goteborg, Sweden.
 
 - EADI conference, AFD, Paris, France.
+
+<br clear="left"/>
+
+
+
 

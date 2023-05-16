@@ -5,10 +5,15 @@ output:
     fig_width: 1
 ---
 
+
+![](images/campus_IEDES.jpg){ width=100%}
+
 ----
 
 
 **Methodological seminar of the UMR Development & Societies - "Au tour de nos matériaux"**
+
+
 
 Seminar open to members of the UMR D&S (PhD students, teacher-researchers and associate researchers), IEDES students and external persons wishing to attend, which aims to:  
 
@@ -25,16 +30,17 @@ To attend the seminar remotely, here is a Zoom link:
 - Code secret : 378733
 
 
+Contacts :  [antoine.castet@univ-paris1.fr](antoine.castet@univ-paris1.fr) ; [jeanbaptiste.guiffard@univ-paris1.fr](jeanbaptiste.guiffard@univ-paris1.fr) ; [karine.marazyan@univ-paris1.fr](karine.marazyan@univ-paris1.fr)
+
 ----
 
 
 **2022-2023 (Second Edition)**
 
 
-- **Thursday, November, 10th 2022 (17h30-18h30)** : Ania Tizziani (CONICET, UNGS, Buenos Aires)
+- **Thursday, November, 10th 2022 (17h30-18h30)** : [Ania Tizziani](https://feminisationlabour.wordpress.com/members/dr-ania-tizziani-conicet/) (CONICET, UNGS, Buenos Aires)
 
 *Le travail de contextualisation dans l'analyse des métiers et des professions*
-
 
 Cette présentation est basée sur une étude qui vise à explorer les trajectoires socio-professionnelles des balayeurs des rues à Buenos Aires, dans le cadre d'une recherche plus vaste dont l'objectif est de comparer différents métiers (« féminins » et « masculins ») du nettoyage. L'analyse des différents matériaux mobilisés au cours de l'enquête suggère qu'il s'agit d'une catégorie de travailleurs au statut particulièrement ambigu. La caractérisation de leurs conditions de travail, à l'aide des données statistiques, situe ces salariés (qui ont accès à des emplois protégés et des salaires relativement élevés) comme une catégorie privilégiée au sein des métiers du nettoyage. L'analyse de la législation qui régule l'activité (la convention collective négociée par la puissante fédération nationale du transport routier et services annexes), fait apparaître en revanche le métier des balayeurs comme l'un des moins qualifiés et reconnus parmi l'ensemble des catégories comprises dans cette norme. Les données qualitatives obtenues pendant l'enquête de terrain (entretiens approfondis et observations) suggèrent que dans les interactions établies au cours des pratiques quotidiennes de travail dans la rue, ces travailleurs sont confrontés à l'invisibilité et au « sale boulot ». Ces matériaux hétérogènes resituent cette catégorie de travailleurs dans différents systèmes de relations sociales et configurent à chaque fois une division du travail spécifique, aux limites variables. Ces ambiguïtés soulignent l'importance du travail de contextualisation dans l'analyse des métiers, proposé par les approches interactionnistes et les études d'Everett Hughes, qui consiste à reconstruire les matrices sociales dans lesquelles ils s'insèrent, des matrices qui ne se réduisent pas aux cadres institutionnels, mais comprennent aussi des ramifications diverses et fluctuantes. L'objectif de cette présentation est de réfléchir à ce travail de contextualisation impliqué dans l'analyse de ces différents matériaux et à ses implications dans la définition de la problématique de la recherche.
 
@@ -71,7 +77,7 @@ Le collectif Labo1point5 a pour objectif de mesurer l'empreinte carbone de la re
 Dans ce séminaire, nous nous interrogerons sur la dimension politique des indicateurs, qui, au-delà de leur nature technique, sont des cadres représentatifs et interprétatifs du monde, porteurs de sens, et en cela source de changement comportemental. Nous reviendrons sur l’historique des nouveaux indicateurs de richesse en France, autour des réflexions sur les limites du Produit Intérieur Brut (PIB) comme principal indicateur de la richesse de nos sociétés. Nous verrons quels rôles peuvent avoir les indicateurs pour la transition socio-écologique des territoires, en prenant l’exemple du travail de thèse mené à l’Université de Lille et à la Ville de Paris sur la définition d’indicateurs de soutenabilité pour le territoire parisien. 
 
 
-- **Thursday, April, 13th 2023** : [Santiago Núñez-Regueiro](https://dial.ird.fr/membres/chercheurs-affilies/nunez-regueiro-santiago/)  (Ellyx, CRIISEA (UPJV) et de DIAL (IRD-Paris-Dauphine))
+- **Friday, April, 14th 2023** : [Santiago Núñez-Regueiro](https://dial.ird.fr/membres/chercheurs-affilies/nunez-regueiro-santiago/)  (Ellyx, CRIISEA (UPJV) et de DIAL (IRD-Paris-Dauphine))
 
 *Croissance et concurrence : dynamiques institutionnelles des ONG d'aide internationale*
 
@@ -89,45 +95,45 @@ Santiago Núñez-Regueiro présentera une réflexion sur les matériaux et techn
 
 **Représenter les espaces de circulation et les réseaux**
 
-- **Thursday, February, 3rd 2022 (17h30-18h30)** : Gaëlle Gillot (UMR D&S, IEDES)
+- **Thursday, February, 3rd 2022 (17h30-18h30)** : [Gaëlle Gillot](https://www.pantheonsorbonne.fr/page-perso/ggillot) (UMR D&S, IEDES)
 
 
-- **Thursday, February, 17th 2022 (17h30-18h30)** : Quentin Chapus (INRAE)
+- **Thursday, February, 17th 2022 (17h30-18h30)** : [Quentin Chapus](https://www.lam.sciencespobordeaux.fr/membre/quentin-chapus/) (INRAE)
 
 
-- **Thursday, Februrary, 24th 2022 (17h30-18h30)** : Jean-Baptiste Guiffard (UMR D&S) - *Web scraper et représenter des réseaux de chercheurs (I)*
+- **Thursday, Februrary, 24th 2022 (17h30-18h30)** : [Jean-Baptiste Guiffard](https://jeanbaptisteguiffard.github.io/) (UMR D&S) - *Web scraper et représenter des réseaux de chercheurs (I)*
 
-- **Thursday, March, 10th 2022 (17h30-18h30)** : Jean-Baptiste Guiffard (UMR D&S) - *Web scraper et représenter des réseaux de chercheurs (II)*
+- **Thursday, March, 10th 2022 (17h30-18h30)** : [Jean-Baptiste Guiffard](https://jeanbaptisteguiffard.github.io/) (UMR D&S) - *Web scraper et représenter des réseaux de chercheurs (II)*
 
 **Découvrir R**
 
-- **Thursday, March, 17th 2022 (17h30-18h30)** : Antoine Castet (UMR D&S) et Jean-Baptiste Guiffard (UMR D&S) - *Les bases du langage (langage de base et Dplyr)*
+- **Thursday, March, 17th 2022 (17h30-18h30)** : [Antoine Castet](https://sites.google.com/view/antoinecastet/accueil) (UMR D&S) et [Jean-Baptiste Guiffard](https://jeanbaptisteguiffard.github.io/) (UMR D&S) - *Les bases du langage (langage de base et Dplyr)*
 
-- **Thursday, March, 24th 2022 (17h30-18h30)** : Antoine Castet (UMR D&S) et Jean-Baptiste Guiffard (UMR D&S) - *Représentations graphiques et tableaux de statistiques*
+- **Thursday, March, 24th 2022 (17h30-18h30)** : [Antoine Castet](https://sites.google.com/view/antoinecastet/accueil) (UMR D&S) et [Jean-Baptiste Guiffard](https://jeanbaptisteguiffard.github.io/) (UMR D&S) - *Représentations graphiques et tableaux de statistiques*
 
 
-- **Thursday, April, 7th 2022 (17h30-18h30)** : Antoine Castet (UMR D&S) et Jean-Baptiste Guiffard (UMR D&S) - *Introduction à Rmarkdown*
+- **Thursday, April, 7th 2022 (17h30-18h30)** : [Antoine Castet](https://sites.google.com/view/antoinecastet/accueil) (UMR D&S) et [Jean-Baptiste Guiffard](https://jeanbaptisteguiffard.github.io/) (UMR D&S) - *Introduction à Rmarkdown*
 
 
 **Des données en cartes**
 
-- **Thursday, April, 21th 2022 (17h30-18h30)** : Karine Marazyan (UMR D&S), Antoine Castet (UMR D&S) et Jean-Baptiste Guiffard (UMR D&S) - *L'usage des cartes dans des travaux de recherche en économie*
+- **Thursday, April, 21th 2022 (17h30-18h30)** : [Karine Marazyan](https://sites.google.com/site/karinemarazyan/index) (UMR D&S), [Antoine Castet](https://sites.google.com/view/antoinecastet/accueil) (UMR D&S) et [Jean-Baptiste Guiffard](https://jeanbaptisteguiffard.github.io/) (UMR D&S) - *L'usage des cartes dans des travaux de recherche en économie*
 
 
-- **Thursday, May, 5th 2022 (17h30-18h30)** : Antoine Castet (UMR D&S) et Jean-Baptiste Guiffard (UMR D&S) - *Aperçu des bases et méthodes d’extraction*
+- **Thursday, May, 5th 2022 (17h30-18h30)** : [Antoine Castet](https://sites.google.com/view/antoinecastet/accueil) (UMR D&S) et [Jean-Baptiste Guiffard](https://jeanbaptisteguiffard.github.io/) (UMR D&S) - *Aperçu des bases et méthodes d’extraction*
 
 
-- **Thursday, May, 12th 2022 (17h30-18h30)** : Antoine Castet (UMR D&S) - *Une application avec Qgis*
+- **Thursday, May, 12th 2022 (17h30-18h30)** : [Antoine Castet](https://sites.google.com/view/antoinecastet/accueil) (UMR D&S) - *Une application avec Qgis*
 
 **Lexicographie**
 
 
-- **Thursday, May, 26th 2022 (17h30-18h30)** : Karine Marazyan (UMR D&S) - *Les enseignements des données d'archives judiciaires au Sénégal*
+- **Thursday, May, 26th 2022 (17h30-18h30)** : [Karine Marazyan](https://sites.google.com/site/karinemarazyan/index) (UMR D&S) - *Les enseignements des données d'archives judiciaires au Sénégal*
 
-- **Thursday, June, 9th 2022 (17h30-18h30)** : Tania Angeloff (UMR D&S) - *Les enseignements d'une correspondance intime en Chine sous l'ère Mao*
+- **Thursday, June, 9th 2022 (17h30-18h30)** : [Tania Angeloff](https://www.travail-genre-societes.com/comite-de-redaction/tania-angeloff/) (UMR D&S) - *Les enseignements d'une correspondance intime en Chine sous l'ère Mao*
 
 **Epigénétique**
 
-- **Thursday, June, 30th 2022 (15h-16h)** : Raphaëlle Chaix (CNRS, MNHN) et Frédéric Bourdier (IRD, UMR D&S) - *Epigender : « Influence des normes de genre sur les marqueurs épigénétiques de santé »*
+- **Thursday, June, 30th 2022 (15h-16h)** : [Raphaëlle Chaix](https://www.ecoanthropologie.fr/fr/annuaire/chaix-raphaelle-6056) (CNRS, MNHN) et [Frédéric Bourdier](https://umr-devsoc.pantheonsorbonne.fr/bourdier-frederic) (IRD, UMR D&S) - *Epigender : « Influence des normes de genre sur les marqueurs épigénétiques de santé »*
 
 Référence bibliographique : CHAIX Raphaëlle et al., 2020 — Structures sociales et structures génétiques dans les populations humaines. BMSAP. Vol. 31, 1-2, p. 18-23. 10.3166/bmsap-2020-0071
