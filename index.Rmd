@@ -8,9 +8,8 @@ output:
 
 
 
-![](images/profil_image.jpg){ width=100%}
+<img src="images/profil_image_vertical.jpg" align="right" width="350px"/>
 
-----
 
 **About me**
 
@@ -20,8 +19,9 @@ My research interests are in digital economics, with a particular focus on devel
 
 Thank you for visiting my website and learning more about my research interests. I look forward to sharing my findings with you in the future.
 
-[![](images/Logo_Twitter.webp){width=10%}](https://twitter.com/JBGuiffard)
-[![](images/logo-linkedin.png){width=10%}](https://www.linkedin.com/in/jean-baptiste-guiffard-b7063090/)
+
+<br clear="left"/>
+
 
 
 ----
@@ -34,3 +34,6 @@ Workplace: 45 bis Avenue de la Belle Gabrielle, 94130, Nogent-sur-Marne, France
 Phone number: +33 6 87 96 61 05
 
 Email:  jean-baptiste.guiffard@univ-paris1.fr
+
+[![](images/Logo_Twitter.webp){width=8%}](https://twitter.com/JBGuiffard)
+[![](images/logo-linkedin.png){width=8%}](https://www.linkedin.com/in/jean-baptiste-guiffard-b7063090/)

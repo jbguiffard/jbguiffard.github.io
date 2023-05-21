@@ -61,6 +61,8 @@ Lessons:
 
 **Ressources**
 
+![](images/2_packages_tidyverse.png){ width=50%}
+
 - [Cheatsheet Base R](courses/ressources/R/Cheatsheet_BASE_R.pdf)
 
 - [Cheatsheet DPLYR and TIDYR R](courses/ressources/R/Cheatsheet_DPLYR_TIDYR_R.pdf)
