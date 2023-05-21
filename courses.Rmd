@@ -61,4 +61,9 @@ Lessons:
 
 **Ressources**
 
-R Cheatsheets 
+- Cheatsheet Base R 
+
+- Cheatsheet DPLYR and TIDYR R 
+
+- Cheatsheet GGPLOT R 
+
