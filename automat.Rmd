@@ -15,10 +15,10 @@ output:
 
 <img src="images/pavillon_Indochine.jpg" align="right" width="400px"/>
 
-**Methodological seminar of the UMR Development & Societies - "Au tour de nos matériaux"**
+**Séminaire AuToMat ("Au tour de nos matériaux")**
 
 
-Seminar open to members of the UMR D&S (PhD students, teacher-researchers and associate researchers), IEDES students and external persons wishing to attend, which aims to:  
+Methodological seminar open to members of the UMR Development & Societies (PhD students, teacher-researchers and associate researchers), IEDES students and external persons wishing to attend, which aims to:  
 
 - Stimulate interdisciplinary exchanges by starting from our research materials and our tools to represent / analyze them. 
 
@@ -106,6 +106,11 @@ Santiago Núñez-Regueiro présentera une réflexion sur les matériaux et techn
 
 - **Thursday, May, 25th 2023** : [Benoit Toulouse](https://etudes-africaines.cnrs.fr/annuaire-des-chercheurs/benoit-toulouse/) (Formateur indépendant en SIG et intervenant à l'université Paris1-IEDES)
 
+*Méthode textométrique pour l’analyse des entretiens*
+
+- **Friday, June, 23rd 2023** : [Sylvie Capitant](https://www.pantheonsorbonne.fr/page-perso/scapitant) (UMR Développement & Sociétés)
+
+*Méthodologie participative de recherche*
 
 
 ----
