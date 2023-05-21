@@ -6,13 +6,16 @@ output:
 ---
 
 
-![](images/campus_IEDES.jpg){ width=100%}
+
+
 
 ----
 
 
-**Methodological seminar of the UMR Development & Societies - "Au tour de nos matériaux"**
 
+<img src="images/pavillon_Indochine.jpg" align="right" width="400px"/>
+
+**Methodological seminar of the UMR Development & Societies - "Au tour de nos matériaux"**
 
 
 Seminar open to members of the UMR D&S (PhD students, teacher-researchers and associate researchers), IEDES students and external persons wishing to attend, which aims to:  
@@ -31,6 +34,22 @@ To attend the seminar remotely, here is a Zoom link:
 
 
 Contacts :  [antoine.castet@univ-paris1.fr](antoine.castet@univ-paris1.fr) ; [jeanbaptiste.guiffard@univ-paris1.fr](jeanbaptiste.guiffard@univ-paris1.fr) ; [karine.marazyan@univ-paris1.fr](karine.marazyan@univ-paris1.fr)
+
+
+----
+
+Next Session: **Thursday, May, 25th 2023** : [Benoit Toulouse](https://etudes-africaines.cnrs.fr/annuaire-des-chercheurs/benoit-toulouse/) (Formateur indépendant en SIG et intervenant à l'université Paris1-IEDES)
+
+*Méthode textométrique pour l’analyse des entretiens*
+
+
+
+
+<br clear="left"/>
+
+
+
+
 
 ----
 

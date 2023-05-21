@@ -55,3 +55,10 @@ Lessons:
 - Heteroscedasticity
 
 - Non-linear models
+
+
+----
+
+**Ressources**
+
+R Cheatsheets 
