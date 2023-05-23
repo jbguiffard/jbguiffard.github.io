@@ -33,7 +33,7 @@ knitr::include_graphics("images/coef_plot_backbone.jpg")
 
 ----
 
-**Welfare Cost of Mobile Spectrum (Mis)allocation** (with Marc Ivaldi, Julienne Liang and Louise Aïmène) - [Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4228058)
+**Welfare Cost of Mobile Spectrum (Mis)allocation** (with Marc Ivaldi, Julienne Liang and Louise Aïmène) - [Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4228058) (Submitted)
 
 The conditions of spectrum allocation or reallocation are significant in determining the market structure in the telecom sector which in turn affects the prices and the quality of mobile networks. In a more concentrated market, the quantity of spectrum is less diluted, and operators can offer higher quality to their customers; In a more competitive market, where there are more operators, consumers can benefit from a lower price but at the expense of less spectrum for each operator. To address this trade-off, we first fit a demand model of mobile telecommunications services on a unique panel database for 23 MNOs of five major European countries from 2004Q3 to 2021Q4. Notably, we provide an adequate proxy of the mobile network quality for consumers by combining coverage data with spectrum data. Using this estimated demand model, we conduct a counterfactual simulation to measure the effect on consumer surplus of the incomplete spectrum allocation and the arrival of an additional operator in Germany. Results show that reallocating additional spectrum to three instead of four operators is consumer welfare improving as prices do not increase much while quality is significantly improved.
 
@@ -44,8 +44,12 @@ knitr::include_graphics("images/simulation_mno_germany.jpg")
 ```
 
 
+<!---
 ----
 
 **The Relationship between License Duration and Telecom Investment in Africa and the Middle East: an Econometric Analysis** 
 
 This research project links investment in the telecommunications sector and one of the terms of the regulatory framework for this sector, the mobile licence duration in African and Middle-eastern countries. Using World Cellular Information Service and Worldwide Governance Indicators data, we were able to build a database combining the amount of CAPEX per capita with the license duration (the average duration of all active licenses) adding governance quality indicators for 13 developing countries in Africa and the Middle East over a 9-year period. Based on an OLS estimate, we found that the licence duration has a positive effect on investment provided that the political stability of the country is above a certain threshold.
+
+--->
+
