@@ -97,7 +97,7 @@ Le collectif Labo1point5 a pour objectif de mesurer l'empreinte carbone de la re
 Dans ce séminaire, nous nous interrogerons sur la dimension politique des indicateurs, qui, au-delà de leur nature technique, sont des cadres représentatifs et interprétatifs du monde, porteurs de sens, et en cela source de changement comportemental. Nous reviendrons sur l’historique des nouveaux indicateurs de richesse en France, autour des réflexions sur les limites du Produit Intérieur Brut (PIB) comme principal indicateur de la richesse de nos sociétés. Nous verrons quels rôles peuvent avoir les indicateurs pour la transition socio-écologique des territoires, en prenant l’exemple du travail de thèse mené à l’Université de Lille et à la Ville de Paris sur la définition d’indicateurs de soutenabilité pour le territoire parisien. 
 
 
-- **Vendredi 24 avril 2023** : [Santiago Núñez-Regueiro](https://dial.ird.fr/membres/chercheurs-affilies/nunez-regueiro-santiago/)  (Ellyx, CRIISEA (UPJV) et de DIAL (IRD-Paris-Dauphine)) - [Enregistrement]()
+- **Vendredi 24 avril 2023** : [Santiago Núñez-Regueiro](https://dial.ird.fr/membres/chercheurs-affilies/nunez-regueiro-santiago/)  (Ellyx, CRIISEA (UPJV) et de DIAL (IRD-Paris-Dauphine)) - [Enregistrement](https://youtu.be/ZUXO33oAGpI)
 
 *Croissance et concurrence : dynamiques institutionnelles des ONG d'aide internationale*
 
@@ -105,7 +105,7 @@ Dans ce séminaire, nous nous interrogerons sur la dimension politique des indic
 Santiago Núñez-Regueiro présentera une réflexion sur les matériaux et techniques utilisés lors de sa thèse « Croissance et concurrence : dynamiques institutionnelles des ONG d’aide internationale. », soutenue en 2022. La thèse a mobilisé des techniques quantitatives (extraction et fouille de données, analyses statistiques et de réseaux) comme des contenus empiriques originaux (entretiens individuels et collectifs, participation observante) par l’accès privilégié à des données et des terrains rarement accessibles. La présentation reviendra sur les enjeux d’une recherche par une méthodologie mixte, permettant une étude de la problématique d’industrialisation des ONG d’aide internationale à différents niveaux. Elle montrera comment l’analyse éclaire, par des apports interdisciplinaires, les jeux d’acteurs dans le secteur et les processus socio- économiques, institutionnels et normatifs dans lesquels ils s’inscrivent. A travers des données et méthodes originales, et une mise en discussion des trois niveaux d’analyse proposés, la thèse offre une réflexion renouvelée sur les ONG d’aide internationale, et des pistes à explorer, pour les chercheurs comme pour les praticiens. 
 
 
-- **Jeudi 25 mai 2023** : [Benoit Toulouse](https://etudes-africaines.cnrs.fr/annuaire-des-chercheurs/benoit-toulouse/) (Formateur indépendant en SIG et intervenant à l'université Paris1-IEDES) - [Enregistrement]()
+- **Jeudi 25 mai 2023** : [Benoit Toulouse](https://etudes-africaines.cnrs.fr/annuaire-des-chercheurs/benoit-toulouse/) (Formateur indépendant en SIG et intervenant à l'université Paris1-IEDES) - [Enregistrement](https://youtu.be/TFQD50Dd9gQ)
 
 *Méthode textométrique pour l’analyse des entretiens*
 
