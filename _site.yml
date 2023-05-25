@@ -8,7 +8,7 @@ navbar:
       href: research.html
     - text: "Conferences"
       href: conferences.html
-    - text: "AuToMat Seminar"
+    - text: "Séminaire AuToMat"
       href: automat.html
 
 output_dir: "."
