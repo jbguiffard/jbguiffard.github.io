@@ -73,7 +73,7 @@ Cette présentation est basée sur une étude qui vise à explorer les trajectoi
 Comment les pays articulent-ils leurs stratégies de développement avec leurs engagements de réduction des émissions de gaz à effet de serre à court et moyen terme ? Les trajectoires de développement proposées peuvent-elles correspondre aux objectifs climatiques à l’échelle mondiale ? En intégrant cette dimension aux réflexions sur l’équité, dans quelle mesure les engagements des pays dans le cadre de l’Accord de Paris sont-ils « justes » ? Il s’agit là du fil directeur de mes travaux de thèse, qui font appel à différentes méthodes et littératures en lien avec l’analyse de données et la modélisation prospective en économie. L’objectif général de ce projet est d’étendre la vision climato-centrée de la coopération internationale en matière de climat à une vision intégrant les priorités de développement. Lors de cette session du séminaire AuToMat, deux articles en lien avec des collectes originales de données seront présentés : (i) une cartographie des priorités de développement nationales avec pour prisme le cadre des Objectifs de Développement Durable (ODD) et permettant de discuter sa pertinence pour penser les aspirations nationales, et (ii) un sondage puisant dans les méthodes du choix social empirique avec pour objectif d’observer les jugements de citoyens français et américains sur l’équité, en lien avec différents principes de justice climatique internationale.
 
 
-- **Jeudi 5 janvier 2023 (17h30-18h30)** : [Thomas Pernet-Coudrier](https://fr.linkedin.com/in/thomaspernet) (CES, BPIFrance) - [Enregistrement]()
+- **Jeudi 5 janvier 2023 (17h30-18h30)** : [Thomas Pernet-Coudrier](https://fr.linkedin.com/in/thomaspernet) (CES, BPIFrance) - [Enregistrement](https://youtu.be/-x2FakRD2Wo)
 
 *Evaluer la prise en compte des risques climatiques par les entreprises*
 
@@ -81,7 +81,7 @@ Comment les pays articulent-ils leurs stratégies de développement avec leurs e
 La prise en compte des risques climatiques et environnementaux devient une obligation (sociétale et réglementaire) pour les établissements de crédit dans leur conduite courante. De nombreuses études ont été réalisées pour recenser les risques climatiques, mais aucune n'a pour le moment été établie au niveau sectoriel. Disposer des référentiels les plus riches possibles devient un enjeu très fort. Dans cette étude, il s'agit d'utiliser les rapports annuels des entreprises cotées aux USA au format standardisé de la SEC pour extraire des informations sur les risques perçus par les entreprises concernant le climat et permettre de constituer une bibliothèque très riche des risques et vulnérabilités que chaque entreprise identifie par rapport au climat. L'utilisation de techniques de NLP (transfomers) a permis de collecter puis d'extraire les risques climatiques mentionnés dans les rapports.  
 
 
-- **Jeudi 9 février 2023** : [Maxime Debret](https://www.researchgate.net/profile/Maxime-Debret) (Université de Rouen, Membre du collectif Labos1point5) - [Enregistrement]()
+- **Jeudi 9 février 2023** : [Maxime Debret](https://www.researchgate.net/profile/Maxime-Debret) (Université de Rouen, Membre du collectif Labos1point5) - [Enregistrement](https://youtu.be/sQUHAayoq7A)
 
 *Mesurer l'empreinte carbone d'un laboratoire de recherche*
 
@@ -89,7 +89,7 @@ La prise en compte des risques climatiques et environnementaux devient une oblig
 Le collectif Labo1point5 a pour objectif de mesurer l'empreinte carbone de la recherche française, mais aussi de nourrir les réflexions autour de la réduction de son impact climat et environnemental. En plus de présenter les initiatives du collectif Labo1point5, Maxime Debret nous présentera particulièrement les méthodes utilisées afin de mesurer l'empreinte carbone d'un laboratoire de recherche. 
 
 
-- **Vendredi 24 mars 2023** : [Chloé Desplechin](https://fr.linkedin.com/in/chloé-desplechin-0728bb143) (Université de Lille, Ville de Paris) - [Enregistrement]()
+- **Vendredi 24 mars 2023** : [Chloé Desplechin](https://fr.linkedin.com/in/chloé-desplechin-0728bb143) (Université de Lille, Ville de Paris) - [Enregistrement](https://youtu.be/cx5Tt_5wrzI)
 
 *Réflexion autour de la notion d'indicateurs de Développement Durable*
 

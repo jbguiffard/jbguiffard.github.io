@@ -36,6 +36,7 @@ Phone number: +33 6 87 96 61 05
 Email:  jean-baptiste.guiffard@univ-paris1.fr
 
 [![](images/Logo_Twitter.webp){width=8%}](https://twitter.com/JBGuiffard)
+[![](images/logo-mastodon.png){width=8%}](https://econtwitter.net/@jbguiffard)
 [![](images/logo-linkedin.png){width=8%}](https://www.linkedin.com/in/jean-baptiste-guiffard-b7063090/)
 
 
