@@ -1,5 +1,5 @@
 ---
-title: "AuToMat Seminar"
+title: "Séminaire AuToMat"
 output:
   html_document:
     fig_width: 1
@@ -38,9 +38,10 @@ Contacts :  [antoine.castet@univ-paris1.fr](antoine.castet@univ-paris1.fr) ; [je
 
 ----
 
-Next Session: **Thursday, May, 25th 2023** : [Benoit Toulouse](https://etudes-africaines.cnrs.fr/annuaire-des-chercheurs/benoit-toulouse/) (Formateur indépendant en SIG et intervenant à l'université Paris1-IEDES)
+Next Session: **Vendredi 23 juin 2023** : [Sylvie Capitant](https://www.pantheonsorbonne.fr/page-perso/scapitant) (UMR Développement & Sociétés)
 
-*Méthode textométrique pour l’analyse des entretiens*
+*Méthodologie participative de recherche*
+
 
 
 
@@ -57,14 +58,14 @@ Next Session: **Thursday, May, 25th 2023** : [Benoit Toulouse](https://etudes-af
 **2022-2023 (Second Edition)**
 
 
-- **Thursday, November, 10th 2022 (17h30-18h30)** : [Ania Tizziani](https://feminisationlabour.wordpress.com/members/dr-ania-tizziani-conicet/) (CONICET, UNGS, Buenos Aires)
+- **Jeudi 10 novembre 2022 (17h30-18h30)** : [Ania Tizziani](https://feminisationlabour.wordpress.com/members/dr-ania-tizziani-conicet/) (CONICET, UNGS, Buenos Aires) - [Enregistrement](https://www.youtube.com/watch?v=3s741WNgK50)
 
 *Le travail de contextualisation dans l'analyse des métiers et des professions*
 
 Cette présentation est basée sur une étude qui vise à explorer les trajectoires socio-professionnelles des balayeurs des rues à Buenos Aires, dans le cadre d'une recherche plus vaste dont l'objectif est de comparer différents métiers (« féminins » et « masculins ») du nettoyage. L'analyse des différents matériaux mobilisés au cours de l'enquête suggère qu'il s'agit d'une catégorie de travailleurs au statut particulièrement ambigu. La caractérisation de leurs conditions de travail, à l'aide des données statistiques, situe ces salariés (qui ont accès à des emplois protégés et des salaires relativement élevés) comme une catégorie privilégiée au sein des métiers du nettoyage. L'analyse de la législation qui régule l'activité (la convention collective négociée par la puissante fédération nationale du transport routier et services annexes), fait apparaître en revanche le métier des balayeurs comme l'un des moins qualifiés et reconnus parmi l'ensemble des catégories comprises dans cette norme. Les données qualitatives obtenues pendant l'enquête de terrain (entretiens approfondis et observations) suggèrent que dans les interactions établies au cours des pratiques quotidiennes de travail dans la rue, ces travailleurs sont confrontés à l'invisibilité et au « sale boulot ». Ces matériaux hétérogènes resituent cette catégorie de travailleurs dans différents systèmes de relations sociales et configurent à chaque fois une division du travail spécifique, aux limites variables. Ces ambiguïtés soulignent l'importance du travail de contextualisation dans l'analyse des métiers, proposé par les approches interactionnistes et les études d'Everett Hughes, qui consiste à reconstruire les matrices sociales dans lesquelles ils s'insèrent, des matrices qui ne se réduisent pas aux cadres institutionnels, mais comprennent aussi des ramifications diverses et fluctuantes. L'objectif de cette présentation est de réfléchir à ce travail de contextualisation impliqué dans l'analyse de ces différents matériaux et à ses implications dans la définition de la problématique de la recherche.
 
 
-- **Thursday, December, 1st 2022 (17h30-18h30)** : [Auriane Meilland](https://www.centre-cired.fr/auriane-meilland/) (CIRED)
+- **Jeudi 1er décembre 2022 (17h30-18h30)** : [Auriane Meilland](https://www.centre-cired.fr/auriane-meilland/) (CIRED) - [Enregistrement](https://youtu.be/_9mJWJy7K_g)
 
 *Articulation entre priorités de développement et objectifs d’atténuation du changement climatique – analyse, modélisation et implications pour la négociation internationale sur le climat*
 
@@ -72,7 +73,7 @@ Cette présentation est basée sur une étude qui vise à explorer les trajectoi
 Comment les pays articulent-ils leurs stratégies de développement avec leurs engagements de réduction des émissions de gaz à effet de serre à court et moyen terme ? Les trajectoires de développement proposées peuvent-elles correspondre aux objectifs climatiques à l’échelle mondiale ? En intégrant cette dimension aux réflexions sur l’équité, dans quelle mesure les engagements des pays dans le cadre de l’Accord de Paris sont-ils « justes » ? Il s’agit là du fil directeur de mes travaux de thèse, qui font appel à différentes méthodes et littératures en lien avec l’analyse de données et la modélisation prospective en économie. L’objectif général de ce projet est d’étendre la vision climato-centrée de la coopération internationale en matière de climat à une vision intégrant les priorités de développement. Lors de cette session du séminaire AuToMat, deux articles en lien avec des collectes originales de données seront présentés : (i) une cartographie des priorités de développement nationales avec pour prisme le cadre des Objectifs de Développement Durable (ODD) et permettant de discuter sa pertinence pour penser les aspirations nationales, et (ii) un sondage puisant dans les méthodes du choix social empirique avec pour objectif d’observer les jugements de citoyens français et américains sur l’équité, en lien avec différents principes de justice climatique internationale.
 
 
-- **Thursday, January, 5th 2023 (17h30-18h30)** : [Thomas Pernet-Coudrier](https://fr.linkedin.com/in/thomaspernet) (CES, BPIFrance)
+- **Jeudi 5 janvier 2023 (17h30-18h30)** : [Thomas Pernet-Coudrier](https://fr.linkedin.com/in/thomaspernet) (CES, BPIFrance) - [Enregistrement]()
 
 *Evaluer la prise en compte des risques climatiques par les entreprises*
 
@@ -80,7 +81,7 @@ Comment les pays articulent-ils leurs stratégies de développement avec leurs e
 La prise en compte des risques climatiques et environnementaux devient une obligation (sociétale et réglementaire) pour les établissements de crédit dans leur conduite courante. De nombreuses études ont été réalisées pour recenser les risques climatiques, mais aucune n'a pour le moment été établie au niveau sectoriel. Disposer des référentiels les plus riches possibles devient un enjeu très fort. Dans cette étude, il s'agit d'utiliser les rapports annuels des entreprises cotées aux USA au format standardisé de la SEC pour extraire des informations sur les risques perçus par les entreprises concernant le climat et permettre de constituer une bibliothèque très riche des risques et vulnérabilités que chaque entreprise identifie par rapport au climat. L'utilisation de techniques de NLP (transfomers) a permis de collecter puis d'extraire les risques climatiques mentionnés dans les rapports.  
 
 
-- **Thursday, February, 9th 2023** : [Maxime Debret](https://www.researchgate.net/profile/Maxime-Debret) (Université de Rouen, Membre du collectif Labos1point5)
+- **Jeudi 9 février 2023** : [Maxime Debret](https://www.researchgate.net/profile/Maxime-Debret) (Université de Rouen, Membre du collectif Labos1point5) - [Enregistrement]()
 
 *Mesurer l'empreinte carbone d'un laboratoire de recherche*
 
@@ -88,7 +89,7 @@ La prise en compte des risques climatiques et environnementaux devient une oblig
 Le collectif Labo1point5 a pour objectif de mesurer l'empreinte carbone de la recherche française, mais aussi de nourrir les réflexions autour de la réduction de son impact climat et environnemental. En plus de présenter les initiatives du collectif Labo1point5, Maxime Debret nous présentera particulièrement les méthodes utilisées afin de mesurer l'empreinte carbone d'un laboratoire de recherche. 
 
 
-- **Friday, March, 24th 2023** : [Chloé Desplechin](https://fr.linkedin.com/in/chloé-desplechin-0728bb143) (Université de Lille, Ville de Paris)
+- **Vendredi 24 mars 2023** : [Chloé Desplechin](https://fr.linkedin.com/in/chloé-desplechin-0728bb143) (Université de Lille, Ville de Paris) - [Enregistrement]()
 
 *Réflexion autour de la notion d'indicateurs de Développement Durable*
 
@@ -96,7 +97,7 @@ Le collectif Labo1point5 a pour objectif de mesurer l'empreinte carbone de la re
 Dans ce séminaire, nous nous interrogerons sur la dimension politique des indicateurs, qui, au-delà de leur nature technique, sont des cadres représentatifs et interprétatifs du monde, porteurs de sens, et en cela source de changement comportemental. Nous reviendrons sur l’historique des nouveaux indicateurs de richesse en France, autour des réflexions sur les limites du Produit Intérieur Brut (PIB) comme principal indicateur de la richesse de nos sociétés. Nous verrons quels rôles peuvent avoir les indicateurs pour la transition socio-écologique des territoires, en prenant l’exemple du travail de thèse mené à l’Université de Lille et à la Ville de Paris sur la définition d’indicateurs de soutenabilité pour le territoire parisien. 
 
 
-- **Friday, April, 14th 2023** : [Santiago Núñez-Regueiro](https://dial.ird.fr/membres/chercheurs-affilies/nunez-regueiro-santiago/)  (Ellyx, CRIISEA (UPJV) et de DIAL (IRD-Paris-Dauphine))
+- **Vendredi 24 avril 2023** : [Santiago Núñez-Regueiro](https://dial.ird.fr/membres/chercheurs-affilies/nunez-regueiro-santiago/)  (Ellyx, CRIISEA (UPJV) et de DIAL (IRD-Paris-Dauphine)) - [Enregistrement]()
 
 *Croissance et concurrence : dynamiques institutionnelles des ONG d'aide internationale*
 
@@ -104,11 +105,11 @@ Dans ce séminaire, nous nous interrogerons sur la dimension politique des indic
 Santiago Núñez-Regueiro présentera une réflexion sur les matériaux et techniques utilisés lors de sa thèse « Croissance et concurrence : dynamiques institutionnelles des ONG d’aide internationale. », soutenue en 2022. La thèse a mobilisé des techniques quantitatives (extraction et fouille de données, analyses statistiques et de réseaux) comme des contenus empiriques originaux (entretiens individuels et collectifs, participation observante) par l’accès privilégié à des données et des terrains rarement accessibles. La présentation reviendra sur les enjeux d’une recherche par une méthodologie mixte, permettant une étude de la problématique d’industrialisation des ONG d’aide internationale à différents niveaux. Elle montrera comment l’analyse éclaire, par des apports interdisciplinaires, les jeux d’acteurs dans le secteur et les processus socio- économiques, institutionnels et normatifs dans lesquels ils s’inscrivent. A travers des données et méthodes originales, et une mise en discussion des trois niveaux d’analyse proposés, la thèse offre une réflexion renouvelée sur les ONG d’aide internationale, et des pistes à explorer, pour les chercheurs comme pour les praticiens. 
 
 
-- **Thursday, May, 25th 2023** : [Benoit Toulouse](https://etudes-africaines.cnrs.fr/annuaire-des-chercheurs/benoit-toulouse/) (Formateur indépendant en SIG et intervenant à l'université Paris1-IEDES)
+- **Jeudi 25 mai 2023** : [Benoit Toulouse](https://etudes-africaines.cnrs.fr/annuaire-des-chercheurs/benoit-toulouse/) (Formateur indépendant en SIG et intervenant à l'université Paris1-IEDES) - [Enregistrement]()
 
 *Méthode textométrique pour l’analyse des entretiens*
 
-- **Friday, June, 23rd 2023** : [Sylvie Capitant](https://www.pantheonsorbonne.fr/page-perso/scapitant) (UMR Développement & Sociétés)
+- **Vendredi 23 juin 2023** : [Sylvie Capitant](https://www.pantheonsorbonne.fr/page-perso/scapitant) (UMR Développement & Sociétés)
 
 *Méthodologie participative de recherche*
 
@@ -119,45 +120,45 @@ Santiago Núñez-Regueiro présentera une réflexion sur les matériaux et techn
 
 **Représenter les espaces de circulation et les réseaux**
 
-- **Thursday, February, 3rd 2022 (17h30-18h30)** : [Gaëlle Gillot](https://www.pantheonsorbonne.fr/page-perso/ggillot) (UMR D&S, IEDES)
+- **Thursday, February, 3rd 2022 (17h30-18h30)** : [Gaëlle Gillot](https://www.pantheonsorbonne.fr/page-perso/ggillot) (UMR D&S, IEDES) - [Enregistrement](https://www.youtube.com/watch?v=wNynnf3KFnM)
 
 
-- **Thursday, February, 17th 2022 (17h30-18h30)** : [Quentin Chapus](https://www.lam.sciencespobordeaux.fr/membre/quentin-chapus/) (INRAE)
+- **Thursday, February, 17th 2022 (17h30-18h30)** : [Quentin Chapus](https://www.lam.sciencespobordeaux.fr/membre/quentin-chapus/) (INRAE) - [Enregistrement](https://www.youtube.com/watch?v=hrB52QnHC30)
 
 
-- **Thursday, Februrary, 24th 2022 (17h30-18h30)** : [Jean-Baptiste Guiffard](https://jeanbaptisteguiffard.github.io/) (UMR D&S) - *Web scraper et représenter des réseaux de chercheurs (I)*
+- **Thursday, Februrary, 24th 2022 (17h30-18h30)** : [Jean-Baptiste Guiffard](https://jeanbaptisteguiffard.github.io/) (UMR D&S) - *Web scraper et représenter des réseaux de chercheurs (I)* - [Enregistrement](https://www.youtube.com/watch?v=HTxqQFzNV7A)
 
-- **Thursday, March, 10th 2022 (17h30-18h30)** : [Jean-Baptiste Guiffard](https://jeanbaptisteguiffard.github.io/) (UMR D&S) - *Web scraper et représenter des réseaux de chercheurs (II)*
+- **Thursday, March, 10th 2022 (17h30-18h30)** : [Jean-Baptiste Guiffard](https://jeanbaptisteguiffard.github.io/) (UMR D&S) - *Web scraper et représenter des réseaux de chercheurs (II)* - [Enregistrement](https://www.youtube.com/watch?v=3-Dbgg_xBEk)
 
 **Découvrir R**
 
-- **Thursday, March, 17th 2022 (17h30-18h30)** : [Antoine Castet](https://sites.google.com/view/antoinecastet/accueil) (UMR D&S) et [Jean-Baptiste Guiffard](https://jeanbaptisteguiffard.github.io/) (UMR D&S) - *Les bases du langage (langage de base et Dplyr)*
+- **Thursday, March, 17th 2022 (17h30-18h30)** : [Antoine Castet](https://sites.google.com/view/antoinecastet/accueil) (UMR D&S) et [Jean-Baptiste Guiffard](https://jeanbaptisteguiffard.github.io/) (UMR D&S) - *Les bases du langage (langage de base et Dplyr)* - [Enregistrement](https://www.youtube.com/watch?v=L8K-PVIid4g)
 
-- **Thursday, March, 24th 2022 (17h30-18h30)** : [Antoine Castet](https://sites.google.com/view/antoinecastet/accueil) (UMR D&S) et [Jean-Baptiste Guiffard](https://jeanbaptisteguiffard.github.io/) (UMR D&S) - *Représentations graphiques et tableaux de statistiques*
+- **Thursday, March, 24th 2022 (17h30-18h30)** : [Antoine Castet](https://sites.google.com/view/antoinecastet/accueil) (UMR D&S) et [Jean-Baptiste Guiffard](https://jeanbaptisteguiffard.github.io/) (UMR D&S) - *Représentations graphiques et tableaux de statistiques* - [Enregistrement](https://www.youtube.com/watch?v=acHVPQ9H1Uc)
 
 
-- **Thursday, April, 7th 2022 (17h30-18h30)** : [Antoine Castet](https://sites.google.com/view/antoinecastet/accueil) (UMR D&S) et [Jean-Baptiste Guiffard](https://jeanbaptisteguiffard.github.io/) (UMR D&S) - *Introduction à Rmarkdown*
+- **Thursday, April, 7th 2022 (17h30-18h30)** : [Antoine Castet](https://sites.google.com/view/antoinecastet/accueil) (UMR D&S) et [Jean-Baptiste Guiffard](https://jeanbaptisteguiffard.github.io/) (UMR D&S) - *Introduction à Rmarkdown* - [Enregistrement](https://www.youtube.com/watch?v=Wq28FTFgAVY&feature=youtu.be)
 
 
 **Des données en cartes**
 
-- **Thursday, April, 21th 2022 (17h30-18h30)** : [Karine Marazyan](https://sites.google.com/site/karinemarazyan/index) (UMR D&S), [Antoine Castet](https://sites.google.com/view/antoinecastet/accueil) (UMR D&S) et [Jean-Baptiste Guiffard](https://jeanbaptisteguiffard.github.io/) (UMR D&S) - *L'usage des cartes dans des travaux de recherche en économie*
+- **Thursday, April, 21th 2022 (17h30-18h30)** : [Karine Marazyan](https://sites.google.com/site/karinemarazyan/index) (UMR D&S), [Antoine Castet](https://sites.google.com/view/antoinecastet/accueil) (UMR D&S) et [Jean-Baptiste Guiffard](https://jeanbaptisteguiffard.github.io/) (UMR D&S) - *L'usage des cartes dans des travaux de recherche en économie* - [Enregistrement](https://www.youtube.com/watch?v=vEKANlvIsjA)
 
 
-- **Thursday, May, 5th 2022 (17h30-18h30)** : [Antoine Castet](https://sites.google.com/view/antoinecastet/accueil) (UMR D&S) et [Jean-Baptiste Guiffard](https://jeanbaptisteguiffard.github.io/) (UMR D&S) - *Aperçu des bases et méthodes d’extraction*
+- **Thursday, May, 5th 2022 (17h30-18h30)** : [Antoine Castet](https://sites.google.com/view/antoinecastet/accueil) (UMR D&S) et [Jean-Baptiste Guiffard](https://jeanbaptisteguiffard.github.io/) (UMR D&S) - *Aperçu des bases et méthodes d’extraction* - [Enregistrement](https://www.youtube.com/watch?v=5CIDZM_E_2k&feature=youtu.be)
 
 
-- **Thursday, May, 12th 2022 (17h30-18h30)** : [Antoine Castet](https://sites.google.com/view/antoinecastet/accueil) (UMR D&S) - *Une application avec Qgis*
+- **Thursday, May, 12th 2022 (17h30-18h30)** : [Antoine Castet](https://sites.google.com/view/antoinecastet/accueil) (UMR D&S) - *Une application avec Qgis* - [Enregistrement](https://www.youtube.com/watch?v=6Tt3Vup_2Tk)
 
 **Lexicographie**
 
 
-- **Thursday, May, 26th 2022 (17h30-18h30)** : [Karine Marazyan](https://sites.google.com/site/karinemarazyan/index) (UMR D&S) - *Les enseignements des données d'archives judiciaires au Sénégal*
+- **Thursday, May, 26th 2022 (17h30-18h30)** : [Karine Marazyan](https://sites.google.com/site/karinemarazyan/index) (UMR D&S) - *Les enseignements des données d'archives judiciaires au Sénégal* - [Enregistrement](https://www.youtube.com/watch?v=Pi_4SjZu5r0)
 
-- **Thursday, June, 9th 2022 (17h30-18h30)** : [Tania Angeloff](https://www.travail-genre-societes.com/comite-de-redaction/tania-angeloff/) (UMR D&S) - *Les enseignements d'une correspondance intime en Chine sous l'ère Mao*
+- **Thursday, June, 9th 2022 (17h30-18h30)** : [Tania Angeloff](https://www.travail-genre-societes.com/comite-de-redaction/tania-angeloff/) (UMR D&S) - *Les enseignements d'une correspondance intime en Chine sous l'ère Mao* 
 
 **Epigénétique**
 
-- **Thursday, June, 30th 2022 (15h-16h)** : [Raphaëlle Chaix](https://www.ecoanthropologie.fr/fr/annuaire/chaix-raphaelle-6056) (CNRS, MNHN) et [Frédéric Bourdier](https://umr-devsoc.pantheonsorbonne.fr/bourdier-frederic) (IRD, UMR D&S) - *Epigender : « Influence des normes de genre sur les marqueurs épigénétiques de santé »*
+- **Thursday, June, 30th 2022 (15h-16h)** : [Raphaëlle Chaix](https://www.ecoanthropologie.fr/fr/annuaire/chaix-raphaelle-6056) (CNRS, MNHN) et [Frédéric Bourdier](https://umr-devsoc.pantheonsorbonne.fr/bourdier-frederic) (IRD, UMR D&S) - *Epigender : « Influence des normes de genre sur les marqueurs épigénétiques de santé »* - [Enregistrement](https://www.youtube.com/watch?v=tKm859ryqRw)
 
 Référence bibliographique : CHAIX Raphaëlle et al., 2020 — Structures sociales et structures génétiques dans les populations humaines. BMSAP. Vol. 31, 1-2, p. 18-23. 10.3166/bmsap-2020-0071
