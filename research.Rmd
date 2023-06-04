@@ -13,7 +13,7 @@ This paper examines the value that households place on broadband internet access
 
 ```{r, echo=FALSE, out.width="50%"}
 knitr::include_graphics("images/map_rdd_ftth.jpg")
-knitr::include_graphics("images/rdd_plot_ftth.jpg")
+#knitr::include_graphics("images/rdd_plot_ftth.jpg")
 ```
 
 ----

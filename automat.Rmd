@@ -13,7 +13,7 @@ output:
 
 
 
-<img src="images/pavillon_Indochine.jpg" align="right" width="370px"/>
+<img src="images/pavillon_Indochine.jpg" align="right" width="440px"/>
 
 **Séminaire AuToMat ("Au tour de nos matériaux")**
 
