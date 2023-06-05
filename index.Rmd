@@ -7,9 +7,16 @@ output:
 ---
 
 
-
+<!---
 <img src="images/profil_image_vertical.jpg" align="right" width="440px"/>
 
+<br clear="left"/>
+
+
+--->
+
+
+![](images/profil_image.jpg)
 
 **About me**
 
@@ -20,7 +27,6 @@ My research interests are in digital economics, with a particular focus on devel
 Thank you for visiting my website and learning more about my research interests. I look forward to sharing my findings with you in the future.
 
 
-<br clear="left"/>
 
 
 
