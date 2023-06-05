@@ -37,9 +37,16 @@ Join us in this enriching and collaborative environment as we delve into methodo
 
 ----
 
+::: {#hello .greeting .message style="color: red;"}
 Next Session: **Vendredi 23 juin 2023** : [Sylvie Capitant](https://www.pantheonsorbonne.fr/page-perso/scapitant) (UMR Développement & Sociétés)
 
 *Méthodologie participative de recherche*
+:::
+
+
+
+
+----
 
 To attend the seminar remotely, here is a Zoom link:
 
