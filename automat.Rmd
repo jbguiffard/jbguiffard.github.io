@@ -24,7 +24,7 @@ output:
 --->
 
 
-![](images/pavillon_Indochine - Copie.jpg)
+![](images/pavillon_indo_modif.jpg)
 
 
 Welcome to the Methodological Seminar hosted by the UMR Development & Societies! This seminar is open to PhD students, senior researchers, IEDES students, and external individuals interested in attending. Our primary objectives are:
