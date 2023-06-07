@@ -6,7 +6,13 @@ output:
 ---
 
 
-----
+
+
+
+<img src="images/short_vitae_illustration.jpg" align="right" width="400px"/>
+
+
+
 
 **Education**
 
@@ -32,15 +38,15 @@ Caen University, France
 
 Paris-1 Panthéon-Sorbonne University (IEDES), 2022-2023
 
-- Measurement (Labor and Employment in Developing Countries) - M1
+- *Measurement* (Labor and Employment in Developing Countries) - M1
 
-- Quantitative Methods training course - M1
+- *Quantitative Methods training course* - M1
 
-- Data and Climate (an Introduction to R and an education on data and the construction of sustainable development indicators.) - M2
+- *Data and Climate* (an Introduction to R and an education on data and the construction of sustainable development indicators.) - M2
 
-- Applied Econometrics - M1
+- *Applied Econometrics* - M1
 
-- Tutored Projects in development economics - M1
+- *Tutored Projects in development economics* - M1
 
 
 **Lecturer** in Collection and analysis of quantitative and qualitative data (master level)
@@ -58,6 +64,13 @@ Paris-1 Panthéon-Sorbonne University, 2021
 Caen University, 2017
 
 
+
+
+<br clear="left"/>
+
+
 ----
 
 [Curriculum Vitae](https://jeanbaptisteguiffard.github.io/mywebsite/CV_JBG_univ_20042023.pdf)
+
+----
