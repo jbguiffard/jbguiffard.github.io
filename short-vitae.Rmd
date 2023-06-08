@@ -9,28 +9,10 @@ output:
 
 
 
-<img src="images/short_vitae_illustration.jpg" align="right" width="400px"/>
+<img src="images/short_vitae_illustration.jpg" align="right" width="410px"/>
 
 
 
-
-**Education**
-
-**PhD in Economics**, Since 2019
-
-Ecole d'Economie de la Sorbonne (UMR Développement & Sociétés), France
-
-
-**Master in Development Economics**, 2019
-
-Paris-1 Panthéon-Sorbonne University (IEDES), France
-
-
-**Double degree in Economics and History**, 2017
-
-Caen University, France
-
-----
 
 **Teaching**
 
@@ -68,6 +50,24 @@ Caen University, 2017
 
 <br clear="left"/>
 
+
+----
+
+**Education**
+
+**PhD in Economics**, Since 2019
+
+Ecole d'Economie de la Sorbonne (UMR Développement & Sociétés), France
+
+
+**Master in Development Economics**, 2019
+
+Paris-1 Panthéon-Sorbonne University (IEDES), France
+
+
+**Double degree in Economics and History**, 2017
+
+Caen University, France
 
 ----
 
