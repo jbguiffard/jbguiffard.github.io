@@ -20,11 +20,15 @@ output:
 
 <br clear="left"/>
 
-
+![](images/pavillon_indo_modif.jpg)
 --->
 
+<div class="row">
+<picture>
+    <img src="images/pavillon_indo_modif.jpg" class="img-fluid z-depth-1 rounded" alt="pavillon_indo_modif.jpg">
+</picture>
+</div>
 
-![](images/pavillon_indo_modif.jpg)
 
 
 Welcome to the Methodological Seminar hosted by the UMR Development & Societies! This seminar is open to PhD students, senior researchers, IEDES students, and external individuals interested in attending. Our primary objectives are:

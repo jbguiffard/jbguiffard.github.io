@@ -12,11 +12,17 @@ output:
 
 <br clear="left"/>
 
-
+![](images/profil_image.jpg)
 --->
 
+<div class="row">
+<picture>
+    <img src="images/profil_image.jpg" class="img-fluid z-depth-1 rounded" alt="profil_image.jpg">
+</picture>
+</div>
 
-![](images/profil_image.jpg)
+
+
 
 **About me**
 
@@ -37,7 +43,9 @@ Thank you for visiting my website and learning more about my research interests.
 
 Workplace: 45 bis Avenue de la Belle Gabrielle, 94130, Nogent-sur-Marne, France
 
+<!---
 Phone number: +33 6 87 96 61 05
+--->
 
 Email:  jean-baptiste.guiffard@univ-paris1.fr
 
