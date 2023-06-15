@@ -21,7 +21,7 @@ output:
 
 - [32nd ITS European Conference](https://itseurope.org/2023/), UNED, Madrid, Spain. *Scheduled*
 
-- [71st Congress of the French Economic Association (AFSE)](https://afse2023.sciencesconf.org/), SciencesPo, Paris, France. *Scheduled*
+- [71st Congress of the French Economic Association (AFSE)](https://afse2023.sciencesconf.org/), SciencesPo, Paris, France.
 
 - [1st Welfare & Policy Conference](https://wapsociety.org/event/conference-individual-and-collective-responses-to-a-troubled-world), BSE, Bordeaux, France.
 
