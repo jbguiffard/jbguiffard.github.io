@@ -3,10 +3,14 @@ title: "Courses"
 output:
   html_document:
     fig_width: 1
+    css: columns.css
 ---
 
-----
 
+
+
+:::::: {.columns}
+::: {.column width="48%" data-latex="{0.48\textwidth}"}
 **Data and Climate**
 
 To become familiar with climate issues and to understand the construction of sustainable development indicators, this course proposes: 
@@ -31,7 +35,6 @@ Lessons:
 
 - Regressions with R
 
-----
 
 **Statistics with R**
 
@@ -46,7 +49,7 @@ Lessons:
 - Simple and Multiple Regressions
 
 
-----
+
 
 **Econometrics**
 
@@ -55,10 +58,13 @@ Lessons:
 - Heteroscedasticity
 
 - Non-linear models
-
-
-----
-
+:::
+::: {.column width="4%" data-latex="{0.04\textwidth}"}
+\ 
+<!-- an empty Div (with a white space), serving as
+a column separator -->
+:::
+:::::: {.column width="48%" data-latex="{0.48\textwidth}"}
 **Ressources**
 
 ![](images/2_packages_tidyverse.png){ width=50%}
@@ -68,4 +74,15 @@ Lessons:
 - [Cheatsheet DPLYR and TIDYR R](courses/ressources/R/Cheatsheet_DPLYR_TIDYR_R.pdf)
 
 - [Cheatsheet GGPLOT R](courses/ressources/R/Cheatsheet_GGPLOT2_R.pdf) 
+
+
+
+:::
+::::::
+\newline
+
+
+
+
+
 

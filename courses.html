@@ -58,6 +58,7 @@ if (window.hljs) {
 
 
 
+<link rel="stylesheet" href="columns.css" type="text/css" />
 
 
 
@@ -271,7 +272,8 @@ $(document).ready(function () {
 </div>
 
 
-<hr />
+<div class="columns">
+<div class="column" style="width:48%;">
 <p><strong>Data and Climate</strong></p>
 <p>To become familiar with climate issues and to understand the
 construction of sustainable development indicators, this course
@@ -293,7 +295,6 @@ indicators.</p></li>
 <li><p>Extracting and analyzing textual data with R</p></li>
 <li><p>Regressions with R</p></li>
 </ul>
-<hr />
 <p><strong>Statistics with R</strong></p>
 <p>Lessons:</p>
 <ul>
@@ -302,14 +303,16 @@ indicators.</p></li>
 <li><p>Inference and Statistical Tests</p></li>
 <li><p>Simple and Multiple Regressions</p></li>
 </ul>
-<hr />
 <p><strong>Econometrics</strong></p>
 <ul>
 <li><p>The classical regression model</p></li>
 <li><p>Heteroscedasticity</p></li>
 <li><p>Non-linear models</p></li>
 </ul>
-<hr />
+</div><div class="column" style="width:4%;">
+<p>  <!-- an empty Div (with a white space), serving as
+a column separator --></p>
+</div><div class="column" style="width:48%;">
 <p><strong>Ressources</strong></p>
 <p><img src="images/2_packages_tidyverse.png" style="width:50.0%" /></p>
 <ul>
@@ -322,6 +325,8 @@ DPLYR and TIDYR R</a></p></li>
 href="courses/ressources/R/Cheatsheet_GGPLOT2_R.pdf">Cheatsheet GGPLOT
 R</a></p></li>
 </ul>
+</div>
+</div>
 
 
 

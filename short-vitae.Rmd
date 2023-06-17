@@ -7,7 +7,7 @@ output:
 
 
 
-
+---
 
 <img src="images/short_vitae_illustration.jpg" align="right" width="410px"/>
 
