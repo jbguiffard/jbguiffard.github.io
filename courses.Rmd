@@ -58,6 +58,7 @@ Lessons:
 - Heteroscedasticity
 
 - Non-linear models
+
 :::
 ::: {.column width="4%" data-latex="{0.04\textwidth}"}
 \ 
