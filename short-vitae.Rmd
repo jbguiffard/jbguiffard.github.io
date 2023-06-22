@@ -9,7 +9,7 @@ output:
 
 ---
 
-<img src="images/short_vitae_illustration.jpg" align="right" width="410px"/>
+<img src="images/madrid_juin_2023.jpg" align="right" width="400px"/>
 
 
 
