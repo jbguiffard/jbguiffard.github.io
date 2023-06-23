@@ -9,8 +9,11 @@ output:
 
 ---
 
-<img src="images/madrid_juin_2023.jpg" align="right" width="400px"/>
-
+<div class="row">
+<picture>
+    <img src="images/P1300734_Paris_V_place_de_la_Sorbonne_rwk.jpg" class="img-fluid z-depth-1 rounded" alt="pavillon_indo_modif.jpg">
+</picture>
+</div>
 
 
 
@@ -48,7 +51,6 @@ Caen University, 2017
 
 
 
-<br clear="left"/>
 
 
 ----

@@ -21,6 +21,8 @@ output:
 
 - [7th Nordic Development Research Conference](https://www.nordev2023.se/), Uppsala University, Uppsala, Sweden. *Scheduled*
 
+- UMR Développement & Sociétés PhD Seminar, Paris-1 Panthéon-Sorbonne, Paris, France.
+
 - [32nd ITS European Conference](https://itseurope.org/2023/), UNED, Madrid, Spain.
 
 - [71st Congress of the French Economic Association (AFSE)](https://afse2023.sciencesconf.org/), SciencesPo, Paris, France.
