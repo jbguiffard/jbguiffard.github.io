@@ -11,7 +11,7 @@ output:
 
 <div class="row">
 <picture>
-    <img src="images/P1300734_Paris_V_place_de_la_Sorbonne_rwk.jpg" class="img-fluid z-depth-1 rounded" alt="pavillon_indo_modif.jpg">
+    <img src="images/IMG_20230620_191914.jpg" class="img-fluid z-depth-1 rounded" alt="pavillon_indo_modif.jpg">
 </picture>
 </div>
 
