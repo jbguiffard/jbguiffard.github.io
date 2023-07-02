@@ -21,12 +21,7 @@ figcaption {
 }
 </style>
 
-<p>
-<figure>
-  <img src="images/tunisie_photo_1.jpg" align="left" width="410px"/>
-  <figcaption> <i>Tunis, May 2022 </i> </figcaption>
-</figure>
-</p>
+
 
 
 
@@ -63,8 +58,12 @@ figcaption {
 
 - [EADI conference](https://iedes.pantheonsorbonne.fr/evenements/iedes-eadi-france-journee-detude-internationale), Agence Française de Développement, Paris, France.
 
-<br clear="left"/>
 
-
+<p>
+<figure>
+  <img src="images/tunisie_photo_1.jpg" align="left" width="410px"/>
+  <figcaption> <i>Tunis, May 2022 </i> </figcaption>
+</figure>
+</p>
 
 
