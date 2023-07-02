@@ -8,7 +8,28 @@ output:
 
 ---
 
-<img src="images/tunisie_photo_1.jpg" align="right" width="410px"/>
+
+<style>
+figure {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+figcaption {
+  margin-top: 10px;
+}
+</style>
+
+<p>
+<figure>
+  <img src="images/tunisie_photo_1.jpg" align="left" width="410px"/>
+  <figcaption> <i>Tunis, May 2022 </i> </figcaption>
+</figure>
+</p>
+
+
+
 
 
 **2023**:

@@ -9,13 +9,23 @@ output:
 
 ---
 
+<style>
+figure {
+  text-align: center;
+}
+
+figcaption {
+  margin-top: 10px;
+}
+</style>
+<p>
 <div class="row">
-<picture>
-    <img src="images/IMG_20230620_191914.jpg" class="img-fluid z-depth-1 rounded" alt="pavillon_indo_modif.jpg">
-</picture>
+<figure>
+  <img alt="Madrid picture" src="images/IMG_20230620_191914.jpg"/>
+  <figcaption> <i>Madrid, June 2023 </i> </figcaption>
+</figure>
 </div>
-
-
+</p>
 
 **Teaching**
 

@@ -23,13 +23,23 @@ output:
 ![](images/pavillon_indo_modif.jpg)
 --->
 
+<style>
+figure {
+  text-align: center;
+}
+
+figcaption {
+  margin-top: 10px;
+}
+</style>
+<p>
 <div class="row">
-<picture>
-    <img src="images/pavillon_indo_modif.jpg" class="img-fluid z-depth-1 rounded" alt="pavillon_indo_modif.jpg">
-</picture>
+<figure>
+  <img alt="Pavillon picture" src="images/pavillon_indo_modif.jpg"/>
+  <figcaption> <i>Jardin tropical René-Dumont, January 2022 </i> </figcaption>
+</figure>
 </div>
-
-
+</p>
 
 Welcome to the Methodological Seminar hosted by the UMR Development & Societies! This seminar is open to PhD students, senior researchers, IEDES students, and external individuals interested in attending. Our primary objectives are:
 
