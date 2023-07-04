@@ -10,25 +10,17 @@ output:
 
 
 <style>
-figure {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-}
-
-figcaption {
-  margin-top: 10px;
-}
-</style>
-
-
-<style>
   .rounded-image {
     border-radius: 10px; /* Ajoute des coins arrondis de 10 pixels */
     box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.4); /* Ajoute une ombre de 2 pixels de hauteur et 4 pixels de flou */
   }
 </style>
 
+
+
+<div>
+  <img  align="right" src="images/tunisie_photo_1.jpg" class="rounded-image" alt="tunisie_photo_1.jpg"  width="350px" >
+</div>
 
 
 
@@ -63,12 +55,6 @@ figcaption {
 
 - [EADI conference](https://iedes.pantheonsorbonne.fr/evenements/iedes-eadi-france-journee-detude-internationale), Agence Française de Développement, Paris, France.
 
-
-<p>
-<figure>
-  <img src="images/tunisie_photo_1.jpg" align="left" width="410px" class="rounded-image"/>
-  <figcaption> <i>Tunis, May 2022 </i> </figcaption>
-</figure>
-</p>
+<br clear="left"/>
 
 
