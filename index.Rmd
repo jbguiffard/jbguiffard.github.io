@@ -13,6 +13,8 @@ output:
   }
 </style>
 
+
+
 <!---
 <img src="images/profil_image_vertical.jpg" align="right" width="440px"/>
 
@@ -21,9 +23,10 @@ output:
 ![](images/profil_image.jpg)
 --->
 
-<div class="row">
-  <img src="images/profil_image.jpg" class="rounded-image" alt="profil_image.jpg">
+<div>
+  <img  align="right" src="images/profil_image_vertical.jpg" class="rounded-image" alt="profil_image_vertical.jpg"  width="300px" >
 </div>
+
 
 
 
@@ -37,8 +40,6 @@ Thank you for visiting my website and learning more about my research interests.
 
 
 
-----
-
 - Member of the [International Telecommunications Society](https://www.itsworld.org/)
 
 - Member of the [AFEDEV network](https://afedev.fr/)
@@ -48,7 +49,7 @@ Thank you for visiting my website and learning more about my research interests.
 
 ----
 
-
+<br clear="left"/>
 **Contact**
 
 Workplace: 45 bis Avenue de la Belle Gabrielle, 94130, Nogent-sur-Marne, France
@@ -62,5 +63,7 @@ Email:  jean-baptiste.guiffard@univ-paris1.fr
 [![](images/Logo_Twitter.webp){width=8%}](https://twitter.com/JBGuiffard)
 [![](images/logo-mastodon.png){width=8%}](https://econtwitter.net/@jbguiffard)
 [![](images/logo-linkedin.png){width=8%}](https://www.linkedin.com/in/jean-baptiste-guiffard-b7063090/)
+
+
 
 
