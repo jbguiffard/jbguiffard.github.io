@@ -24,7 +24,7 @@ output:
 --->
 
 <div>
-  <img  align="right" src="images/profil_image_vertical.jpg" class="rounded-image" alt="profil_image_vertical.jpg"  width="300px" >
+  <img  align="right" src="images/profil_image_vertical.jpg" class="rounded-image" alt="profil_image_vertical.jpg"  width="350px" >
 </div>
 
 
@@ -47,9 +47,11 @@ Thank you for visiting my website and learning more about my research interests.
 - Co-organizer of the [AuToMat Seminar](https://jeanbaptisteguiffard.github.io/automat.html)
 
 
+<br clear="left"/>
+
 ----
 
-<br clear="left"/>
+
 **Contact**
 
 Workplace: 45 bis Avenue de la Belle Gabrielle, 94130, Nogent-sur-Marne, France
