@@ -22,7 +22,12 @@ figcaption {
 </style>
 
 
-
+<style>
+  .rounded-image {
+    border-radius: 10px; /* Ajoute des coins arrondis de 10 pixels */
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.4); /* Ajoute une ombre de 2 pixels de hauteur et 4 pixels de flou */
+  }
+</style>
 
 
 
@@ -61,7 +66,7 @@ figcaption {
 
 <p>
 <figure>
-  <img src="images/tunisie_photo_1.jpg" align="left" width="410px"/>
+  <img src="images/tunisie_photo_1.jpg" align="left" width="410px" class="rounded-image"/>
   <figcaption> <i>Tunis, May 2022 </i> </figcaption>
 </figure>
 </p>
