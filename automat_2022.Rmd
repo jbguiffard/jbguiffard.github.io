@@ -1,0 +1,103 @@
+---
+title: "Séminaire AuToMat"
+subtitle: "Au tour de nos matériaux"
+output:
+  html_document:
+    fig_width: 1
+---
+
+
+
+
+
+----
+
+
+<!---
+
+<img src="images/pavillon_Indochine.jpg" align="right" width="440px"/>
+
+
+<br clear="left"/>
+
+![](images/pavillon_indo_modif.jpg)
+--->
+
+<style>
+figure {
+  text-align: center;
+}
+
+figcaption {
+  margin-top: 10px;
+}
+</style>
+
+<style>
+  .rounded-image {
+    border-radius: 10px; /* Ajoute des coins arrondis de 10 pixels */
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.4); /* Ajoute une ombre de 2 pixels de hauteur et 4 pixels de flou */
+  }
+</style>
+
+<p>
+<div class="row">
+<figure>
+  <img alt="Pavillon picture" src="images/pavillon_indo_modif.jpg" class="rounded-image"/>
+  <figcaption> <i>Jardin tropical René-Dumont, January 2022 </i> </figcaption>
+</figure>
+</div>
+</p>
+
+
+
+---
+
+**2021-2022 (First Edition)**
+
+**Représenter les espaces de circulation et les réseaux**
+
+- **Thursday, February, 3rd 2022 (17h30-18h30)** : [Gaëlle Gillot](https://www.pantheonsorbonne.fr/page-perso/ggillot) (UMR D&S, IEDES) - [Enregistrement](https://www.youtube.com/watch?v=wNynnf3KFnM)
+
+
+- **Thursday, February, 17th 2022 (17h30-18h30)** : [Quentin Chapus](https://www.lam.sciencespobordeaux.fr/membre/quentin-chapus/) (INRAE) - [Enregistrement](https://www.youtube.com/watch?v=hrB52QnHC30)
+
+
+- **Thursday, Februrary, 24th 2022 (17h30-18h30)** : [Jean-Baptiste Guiffard](https://jeanbaptisteguiffard.github.io/) (UMR D&S) - *Web scraper et représenter des réseaux de chercheurs (I)* - [Enregistrement](https://www.youtube.com/watch?v=HTxqQFzNV7A)
+
+- **Thursday, March, 10th 2022 (17h30-18h30)** : [Jean-Baptiste Guiffard](https://jeanbaptisteguiffard.github.io/) (UMR D&S) - *Web scraper et représenter des réseaux de chercheurs (II)* - [Enregistrement](https://www.youtube.com/watch?v=3-Dbgg_xBEk)
+
+**Découvrir R**
+
+- **Thursday, March, 17th 2022 (17h30-18h30)** : [Antoine Castet](https://sites.google.com/view/antoinecastet/accueil) (UMR D&S) et [Jean-Baptiste Guiffard](https://jeanbaptisteguiffard.github.io/) (UMR D&S) - *Les bases du langage (langage de base et Dplyr)* - [Enregistrement](https://www.youtube.com/watch?v=L8K-PVIid4g)
+
+- **Thursday, March, 24th 2022 (17h30-18h30)** : [Antoine Castet](https://sites.google.com/view/antoinecastet/accueil) (UMR D&S) et [Jean-Baptiste Guiffard](https://jeanbaptisteguiffard.github.io/) (UMR D&S) - *Représentations graphiques et tableaux de statistiques* - [Enregistrement](https://www.youtube.com/watch?v=acHVPQ9H1Uc)
+
+
+- **Thursday, April, 7th 2022 (17h30-18h30)** : [Antoine Castet](https://sites.google.com/view/antoinecastet/accueil) (UMR D&S) et [Jean-Baptiste Guiffard](https://jeanbaptisteguiffard.github.io/) (UMR D&S) - *Introduction à Rmarkdown* - [Enregistrement](https://www.youtube.com/watch?v=Wq28FTFgAVY&feature=youtu.be)
+
+
+**Des données en cartes**
+
+- **Thursday, April, 21th 2022 (17h30-18h30)** : [Karine Marazyan](https://sites.google.com/site/karinemarazyan/index) (UMR D&S), [Antoine Castet](https://sites.google.com/view/antoinecastet/accueil) (UMR D&S) et [Jean-Baptiste Guiffard](https://jeanbaptisteguiffard.github.io/) (UMR D&S) - *L'usage des cartes dans des travaux de recherche en économie* - [Enregistrement](https://www.youtube.com/watch?v=vEKANlvIsjA)
+
+
+- **Thursday, May, 5th 2022 (17h30-18h30)** : [Antoine Castet](https://sites.google.com/view/antoinecastet/accueil) (UMR D&S) et [Jean-Baptiste Guiffard](https://jeanbaptisteguiffard.github.io/) (UMR D&S) - *Aperçu des bases et méthodes d’extraction* - [Enregistrement](https://www.youtube.com/watch?v=5CIDZM_E_2k&feature=youtu.be)
+
+
+- **Thursday, May, 12th 2022 (17h30-18h30)** : [Antoine Castet](https://sites.google.com/view/antoinecastet/accueil) (UMR D&S) - *Une application avec Qgis* - [Enregistrement](https://www.youtube.com/watch?v=6Tt3Vup_2Tk)
+
+**Lexicographie**
+
+
+- **Thursday, May, 26th 2022 (17h30-18h30)** : [Karine Marazyan](https://sites.google.com/site/karinemarazyan/index) (UMR D&S) - *Les enseignements des données d'archives judiciaires au Sénégal* - [Enregistrement](https://www.youtube.com/watch?v=Pi_4SjZu5r0)
+
+- **Thursday, June, 9th 2022 (17h30-18h30)** : [Tania Angeloff](https://www.travail-genre-societes.com/comite-de-redaction/tania-angeloff/) (UMR D&S) - *Les enseignements d'une correspondance intime en Chine sous l'ère Mao* 
+
+**Epigénétique**
+
+- **Thursday, June, 30th 2022 (15h-16h)** : [Raphaëlle Chaix](https://www.ecoanthropologie.fr/fr/annuaire/chaix-raphaelle-6056) (CNRS, MNHN) et [Frédéric Bourdier](https://umr-devsoc.pantheonsorbonne.fr/bourdier-frederic) (IRD, UMR D&S) - *Epigender : « Influence des normes de genre sur les marqueurs épigénétiques de santé »* - [Enregistrement](https://www.youtube.com/watch?v=tKm859ryqRw)
+
+Référence bibliographique : CHAIX Raphaëlle et al., 2020 — Structures sociales et structures génétiques dans les populations humaines. BMSAP. Vol. 31, 1-2, p. 18-23. 10.3166/bmsap-2020-0071
+
+
