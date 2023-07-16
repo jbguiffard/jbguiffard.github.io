@@ -50,6 +50,10 @@ knitr::include_graphics("images/marginal_cost_MNO_germany.jpg")
 knitr::include_graphics("images/simulation_mno_germany.jpg")
 ```
 
+----
+
+**From Bytes to Business: Evaluating the Role of Broadband in Firm Location Decisions** (with [Mohamed Ali Marouani](https://sites.google.com/view/mohamedali-marouani/home))
+
 
 <!---
 ----
