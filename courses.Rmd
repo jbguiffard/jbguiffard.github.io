@@ -6,6 +6,7 @@ output:
     css: columns.css
 ---
 
+<link rel="icon" type="image/x-icon" href="favicon.ico">
 
 
 

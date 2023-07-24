@@ -5,6 +5,8 @@ output:
     fig_width: 1
 ---
 
+<link rel="icon" type="image/x-icon" href="favicon.ico">
+
 ----
 
 **Valuing the Virtual: The Impact of Fiber to the Home (FTTH) on Property Prices in France** 
@@ -63,4 +65,6 @@ knitr::include_graphics("images/simulation_mno_germany.jpg")
 This research project links investment in the telecommunications sector and one of the terms of the regulatory framework for this sector, the mobile licence duration in African and Middle-eastern countries. Using World Cellular Information Service and Worldwide Governance Indicators data, we were able to build a database combining the amount of CAPEX per capita with the license duration (the average duration of all active licenses) adding governance quality indicators for 13 developing countries in Africa and the Middle East over a 9-year period. Based on an OLS estimate, we found that the licence duration has a positive effect on investment provided that the political stability of the country is above a certain threshold.
 
 --->
+
+
 
