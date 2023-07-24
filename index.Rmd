@@ -13,7 +13,7 @@ output:
   }
 </style>
 
-<link rel="icon" type="image/x-icon" href="favicon.ico">
+<link rel="shortcut icon" href="favicon.ico">
 
 <!---
 <img src="images/profil_image_vertical.jpg" align="right" width="440px"/>

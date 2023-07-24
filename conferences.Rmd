@@ -8,8 +8,7 @@ output:
 
 ---
 
-<link rel="icon" type="image/x-icon" href="favicon.ico">
-
+<link rel="shortcut icon" href="favicon.ico">
 
 <style>
   .rounded-image {
