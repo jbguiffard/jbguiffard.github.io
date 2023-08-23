@@ -36,7 +36,7 @@ output:
 
 - [51st Research Conference on Communications, Information, and Internet Policy](http://www.tprcweb.com/overview-2023), Washington, USA. *Scheduled*
 
-- [7th Nordic Development Research Conference](https://www.nordev2023.se/), Uppsala University, Uppsala, Sweden. *Scheduled*
+- [7th Nordic Development Research Conference](https://www.nordev2023.se/), Uppsala University, Uppsala, Sweden.
 
 - [UMR Développement & Sociétés PhD Seminar](https://umr-devsoc.pantheonsorbonne.fr/), Paris-1 Panthéon-Sorbonne, Paris, France.
 
