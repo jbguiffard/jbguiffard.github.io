@@ -8,6 +8,8 @@ navbar:
       href: research.html
     - text: "Conferences"
       href: conferences.html
+    - text: "Courses and Ressources"
+      href: courses.html
     - text: "Séminaire AuToMat"
       href: automat.html
 

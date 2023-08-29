@@ -6,6 +6,12 @@ output:
     fig_width: 1
 ---
 
+<link rel="shortcut icon" href="favicon.ico">
+
+
+
+
+
 Lessons: 
 
 - The Basics of R / Manipulating datasets with Dplyr

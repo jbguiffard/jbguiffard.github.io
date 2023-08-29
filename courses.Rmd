@@ -1,24 +1,47 @@
 ---
 title: "Courses and Ressources"
+subtitle: "IEDES - Master mention Etudes du Développement"
 output:
   html_document:
     fig_width: 1
     css: columns.css
 ---
 
+
+----
+
 <link rel="shortcut icon" href="favicon.ico">
 
 
 :::::: {.columns}
-::: {.column width="48%" data-latex="{0.48\textwidth}"}
+::: {.column width="62%" data-latex="{0.62\textwidth}"}
 
-*IEDES - Master mention "Etudes du Développement"*
 
-Master 1
+
+
+*Master 1*
 
 **Development Measurement**
 
+The aim of this course is to shed critical light on the indicators used to measure development. This course proposes: 
+
+1. How the main development indicators are constructed, what information they provide and what their limitations are?
+
+2. How to address data sources and the complexity of measurement in developing countries?
+
 **Econometrics**
+
+This course deepens the basics of econometrics, providing students with a solid understanding of the estimation and modelling techniques essential for analysing economic problems related to development. The following topics will be covered: 
+
+- The classical regression model
+
+- Properties of the OLS estimator in large samples
+
+- Heteroscedasticity: The problem and correction methods
+
+- Non-linear models: Probit and Logit
+
+- Count models: Poisson models
 
 <!---
 - The classical regression model
@@ -27,17 +50,24 @@ Master 1
 
 - Non-linear models
 
---->
+**Data Exploration and Modelling (Inequalities, Discrimination)**
 
 **Tutored Projects in Development Economics**
+--->
 
-**Data Exploration and Modelling (Inequalities, Discrimination)*
+
+
+
 
 ---
 
-Master 2
+*Master 2*
 
+**Climate and Data**
+
+<!---
 [**Climate and Data**](https://jeanbaptisteguiffard.github.io/courses_climatedata.html)
+--->
 
 To become familiar with climate issues and to understand the construction of sustainable development indicators, this course proposes: 
 
@@ -72,10 +102,10 @@ Lessons:
 <!-- an empty Div (with a white space), serving as
 a column separator -->
 :::
-:::::: {.column width="48%" data-latex="{0.48\textwidth}"}
+:::::: {.column width="34%" data-latex="{0.34\textwidth}"}
 **Ressources**
 
-![](images/2_packages_tidyverse.png){ width=50%}
+![](images/2_packages_tidyverse.png){ width=100%}
 
 - [Cheatsheet Base R](courses/ressources/R/Cheatsheet_BASE_R.pdf)
 
