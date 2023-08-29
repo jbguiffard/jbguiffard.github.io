@@ -45,7 +45,7 @@ Paris-1 Panthéon-Sorbonne University (IEDES), 2023-2024
 
 - *Development Measurement* (lecture and seminar) - M1
 
-- *Data and Climate* (an Introduction to R and an education on data and the construction of sustainable development indicators.) - M2
+- *Climate and Data* (an Introduction to R and an education on data and the construction of sustainable development indicators.) - M2
 
 - *Applied Econometrics* - M1
 
@@ -64,7 +64,7 @@ Paris-1 Panthéon-Sorbonne University (IEDES), 2022-2023
 
 - *Quantitative Methods training course* - M1
 
-- *Data and Climate* (an Introduction to R and an education on data and the construction of sustainable development indicators.) - M2
+- *Climate and Data* (an Introduction to R and an education on data and the construction of sustainable development indicators.) - M2
 
 - *Applied Econometrics* - M1
 

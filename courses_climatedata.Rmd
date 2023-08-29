@@ -1,0 +1,21 @@
+---
+title: "Courses"
+subtitle: "Climate and Data"
+output:
+  html_document:
+    fig_width: 1
+---
+
+Lessons: 
+
+- The Basics of R / Manipulating datasets with Dplyr
+
+- Graphic representations with GGplot
+
+- Making maps with R
+
+- Web scraping with R
+
+- Extracting and analyzing textual data with R
+
+- Regressions with R

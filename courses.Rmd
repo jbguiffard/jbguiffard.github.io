@@ -1,5 +1,5 @@
 ---
-title: "Courses"
+title: "Courses and Ressources"
 output:
   html_document:
     fig_width: 1
@@ -11,7 +11,33 @@ output:
 
 :::::: {.columns}
 ::: {.column width="48%" data-latex="{0.48\textwidth}"}
-**Data and Climate**
+
+*IEDES - Master mention "Etudes du Développement"*
+
+Master 1
+
+**Development Measurement**
+
+**Econometrics**
+
+<!---
+- The classical regression model
+
+- Heteroscedasticity
+
+- Non-linear models
+
+--->
+
+**Tutored Projects in Development Economics**
+
+**Data Exploration and Modelling (Inequalities, Discrimination)*
+
+---
+
+Master 2
+
+[**Climate and Data**](https://jeanbaptisteguiffard.github.io/courses_climatedata.html)
 
 To become familiar with climate issues and to understand the construction of sustainable development indicators, this course proposes: 
 
@@ -21,21 +47,9 @@ To become familiar with climate issues and to understand the construction of sus
 
 3. A common theme: climate data and sustainable development indicators.
 
-Lessons: 
-
-- The Basics of R / Manipulating datasets with Dplyr
-
-- Graphic representations with GGplot
-
-- Making maps with R
-
-- Web scraping with R
-
-- Extracting and analyzing textual data with R
-
-- Regressions with R
 
 
+<!---
 **Statistics with R**
 
 Lessons:
@@ -48,16 +62,9 @@ Lessons:
 
 - Simple and Multiple Regressions
 
+--->
 
 
-
-**Econometrics**
-
-- The classical regression model
-
-- Heteroscedasticity
-
-- Non-linear models
 
 :::
 ::: {.column width="4%" data-latex="{0.04\textwidth}"}
