@@ -41,9 +41,26 @@ figcaption {
 
 **Graduate Assistant (ATER)** in Development Economics (master level)
 
+Paris-1 Panthéon-Sorbonne University (IEDES), 2023-2024
+
+- *Development Measurement* (lecture and seminar) - M1
+
+- *Data and Climate* (an Introduction to R and an education on data and the construction of sustainable development indicators.) - M2
+
+- *Applied Econometrics* - M1
+
+- *Tutored Projects in Development Economics* - M1
+
+- *Data Exploration and Modelling (Inequalities, Discrimination)* - M1
+
+
+----
+
+**Graduate Assistant (ATER)** in Development Economics (master level)
+
 Paris-1 Panthéon-Sorbonne University (IEDES), 2022-2023
 
-- *Measurement* (Labor and Employment in Developing Countries) - M1
+- *Development Measurement* (Labor and Employment in Developing Countries) - M1
 
 - *Quantitative Methods training course* - M1
 
@@ -51,7 +68,7 @@ Paris-1 Panthéon-Sorbonne University (IEDES), 2022-2023
 
 - *Applied Econometrics* - M1
 
-- *Tutored Projects in development economics* - M1
+- *Tutored Projects in Development Economics* - M1
 
 
 **Lecturer** in Collection and analysis of quantitative and qualitative data (master level)
