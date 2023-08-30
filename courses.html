@@ -278,8 +278,6 @@ $(document).ready(function () {
 
 <hr />
 <p><link rel="shortcut icon" href="favicon.ico"></p>
-<div class="columns">
-<div class="column" style="width:62%;">
 <p><em>Master 1</em></p>
 <p><strong>Development Measurement</strong></p>
 <p>The aim of this course is to shed critical light on the indicators
@@ -295,13 +293,13 @@ developing countries?</p></li>
 with a solid understanding of the estimation and modelling techniques
 essential for analysing economic problems related to development. The
 following topics will be covered:</p>
-<ul>
+<ol style="list-style-type: decimal">
 <li><p>The classical regression model</p></li>
 <li><p>Properties of the OLS estimator in large samples</p></li>
 <li><p>Heteroscedasticity: The problem and correction methods</p></li>
 <li><p>Non-linear models: Probit and Logit</p></li>
 <li><p>Count models: Poisson models</p></li>
-</ul>
+</ol>
 <!---
 - The classical regression model
 
@@ -344,10 +342,7 @@ Lessons:
 - Simple and Multiple Regressions
 
 --->
-</div><div class="column" style="width:4%;">
-<p>  <!-- an empty Div (with a white space), serving as
-a column separator --></p>
-</div><div class="column" style="width:34%;">
+<hr />
 <p><strong>Ressources</strong></p>
 <p><img src="images/2_packages_tidyverse.png"
 style="width:100.0%" /></p>
@@ -361,8 +356,18 @@ DPLYR and TIDYR R</a></p></li>
 href="courses/ressources/R/Cheatsheet_GGPLOT2_R.pdf">Cheatsheet GGPLOT
 R</a></p></li>
 </ul>
-</div>
-</div>
+<!---
+:::::: {.columns}
+::: {.column width="62%" data-latex="{0.62\textwidth}"}
+:::
+::: {.column width="4%" data-latex="{0.04\textwidth}"}
+\ 
+
+:::
+:::::: {.column width="34%" data-latex="{0.34\textwidth}"}
+:::
+::::::
+--->
 
 
 

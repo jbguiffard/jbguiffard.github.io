@@ -13,8 +13,7 @@ output:
 <link rel="shortcut icon" href="favicon.ico">
 
 
-:::::: {.columns}
-::: {.column width="62%" data-latex="{0.62\textwidth}"}
+
 
 
 
@@ -33,15 +32,15 @@ The aim of this course is to shed critical light on the indicators used to measu
 
 This course deepens the basics of econometrics, providing students with a solid understanding of the estimation and modelling techniques essential for analysing economic problems related to development. The following topics will be covered: 
 
-- The classical regression model
+1. The classical regression model
 
-- Properties of the OLS estimator in large samples
+2. Properties of the OLS estimator in large samples
 
-- Heteroscedasticity: The problem and correction methods
+3. Heteroscedasticity: The problem and correction methods
 
-- Non-linear models: Probit and Logit
+4. Non-linear models: Probit and Logit
 
-- Count models: Poisson models
+5. Count models: Poisson models
 
 <!---
 - The classical regression model
@@ -95,14 +94,8 @@ Lessons:
 --->
 
 
+----
 
-:::
-::: {.column width="4%" data-latex="{0.04\textwidth}"}
-\ 
-<!-- an empty Div (with a white space), serving as
-a column separator -->
-:::
-:::::: {.column width="34%" data-latex="{0.34\textwidth}"}
 **Ressources**
 
 ![](images/2_packages_tidyverse.png){ width=100%}
@@ -115,8 +108,21 @@ a column separator -->
 
 
 
+
+<!---
+:::::: {.columns}
+::: {.column width="62%" data-latex="{0.62\textwidth}"}
+:::
+::: {.column width="4%" data-latex="{0.04\textwidth}"}
+\ 
+
+:::
+:::::: {.column width="34%" data-latex="{0.34\textwidth}"}
 :::
 ::::::
+--->
+
+
 \newline
 
 
