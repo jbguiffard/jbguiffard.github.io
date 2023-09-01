@@ -22,7 +22,7 @@ output:
 
 **Development Measurement**
 
-The aim of this course is to shed critical light on the indicators used to measure development. This course proposes: 
+The aim of this course is to shed critical light on the indicators used to measure development. This course is structured around two central questions:
 
 1. How the main development indicators are constructed, what information they provide and what their limitations are?
 
