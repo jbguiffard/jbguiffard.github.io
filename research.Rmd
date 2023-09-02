@@ -56,14 +56,6 @@ knitr::include_graphics("images/simulation_mno_germany.jpg")
 
 **From Bytes to Business: Evaluating the Role of Broadband in Firm Location Decisions** (with [Mohamed Ali Marouani](https://sites.google.com/view/mohamedali-marouani/home))
 
-This paper investigates the impact of mobile broadband Internet on business creation in Tunisia, a critical topic given the country's economic challenges. Using a rich dataset of Tunisian delegations, the study employs a count model to assess the influence of mobile broadband Internet quality on firm location decisions. The findings reveal a significant positive relationship between the density of 4G antennas per 10,000 inhabitants and the rate of new business creation. However, this effect is not observed in rural areas, suggesting potential differences in technology adoption and economic dynamics.
-The research highlights the potential role of mobile broadband Internet in fostering local economic growth, emphasizing the need for policymakers to consider contextual factors.
-
-```{r, echo=FALSE, out.width="50%"}
-knitr::include_graphics("images/tunisie_maps_chap3.jpg")
-```
-
-
 <!---
 
 This paper investigates the impact of mobile broadband Internet on business creation in Tunisia, a critical topic given the country's economic challenges. Using a rich dataset of Tunisian delegations, the study employs a count model to assess the influence of mobile broadband Internet quality on firm location decisions. The findings reveal a significant positive relationship between the density of 4G antennas per 10,000 inhabitants and the rate of new business creation. However, this effect is not observed in rural areas, suggesting potential differences in technology adoption.
