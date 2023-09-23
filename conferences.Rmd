@@ -34,7 +34,7 @@ output:
 
 - [9th FESP-Paris 1 Research Workshop](https://fesp-eg.org/wp-content/uploads/2023/03/Call_9thFEPS_Paris1.pdf), Paris-1 Panthéon-Sorbonne, Paris, France. *Scheduled*
 
-- [51st Research Conference on Communications, Information, and Internet Policy](http://www.tprcweb.com/overview-2023), Washington, USA. *Scheduled*
+- [51st Research Conference on Communications, Information, and Internet Policy](http://www.tprcweb.com/overview-2023), Washington, USA.
 
 - [7th Nordic Development Research Conference](https://www.nordev2023.se/), Uppsala University, Uppsala, Sweden.
 
