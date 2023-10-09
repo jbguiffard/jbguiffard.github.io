@@ -32,13 +32,15 @@ output:
 
 - [20th World Congress of the International Economic Association](https://ieawc2023.org/), Universidad EAFIT, Medellin, Colombia. *Scheduled*
 
-- [9th FESP-Paris 1 Research Workshop](https://fesp-eg.org/wp-content/uploads/2023/03/Call_9thFEPS_Paris1.pdf), Paris-1 Panthéon-Sorbonne, Paris, France. *Scheduled*
+- [9th FESP-Paris 1 Research Workshop](https://fesp-eg.org/wp-content/uploads/2023/03/Call_9thFEPS_Paris1.pdf), Paris 1 Panthéon-Sorbonne, Paris, France. *Scheduled*
+
+- UMR Développement & Sociétés/CIRED PhD Poster Session, Paris, France. *Scheduled*
 
 - [51st Research Conference on Communications, Information, and Internet Policy](http://www.tprcweb.com/overview-2023), Washington, USA.
 
 - [7th Nordic Development Research Conference](https://www.nordev2023.se/), Uppsala University, Uppsala, Sweden.
 
-- [UMR Développement & Sociétés PhD Seminar](https://umr-devsoc.pantheonsorbonne.fr/), Paris-1 Panthéon-Sorbonne, Paris, France.
+- [UMR Développement & Sociétés PhD Seminar](https://umr-devsoc.pantheonsorbonne.fr/), Paris 1 Panthéon-Sorbonne, Paris, France.
 
 - [32nd ITS European Conference](https://itseurope.org/2023/), UNED, Madrid, Spain.
 
