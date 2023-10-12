@@ -1,0 +1,180 @@
+---
+title: "JEAN-BAPTISTE GUIFFARD"
+geometry: "left=0.40in,top=0.3in,right=0.75in,bottom=0.1in"
+output: pdf_document
+---
+
+[My website](https://jeanbaptisteguiffard.github.io/)  
+Email: [jean-baptiste.guiffard@univ-paris1.fr](mailto:jean-baptiste.guiffard@univ-paris1.fr)  
+Address: IEDES/UMR D&S, Université Paris-1 Panthéon-Sorbonne, Nogent-sur-Marne  
+Phone: +33 6 87 96 61 05
+
+----
+
+# Education
+
+- **Paris I - Panthéon-Sorbonne University** (November 2019 – *Present*)  
+  *PhD degree in Economics*
+  - Thesis directors: Mohamed Ali Marouani (CES, D&S, Paris-1 Panthéon-Sorbonne University, IRD); François Roubaud (DIAL, IRD & Paris-Dauphine University)
+
+- **Paris I - Panthéon-Sorbonne University** (2018 - 2019)\
+  *Master Degree - Economic expertise of development, Summa cum laude, Valedictorian*
+  
+- **Paris VIII - Vincennes-Saint-Denis University** (2017 - 2018)\
+  *Master 1 in Economics and Sociology, Valedictorian*
+  - Laureate of secondary-school teaching diploma in Economic and Social Sciences (2018)
+  
+- **Caen University** (2013-2017)\
+  *Double Degree:*
+  - *Economics Degree, Summa cum Laude, Valedictorian*
+  - *History Degree, with honours*
+
+----
+
+# Experience
+
+- **Paris I - Panthéon-Sorbonne University, Nogent-sur-Marne, France** (2022 – Present)  
+  *Teaching Assistant in Economics (ATER Full-time)*
+
+- **Orange SA, Issy-les-Moulineaux, France** (2019 - 2022)\
+  *Research Economist, Europe and Economics division, Department of Regulation* 
+
+
+- **Audiovisual Council, Paris, France** 2019\
+  *Data scientist, Department of Studies*
+  - [The spread of fake news on social media - a study of the Twitter service](https://www.csa.fr/Informer/Collections-du-CSA/Focus-Toutes-les-etudes-et-les-comptes-rendus-synthetiques-proposant-un-zoom-sur-un-sujet-d-actualite/La-propagation-des-fausses-informations-sur-les-reseaux-sociaux-etude-de-la-plateforme-Twitter)
+  
+----
+
+# Teaching
+
+- **Paris I - Panthéon-Sorbonne University, Nogent-sur-Marne, France** (2023 – 2024)\
+  *Teaching Assistant in Economics (ATER Full-time)*
+  - *Development Measurement* (lecture and seminar) - M1
+  - *Climate and Data* (an Introduction to R and an education on data and the construction of sustainable development indicators.) - M2
+  - *Applied Econometrics* - M1
+  - *Tutored Projects in Development Economics* - M1
+  - *Data Exploration and Modelling (Inequalities, Discrimination)* - M1
+
+
+- **Paris I - Panthéon-Sorbonne University, Nogent-sur-Marne, France** (2022 – 2023)\
+  *Teaching Assistant in Economics (ATER Part-time)*
+  - *Development Measurement* (Labor and Employment in Developing Countries) - M1
+  - *Quantitative Methods training course* - M1
+  - *Climate and Data* (an Introduction to R and an education on data and the construction of sustainable development indicators.) - M2
+  - *Applied Econometrics* - M1
+  - *Tutored Projects in Development Economics* - M1
+
+- **Paris I - Panthéon-Sorbonne University / UFTAM, Tunisie** (2022)\
+  *Lecturer in Collection and analysis of quantitative and qualitative data (master level)*
+
+- **Paris I - Panthéon-Sorbonne University** (2021)\
+  *Assistant Lecturer of Catherine Doz in Econometrics (undergraduate level)* 
+
+- **Caen University** (2016-2017)\
+  *Teaching Assistant in microeconomics, macroeconomics and inferential statistics (undergraduate level)*
+
+
+
+----
+
+# Research Projects
+
+- **Valuing the Virtual: The Impact of Fiber to the Home (FTTH) on Property Prices in France** (2023)\
+  *Submitted*
+
+- **From Bytes to Business: Evaluating the Role of Broadband in Firm Location Decisions** (2023)
+  *Work in Progress* (with Mohamed Ali Marouani) 
+
+- [**Broadband Internet and Political Mobilization in Sub-Saharan Africa**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4247083) (2022)\
+  *Working paper* 
+
+- [**Welfare Cost of Mobile Spectrum (Mis)allocation**](https://cepr.org/publications/dp18016) (2022) 
+  *Working paper submitted* (with Marc Ivaldi, Julienne Liang and Louise Aïmène) 
+
+<!---
+%{\bf Migration Dynamics in West Africa on Long Period} \hfill { 2022} 
+%\\{ \textit {Work in Progress (with Karine Marazyan and Antoine Castet)}} 
+{\bf What Do Randomistas Tell us about Governance ? A Systematic Review of Randomized Control Trials in the Field of Governance } \hfill { 2019} 
+\\{ \textit {Master Thesis with François Roubaud and Mireille Razafindrakoto, IRD-Dial}} 
+ The Relationship between License Duration and Telecom Investment in Africa and the Middle East : an Econometric Analysis} \hfill { 2020} 
+\\{ \textit {Working paper}} 
+--->
+
+
+
+----
+
+# Technical Skills
+
+- **Languages**: French, English
+- **Programming Language**: R, Python, STATA, SAS, LaTeX, Web scraping
+
+
+----
+
+# Conferences
+
+**2023**
+
+- [20th World Congress of the International Economic Association](https://ieawc2023.org/), Universidad EAFIT, Medellin, Colombia. *Scheduled*
+
+- [9th FESP-Paris 1 Research Workshop](https://fesp-eg.org/wp-content/uploads/2023/03/Call_9thFEPS_Paris1.pdf), Paris 1 Panthéon-Sorbonne, Paris, France. *Scheduled*
+
+- UMR Développement & Sociétés/CIRED PhD Poster Session, Paris, France. *Scheduled*
+
+- [51st Research Conference on Communications, Information, and Internet Policy](http://www.tprcweb.com/overview-2023), Washington, USA.
+
+- [7th Nordic Development Research Conference](https://www.nordev2023.se/), Uppsala University, Uppsala, Sweden.
+
+- [UMR Développement & Sociétés PhD Seminar](https://umr-devsoc.pantheonsorbonne.fr/), Paris 1 Panthéon-Sorbonne, Paris, France.
+
+- [32nd ITS European Conference](https://itseurope.org/2023/), UNED, Madrid, Spain.
+
+- [71st Congress of the French Economic Association (AFSE)](https://afse2023.sciencesconf.org/), SciencesPo, Paris, France.
+
+- [1st Welfare & Policy Conference](https://wapsociety.org/event/conference-individual-and-collective-responses-to-a-troubled-world), BSE, Bordeaux, France.
+
+- [18th Doctorissimes PhD Conference](https://sites.google.com/site/doctorissimes3/18th-doctorissimes-2023), CES, Paris, France.
+
+
+**2022**
+
+- [Young Economist Seminar](https://www.digitaleconomics-paris.fr/young-economist-seminar), Telecom-Paris, Palaiseau, France.
+
+- [25th QED (Quantative Economics Doctorate Network) Jamboree](https://www.vgse.at/about-vgse/qed-network/), University of Vienna, Vienna, Austria.
+
+- [31st ITS European Regional Conference](https://itseurope.org/2022/), Chalmers University of Technology, Goteborg, Sweden.
+
+- [EADI conference](https://iedes.pantheonsorbonne.fr/evenements/iedes-eadi-france-journee-detude-internationale), Agence Française de Développement, Paris, France.
+
+
+----
+
+# Grants
+
+- Member of the ANR JuGe coordinated by Karine Marazyan, Charlotte Guénard and Paola Villar.
+
+- Funding for invitation in seminar () 650€
+
+- Funding for the organization of a Workshop on spatial data (1200€)
+
+
+
+----
+
+# Other academic activities
+
+- **IEDES / UMR Développement et Sociétés, Nogent-sur-Marne, France** (January 2022 – *Present*)
+  *Co-organization of the seminar "Au Tour de Nos Matériaux"*
+  - [AuToMat](https://jeanbaptisteguiffard.github.io/automat.html) - Multidisciplinary methodological seminar 
+  
+- **UMR Développement et Sociétés, Nogent-sur-Marne, France** (October 2023)
+  *Co-organization of a joint UMR DEVSOC and CIRED PhD poster session*
+
+- **UMR Développement et Sociétés and PSE, Nogent-sur-Marne, France** (December 2023)
+  *Co-organization of a Workshop on spatial data in economics*
+
+- **UMR Développement et Sociétés, Nogent-sur-Marne, France** (2022 - *Present*) 
+  *Representative of young researchers at the laboratory council* 
+
