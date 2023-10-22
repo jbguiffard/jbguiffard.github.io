@@ -34,7 +34,7 @@ output:
 
 - [9th FESP-Paris 1 Research Workshop](https://fesp-eg.org/wp-content/uploads/2023/03/Call_9thFEPS_Paris1.pdf), Paris 1 Panthéon-Sorbonne, Paris, France. *Scheduled*
 
-- UMR Développement & Sociétés/CIRED PhD Poster Session, Paris, France. *Scheduled*
+- UMR Développement & Sociétés/CIRED PhD Poster Session, Paris, France.
 
 - [51st Research Conference on Communications, Information, and Internet Policy](http://www.tprcweb.com/overview-2023), Washington, USA.
 
