@@ -14,7 +14,10 @@ output:
 
 Lessons: 
 
-- [The Basics of R / Manipulating datasets with Dplyr](https://github.com/jeanbaptisteguiffard/jeanbaptisteguiffard.github.io/tree/gh-pages/courses)
+1. The Basics of R / Manipulating datasets with Dplyr
+    - [Slides](https://jeanbaptisteguiffard.github.io/courses/data_climate/slides/Data_climate_cours_1.pdf)
+    - [Files](https://jeanbaptisteguiffard.github.io/courses/data_climate/training/course_1.zip)
+    
 
 - Graphic representations with GGplot
 
