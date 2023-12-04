@@ -9,22 +9,49 @@ output:
 <link rel="shortcut icon" href="favicon.ico">
 
 
+<style>
+figure {
+  text-align: center;
+}
+
+figcaption {
+  margin-top: 10px;
+}
+</style>
+
+<style>
+  .rounded-image {
+    border-radius: 10px; /* Ajoute des coins arrondis de 10 pixels */
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.4); /* Ajoute une ombre de 2 pixels de hauteur et 4 pixels de flou */
+  }
+</style>
+
+<p>
+<div class="row">
+<figure>
+  <img alt="Sorbonne" src="images/P1300734_Paris_V_place_de_la_Sorbonne_rwk.jpg" class="rounded-image"/>
+</figure>
+</div>
+</p>
+
+
+
 
 
 
 Lessons: 
 
-1. The Basics of R / Manipulating datasets with Dplyr
+1. **The Basics of R / Manipulating datasets with Dplyr**
     - [Slides](https://jeanbaptisteguiffard.github.io/courses/data_climate/slides/Data_climate_cours_1.pdf)
-    - [Files](https://jeanbaptisteguiffard.github.io/courses/data_climate/training/course_1.zip)
-    
+    - [Files](https://github.com/jeanbaptisteguiffard/jeanbaptisteguiffard.github.io/tree/gh-pages/courses/data_climate/training/course_1)
 
-- Graphic representations with GGplot
 
-- Making maps with R
+2. **Graphic representations with GGplot**
+    - [Slides]()
+    - [Files]()
 
-- Web scraping with R
+3. **Making maps with R**
 
-- Extracting and analyzing textual data with R
+4. **Web scraping with R**
 
-- Regressions with R
+5. **Extracting and analyzing textual data with R**
