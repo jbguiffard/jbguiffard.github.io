@@ -85,11 +85,9 @@ This course deepens the basics of econometrics, providing students with a solid 
 
 *Master 2*
 
-**Climate and Data**
 
-<!---
 [**Climate and Data**](https://jeanbaptisteguiffard.github.io/courses_climatedata.html)
---->
+
 
 To become familiar with climate issues and to understand the construction of sustainable development indicators, this course proposes: 
 
