@@ -51,7 +51,14 @@ Lessons:
     - [Files]()
 
 3. **Making maps with R**
-
+    - [Slides]()
+    - [Files]()
+    
 4. **Web scraping with R**
+    - [Slides]()
+    - [Files]()
 
 5. **Extracting and analyzing textual data with R**
+    - [Slides]()
+    - [Files]()
+    
