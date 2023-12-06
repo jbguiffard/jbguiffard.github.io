@@ -29,36 +29,28 @@ figcaption {
 <p>
 <div class="row">
 <figure>
-  <img alt="Sorbonne" src="images/P1300734_Paris_V_place_de_la_Sorbonne_rwk.jpg" class="rounded-image"/>
+  <img alt="Sorbonne" src="images/temperature_maps.png" class="rounded-image"/>
 </figure>
 </div>
 </p>
-
-
-
-
 
 
 Lessons: 
 
 1. **The Basics of R / Manipulating datasets with Dplyr**
     - [Slides](https://jeanbaptisteguiffard.github.io/courses/data_climate/slides/Data_climate_cours_1.pdf)
-    - [Files](https://github.com/jeanbaptisteguiffard/jeanbaptisteguiffard.github.io/tree/gh-pages/courses/data_climate/training/course_1)
-
 
 2. **Graphic representations with GGplot**
-    - [Slides]()
-    - [Files]()
+    - [Slides](https://jeanbaptisteguiffard.github.io/courses/data_climate/slides/Data_climate_cours_2.pdf)
 
 3. **Making maps with R**
     - [Slides]()
-    - [Files]()
     
 4. **Web scraping with R**
     - [Slides]()
-    - [Files]()
 
 5. **Extracting and analyzing textual data with R**
     - [Slides]()
-    - [Files]()
+
+[All Files (scripts and databases)](https://github.com/jeanbaptisteguiffard/jeanbaptisteguiffard.github.io/tree/gh-pages/courses/data_climate/training/course_1)
     
