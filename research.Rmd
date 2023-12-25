@@ -18,7 +18,7 @@ I use the gradual arrival of submarine Internet cables on the coast and the rout
 
 ```{r, echo=FALSE, out.width="50%"}
 knitr::include_graphics("images/plot_methodo_chap1_bon.jpeg")
-knitr::include_graphics("images/coef_plot_backbone.jpg")
+knitr::include_graphics("images/coef_plot_bb2.png")
 ```
 
 
