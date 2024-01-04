@@ -8,7 +8,19 @@ output:
 <link rel="shortcut icon" href="favicon.ico">
 
 
-----
+<style>
+  .rounded-image {
+    border-radius: 10px; 
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.4); 
+    margin-right: 2mm; 
+    margin-left: 2mm;
+  }
+
+</style>
+
+<div>
+  <img  align="right" src="images/plot_methodo_chap1_bon.jpeg" class="rounded-image" alt="plot_methodo_chap1_bon.jpeg"  width="380px" >
+</div>
 
 <div style="display: flex;">
 <div style="flex: 50%;">
@@ -18,39 +30,14 @@ output:
 I use the gradual arrival of submarine Internet cables on the coast and the route of the backbone cables network to demonstrate how high-speed Internet (fixed and mobile jointly considered) has an impact on political mobilization in Africa. I obtained robust difference-in-differences estimates using Afrobarometer data from ten countries, which reveal a positive effect on the likelihood of participating in a protest. Since having access to high-speed Internet allows access to social networks and other content, two mechanisms are explored to explain this positive impact: information and coordination channels. The main explanatory channel appears to be the enhanced coordination.
 
 </div>
-<div style="flex: 50%;">
-
-```{r, echo=FALSE, out.width='90%'}
-knitr::include_graphics("images/plot_methodo_chap1_bon.jpeg")
-```
-
-</div>
 </div>
 
 
 ----
 
-<div style="display: flex;">
-<div style="flex: 50%;">
-
-```{r, echo=FALSE, out.width="100%"}
-knitr::include_graphics("images/marginal_cost_MNO_germany.jpg")
-knitr::include_graphics("images/simulation_mno_germany.jpg")
-```
-
-
+<div>
+  <img  align="left" src="images/map_rdd_ftth.jpg" class="rounded-image" alt="map_rdd_ftth.jpg"  width="380px" >
 </div>
-<div style="flex: 50%;">
-
-**Welfare Cost of Mobile Spectrum (Mis)allocation** (with [Marc Ivaldi](https://www.tse-fr.eu/fr/people/marc-ivaldi), [Julienne Liang](https://www.researchgate.net/profile/Julienne-Liang) and Louise Aïmène) - [Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4228058)
-
-The conditions of spectrum allocation or reallocation are significant in determining the market structure in the telecom sector which in turn affects the prices and the quality of mobile networks. In a more concentrated market, the quantity of spectrum is less diluted, and operators can offer higher quality to their customers; In a more competitive market, where there are more operators, consumers can benefit from a lower price but at the expense of less spectrum for each operator. To address this trade-off, we first fit a demand model of mobile telecommunications services on a unique panel database for 23 MNOs of five major European countries from 2004Q3 to 2021Q4. Notably, we provide an adequate proxy of the mobile network quality for consumers by combining coverage data with spectrum data. Using this estimated demand model, we conduct a counterfactual simulation to measure the effect on consumer surplus of the incomplete spectrum allocation and the arrival of an additional operator in Germany. Results show that reallocating additional spectrum to three instead of four operators is consumer welfare improving as prices do not increase much while quality is significantly improved.
-
-</div>
-</div>
-
-
-----
 
 <div style="display: flex;">
 <div style="flex: 50%;">
@@ -61,11 +48,20 @@ This paper examines the value that households place on very high-speed internet 
 Using a Spatial Discontinuity Design based on the border of fiber eligibility zones which have significantly expanded under France's Plan *Très Haut-Débit*, I find that FTTH eligibility is a significant determinant of property prices, with an average increase of 0.9 percent. I also consider heterogeneities in FTTH valuation based on socioeconomic characteristics, local factors and income levels. These findings highlight the growing importance of fast and reliable broadband access for households and have important implications for policymakers and Internet service providers.
 
 </div>
+</div>
+
+----
+
+<div>
+  <img  align="right" src="images/marginal_cost_MNO_germany.jpg" class="rounded-image" alt="marginal_cost_MNO_germany.jpg"  width="420px" >
+</div>
+
+<div style="display: flex;">
 <div style="flex: 50%;">
 
-```{r, echo=FALSE, out.width='90%'}
-knitr::include_graphics("images/map_rdd_ftth.jpg")
-```
+**Welfare Cost of Mobile Spectrum (Mis)allocation** (with [Marc Ivaldi](https://www.tse-fr.eu/fr/people/marc-ivaldi), [Julienne Liang](https://www.researchgate.net/profile/Julienne-Liang) and Louise Aïmène) - [Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4228058)
+
+The conditions of spectrum allocation or reallocation are significant in determining the market structure in the telecom sector which in turn affects the prices and the quality of mobile networks. In a more concentrated market, the quantity of spectrum is less diluted, and operators can offer higher quality to their customers; In a more competitive market, where there are more operators, consumers can benefit from a lower price but at the expense of less spectrum for each operator. To address this trade-off, we first fit a demand model of mobile telecommunications services on a unique panel database for 23 MNOs of five major European countries from 2004Q3 to 2021Q4. Notably, we provide an adequate proxy of the mobile network quality for consumers by combining coverage data with spectrum data. Using this estimated demand model, we conduct a counterfactual simulation to measure the effect on consumer surplus of the incomplete spectrum allocation and the arrival of an additional operator in Germany. Results show that reallocating additional spectrum to three instead of four operators is consumer welfare improving as prices do not increase much while quality is significantly improved.
 
 </div>
 </div>
