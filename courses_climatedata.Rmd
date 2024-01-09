@@ -44,10 +44,10 @@ Lessons:
     - [Slides](https://jeanbaptisteguiffard.github.io/courses/data_climate/slides/Data_climate_cours_2.pdf)
 
 3. **Making maps with R**
-    - [Slides]()
+    - [Slides](https://jeanbaptisteguiffard.github.io/courses/data_climate/slides/Data_climate_cours_3.pdf)
     
 4. **Web scraping with R**
-    - [Slides]()
+    - [Slides](https://jeanbaptisteguiffard.github.io/courses/data_climate/slides/Data_climate_cours_4.pdf)
 
 5. **Extracting and analyzing textual data with R**
     - [Slides]()
