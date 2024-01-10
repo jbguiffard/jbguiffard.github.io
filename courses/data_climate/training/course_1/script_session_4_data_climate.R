@@ -50,8 +50,8 @@ batailles_afr <- subset(batailles_afr, Résultat!=guerre)
 page <- read_html('https://www.gouvernement.fr/discours-et-rapports?content_type%5B%5D=speech')
 
 
-raw_list <- page %>%
-  html_nodes('div')
+#raw_list <- page %>%
+#  html_nodes('div')
 
 
 raw_list <- page %>%
@@ -101,8 +101,9 @@ for(row_x in 1:nrow(bdd1)){
   speech_x <- unlist(page_speech %>%
     html_nodes(css="section[class='contents__content fr-mb-10w']") %>%
     html_nodes(css="div[class='fr-col-lg-9 fr-col-offset-lg-1']") %>%
-    html_text()) %>%
-    trimws()
+    html_text() %>%
+      trimws())
+    
   bdd1[row_x,'speech'] <- do.call(paste, c(as.list(speech_x), sep = " "))
   Sys.sleep(2)
 }

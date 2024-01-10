@@ -7,7 +7,7 @@
 # Données et Climat Session 3 
 
 #setwd('C:/Users/jbgui/OneDrive - Université Paris 1 Panthéon-Sorbonne/COURS_DISPENSES/IEDES_2022_2023/Data_Climat')
-
+setwd('C:/Users/Giffarrd/OneDrive - Université Paris 1 Panthéon-Sorbonne/Documents/jeanbaptisteguiffard.github.io/courses/data_climate/training/course_1')
 library(flextable)
 library(dplyr)
 library(magrittr)
@@ -77,6 +77,7 @@ m <- leaflet() %>% addTiles()
 m1 <- leaflet(data = power_plants_points_europe) %>% addTiles() %>%
   addMarkers(~longitude, ~latitude, popup = ~as.character(fuel1), label = ~as.character(fuel1),
              clusterOptions = markerClusterOptions())
+
 
 
 # Notre première carte avec ggplot
@@ -180,11 +181,11 @@ coal_pw_plants <- subset(power_plants_points, fuel1 == "Coal")
 n_pw_plts_coal <- st_intersects(world_map, coal_pw_plants)
 world_map$n_coal_pw <- sapply(X = n_pw_plts_coal, FUN = length) 
 
-
-world_map$breaks_coal <- ifelse(is.na(world_map$breaks_coal),"0",world_map$breaks_coal)
 world_map$breaks_coal <-  cut(as.numeric(world_map$n_coal_pw),
                               breaks=c(0,10,20,30,40,50,100,700),
                               labels=c("[0;10[", "[10;20[", "[20;30[", "[30;40[","[40;50[", "[50;100[", "[100;700["))
+world_map$breaks_coal <- ifelse(is.na(world_map$breaks_coal),"0",world_map$breaks_coal)
+
  
 
 map_coal <- ggplot() +
