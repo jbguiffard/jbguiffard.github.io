@@ -1,7 +1,8 @@
 ## Exercice
 
 #setwd('C:/Users/jbgui/OneDrive - Université Paris 1 Panthéon-Sorbonne/COURS_DISPENSES/IEDES_2022_2023/Data_Climat')
-
+library(rvest)
+library(ggplot2)
 url <- "https://en.wikipedia.org/wiki/List_of_countries_by_ecological_footprint"
 code_html <- read_html(url, encoding="UTF-8")
 
@@ -42,7 +43,7 @@ library(sf)
 world_map <- st_read('DATA/world-administrative-boundaries.shp')
 world_map <- merge(world_map, ecofootprint_table, by.x="name", by.y="Country.region", all.x=T)
 
-pdf('Ecologicalfootprint.pdf')
+#pdf('Ecologicalfootprint.pdf')
 ggplot()+
   geom_sf(data = world_map, aes(fill=Ecologicalfootprint), size=0.3, show.legend = TRUE)
-dev.off()
+#dev.off()
