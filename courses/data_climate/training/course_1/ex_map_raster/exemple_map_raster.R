@@ -60,9 +60,6 @@ raster_precmax5 <- raster('ex_map_raster/wc2.1_2.5m_prec_05.tif')
 raster_tmax5_ecuador = crop(raster_precmax5,gadm_ecuador)
 raster_tmax5_ecuador = mask(raster_tmax5_ecuador,gadm_ecuador)
 
-gain(raster_tmax5_ecuador) <- 0.1 #must be multiplied by 0.1 to convert back to degrees Celsius
-raster_tmax5_ecuador$wc2.1_2.5m_prec_05
-
 plot(raster_tmax5_ecuador) # température maximum en mai
 
 # Converting the raster object into a dataframe
