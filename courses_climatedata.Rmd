@@ -50,7 +50,7 @@ Lessons:
     - [Slides](https://jeanbaptisteguiffard.github.io/courses/data_climate/slides/Data_climate_cours_4.pdf)
 
 5. **Extracting and analyzing textual data with R**
-    - [Slides]()
+    - [Slides](https://jeanbaptisteguiffard.github.io/courses/data_climate/slides/Data_climate_cours_5.pdf)
 
 [All Files (scripts and databases)](https://github.com/jeanbaptisteguiffard/jeanbaptisteguiffard.github.io/tree/gh-pages/courses/data_climate/training/course_1)
     
