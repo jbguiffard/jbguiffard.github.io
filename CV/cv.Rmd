@@ -1,9 +1,11 @@
 ---
 title: "JEAN-BAPTISTE GUIFFARD"
-date: "15-10-2023"
+date: "`r Sys.Date()`"
 geometry: "left=0.40in,top=0.3in,right=0.75in,bottom=0.1in"
 output: pdf_document
 ---
+
+
 
 My website: [https://jeanbaptisteguiffard.github.io/](https://jeanbaptisteguiffard.github.io/)  
 Email: [jean-baptiste.guiffard@univ-paris1.fr](mailto:jean-baptiste.guiffard@univ-paris1.fr)  
@@ -34,7 +36,7 @@ Phone: +33 6 87 96 61 05
 
 # Experience
 
-- **Paris I - Panthéon-Sorbonne University, Nogent-sur-Marne, France** (2022 – Present)  
+- **Paris I - Panthéon-Sorbonne University, Nogent-sur-Marne, France** (2022 – *Present*)  
   *Teaching Assistant in Economics (ATER Full-time)*
 
 - **Orange SA, Issy-les-Moulineaux, France** (2019 - 2022)\
@@ -51,8 +53,10 @@ Phone: +33 6 87 96 61 05
 
 - **Paris I - Panthéon-Sorbonne University, Nogent-sur-Marne, France** (2023 – 2024)\
   *Teaching Assistant in Economics (ATER Full-time)*
-  - *Development Measurement* (lecture and seminar) - M1
+  - *Development Measurement* (lecture) - M1
+  - *Development Economics* (seminar) - M1
   - *Climate and Data* (an Introduction to R and an education on data and the construction of sustainable development indicators.) - M2
+  - *Alumni Conferences* - M2
   - *Applied Econometrics* - M1
   - *Tutored Projects in Development Economics* - M1
   - *Data Exploration and Modelling (Inequalities, Discrimination)* - M1
@@ -81,17 +85,18 @@ Phone: +33 6 87 96 61 05
 
 # Research Projects
 
-- **Valuing the Virtual: The Impact of Fiber to the Home (FTTH) on Property Prices in France** (2023)\
-  *Submitted*
-
-- **From Bytes to Business: Evaluating the Role of Broadband in Firm Location Decisions** (2023)\
-  *Work in Progress* (with Mohamed Ali Marouani) 
-
 - [**Broadband Internet and Political Mobilization in Sub-Saharan Africa**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4247083) (2022)\
   *Working paper* 
-
+  
 - [**Welfare Cost of Mobile Spectrum (Mis)allocation**](https://cepr.org/publications/dp18016) (2022) \
   *Working paper submitted* (with Marc Ivaldi, Julienne Liang and Louise Aïmène) 
+
+- **Valuing the Virtual: The Impact of Fiber to the Home (FTTH) on Property Prices in France** (2023)\
+  *Review and Resubmit in Telecommunications Policy*
+
+- **From Bytes to Business: Assessing the Role of Mobile Broadband Internet in the Creation of Tunisian Firms** (2023)\
+  *Work in Progress* (with Mohamed Ali Marouani) 
+
 
 <!---
 %{\bf Migration Dynamics in West Africa on Long Period} \hfill { 2022} 
@@ -102,6 +107,11 @@ Phone: +33 6 87 96 61 05
 \\{ \textit {Working paper}} 
 --->
 
+----
+
+# Publications
+
+- Kergall, P. & Guiffard J.‐B. (*forthcoming*). Impact of Broadband Internet on Preventive Healthcare Behaviors in Senegal. *Economie et Statistique, Economics and Statistics*.
 
 
 ----
@@ -168,14 +178,18 @@ Phone: +33 6 87 96 61 05
 
 - **IEDES / UMR Développement et Sociétés, Nogent-sur-Marne, France** (January 2022 – *Present*)\
   *Co-organization of the seminar "Au Tour de Nos Matériaux"*
-  - [AuToMat](https://jeanbaptisteguiffard.github.io/automat.html) - Multidisciplinary methodological seminar 
+  - [AuToMat](https://jeanbaptisteguiffard.github.io/automat.html) - Multidisciplinary methodological seminar
+
+- **UMR Développement et Sociétés, Nogent-sur-Marne, France** (2022 - *Present*) \
+  *Representative of young researchers at the laboratory council* 
+
+- **Member of the Board of Directors of the French Association for Development Economics (AFEDEV)** (2023 - *Present*) \
+  [*Communication team*](https://afedev.fr/)
+  
+- **UMR Développement et Sociétés and PSE, Nogent-sur-Marne, France** (December 2023)\
+  *Co-organization of a [Workshop on spatial data in economics](https://umr-devsoc.pantheonsorbonne.fr/evenements/journee-detudes-donnees-spatiales-nouvelles-sources-nouvelles-perspectives)*
   
 - **UMR Développement et Sociétés, Nogent-sur-Marne, France** (October 2023)\
   *Co-organization of a joint UMR DEVSOC and CIRED PhD poster session*
 
-- **UMR Développement et Sociétés and PSE, Nogent-sur-Marne, France** (December 2023)\
-  *Co-organization of a Workshop on spatial data in economics*
-
-- **UMR Développement et Sociétés, Nogent-sur-Marne, France** (2022 - *Present*) \
-  *Representative of young researchers at the laboratory council* 
 
