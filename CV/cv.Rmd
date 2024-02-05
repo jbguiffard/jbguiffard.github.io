@@ -1,5 +1,6 @@
 ---
-title: "JEAN-BAPTISTE GUIFFARD"
+title: "Jean-Baptiste Guiffard"
+subtitle: https://jeanbaptisteguiffard.github.io/
 date: "`r Sys.Date()`"
 geometry: "left=0.40in,top=0.3in,right=0.75in,bottom=0.1in"
 output: pdf_document

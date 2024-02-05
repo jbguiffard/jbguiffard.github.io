@@ -69,23 +69,23 @@ figcaption {
 
 **Découvrir R**
 
-- **Thursday, March, 17th 2022 (17h30-18h30)** : [Antoine Castet](https://sites.google.com/view/antoinecastet/accueil) (UMR D&S) et [Jean-Baptiste Guiffard](https://jeanbaptisteguiffard.github.io/) (UMR D&S) - *Les bases du langage (langage de base et Dplyr)* - [Enregistrement](https://www.youtube.com/watch?v=L8K-PVIid4g)
+- **Thursday, March, 17th 2022 (17h30-18h30)** : [Antoine Castet](https://sites.google.com/view/antoinecastet) (UMR D&S) et [Jean-Baptiste Guiffard](https://jeanbaptisteguiffard.github.io/) (UMR D&S) - *Les bases du langage (langage de base et Dplyr)* - [Enregistrement](https://www.youtube.com/watch?v=L8K-PVIid4g)
 
-- **Thursday, March, 24th 2022 (17h30-18h30)** : [Antoine Castet](https://sites.google.com/view/antoinecastet/accueil) (UMR D&S) et [Jean-Baptiste Guiffard](https://jeanbaptisteguiffard.github.io/) (UMR D&S) - *Représentations graphiques et tableaux de statistiques* - [Enregistrement](https://www.youtube.com/watch?v=acHVPQ9H1Uc)
+- **Thursday, March, 24th 2022 (17h30-18h30)** : [Antoine Castet](https://sites.google.com/view/antoinecastet) (UMR D&S) et [Jean-Baptiste Guiffard](https://jeanbaptisteguiffard.github.io/) (UMR D&S) - *Représentations graphiques et tableaux de statistiques* - [Enregistrement](https://www.youtube.com/watch?v=acHVPQ9H1Uc)
 
 
-- **Thursday, April, 7th 2022 (17h30-18h30)** : [Antoine Castet](https://sites.google.com/view/antoinecastet/accueil) (UMR D&S) et [Jean-Baptiste Guiffard](https://jeanbaptisteguiffard.github.io/) (UMR D&S) - *Introduction à Rmarkdown* - [Enregistrement](https://www.youtube.com/watch?v=Wq28FTFgAVY&feature=youtu.be)
+- **Thursday, April, 7th 2022 (17h30-18h30)** : [Antoine Castet](https://sites.google.com/view/antoinecastet) (UMR D&S) et [Jean-Baptiste Guiffard](https://jeanbaptisteguiffard.github.io/) (UMR D&S) - *Introduction à Rmarkdown* - [Enregistrement](https://www.youtube.com/watch?v=Wq28FTFgAVY&feature=youtu.be)
 
 
 **Des données en cartes**
 
-- **Thursday, April, 21th 2022 (17h30-18h30)** : [Karine Marazyan](https://sites.google.com/site/karinemarazyan/index) (UMR D&S), [Antoine Castet](https://sites.google.com/view/antoinecastet/accueil) (UMR D&S) et [Jean-Baptiste Guiffard](https://jeanbaptisteguiffard.github.io/) (UMR D&S) - *L'usage des cartes dans des travaux de recherche en économie* - [Enregistrement](https://www.youtube.com/watch?v=vEKANlvIsjA)
+- **Thursday, April, 21th 2022 (17h30-18h30)** : [Karine Marazyan](https://sites.google.com/site/karinemarazyan/index) (UMR D&S), [Antoine Castet](https://sites.google.com/view/antoinecastet) (UMR D&S) et [Jean-Baptiste Guiffard](https://jeanbaptisteguiffard.github.io/) (UMR D&S) - *L'usage des cartes dans des travaux de recherche en économie* - [Enregistrement](https://www.youtube.com/watch?v=vEKANlvIsjA)
 
 
-- **Thursday, May, 5th 2022 (17h30-18h30)** : [Antoine Castet](https://sites.google.com/view/antoinecastet/accueil) (UMR D&S) et [Jean-Baptiste Guiffard](https://jeanbaptisteguiffard.github.io/) (UMR D&S) - *Aperçu des bases et méthodes d’extraction* - [Enregistrement](https://www.youtube.com/watch?v=5CIDZM_E_2k&feature=youtu.be)
+- **Thursday, May, 5th 2022 (17h30-18h30)** : [Antoine Castet](https://sites.google.com/view/antoinecastet) (UMR D&S) et [Jean-Baptiste Guiffard](https://jeanbaptisteguiffard.github.io/) (UMR D&S) - *Aperçu des bases et méthodes d’extraction* - [Enregistrement](https://www.youtube.com/watch?v=5CIDZM_E_2k&feature=youtu.be)
 
 
-- **Thursday, May, 12th 2022 (17h30-18h30)** : [Antoine Castet](https://sites.google.com/view/antoinecastet/accueil) (UMR D&S) - *Une application avec Qgis* - [Enregistrement](https://www.youtube.com/watch?v=6Tt3Vup_2Tk)
+- **Thursday, May, 12th 2022 (17h30-18h30)** : [Antoine Castet](https://sites.google.com/view/antoinecastet) (UMR D&S) - *Une application avec Qgis* - [Enregistrement](https://www.youtube.com/watch?v=6Tt3Vup_2Tk)
 
 **Lexicographie**
 
