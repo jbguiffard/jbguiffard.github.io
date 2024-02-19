@@ -8,17 +8,23 @@ navbar:
       href: research.html
     - text: "Conferences"
       href: conferences.html
-    - text: "Courses and Ressources"
+    - text: "Courses and Resources"
       href: courses.html
     - text: "Séminaire AuToMat"
       href: automat.html
+  right:
+    - text: "Social Media"
+      menu:
+        - text: "Twitter"
+          href: "https://twitter.com/JBGuiffard"
+        - text: "Mastodon"
+          href: "https://econtwitter.net/@jbguiffard"
+        - text: "LinkedIn"
+          href: "https://www.linkedin.com/in/jean-baptiste-guiffard-b7063090/"
 
 output_dir: "."
 output:
   html_document:
     theme: yeti
     highlight: textmate
-#    include:
-#      after_body: _footer.html
-
 
