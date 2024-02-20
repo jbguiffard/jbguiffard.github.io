@@ -98,6 +98,8 @@ Phone: +33 6 87 96 61 05
 - **From Bytes to Business: Assessing the Role of Mobile Broadband Internet in the Creation of Tunisian Firms** (2023)\
   *Work in Progress* (with Mohamed Ali Marouani) 
 
+- **Migration and intergenerational transmission of marriage-related practices in West Africa over the long run: Evidence from oral genealogies**, with Antoine Castet, Karine Marazyan, and Munir Squires
+
 
 <!---
 %{\bf Migration Dynamics in West Africa on Long Period} \hfill { 2022} 
@@ -188,7 +190,7 @@ Phone: +33 6 87 96 61 05
   [*Communication team*](https://afedev.fr/)
   
 - **UMR Développement et Sociétés and PSE, Nogent-sur-Marne, France** (December 2023)\
-  *Co-organization of a [Workshop on spatial data in economics](https://umr-devsoc.pantheonsorbonne.fr/evenements/journee-detudes-donnees-spatiales-nouvelles-sources-nouvelles-perspectives)*
+  *Co-organization of a [Workshop on spatial data in economics](https://umr-devsoc.pantheonsorbonne.fr/evenements/journee-detudes-donnees-spatiales-nouvelles-sources-nouvelles-perspectives)* with [Antoine Castet](https://sites.google.com/view/antoinecastet) (UMR Développement & Sociétés), [Pascale Champalaune](https://www.parisschoolofeconomics.eu/fr/champalaune-pascale/) (PSE) and [Julia Paul-Venturine](https://julia-paulventurine.github.io/) (PSE)
   
 - **UMR Développement et Sociétés, Nogent-sur-Marne, France** (October 2023)\
   *Co-organization of a joint UMR DEVSOC and CIRED PhD poster session*

@@ -33,7 +33,7 @@ figcaption {
 <p>
 <div class="row">
 <figure>
-  <img alt="Sorbonne" src="images/P1300734_Paris_V_place_de_la_Sorbonne_rwk.jpg" class="rounded-image"/>
+  <img alt="Sorbonne" src="images/P1300734_Paris_V_place_de_la_Sorbonne_rwk1.jpg" class="rounded-image"/>
 </figure>
 </div>
 </p>
