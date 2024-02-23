@@ -90,9 +90,6 @@ Phone: +33 6 87 96 61 05
   
 - [**Welfare Cost of Mobile Spectrum (Mis)allocation**](https://cepr.org/publications/dp18016) (2022) \
   *Working paper submitted* (with Marc Ivaldi, Julienne Liang and Louise Aïmène) 
-- **Valuing the Virtual: The Impact of Fiber to the Home (FTTH) on Property Prices in France** (2023)\
-  *Review and Resubmit in Telecommunications Policy*
-
 - **From Bytes to Business: Assessing the Role of Mobile Broadband Internet in the Creation of Tunisian Firms** (2023)\
   *Work in Progress* (with Mohamed Ali Marouani) 
 
@@ -115,6 +112,7 @@ Phone: +33 6 87 96 61 05
 
 - Kergall, P. & Guiffard J.‐B. (*forthcoming*). Impact of Broadband Internet on Preventive Healthcare Behaviors in Senegal. *Economie et Statistique, Economics and Statistics*.
 
+- Guiffard J.‐B. (*forthcoming*). Valuing the Virtual: The Impact of Fiber to the Home (FTTH) on Property Prices in France.  *Telecommunications Policy*.
 
 ----
 
