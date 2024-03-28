@@ -31,10 +31,14 @@ output:
   <img  align="right" src="images/plot_methodo_chap1_bon.jpeg" class="rounded-image" alt="plot_methodo_chap1_bon.jpeg"  width="350px" >
 </div>
 
-**The Impact of Broadband Internet on Political Mobilization in Sub-Saharan Africa** - [Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4247083)
+**From Connection to Coordination: Unraveling the Relationship between High-Speed Internet and Protests in Africa** 
 
-I use the gradual arrival of submarine Internet cables on the coast and the route of the backbone cables network to demonstrate how high-speed Internet (fixed and mobile jointly considered) has an impact on political mobilization in Africa. I obtained robust difference-in-differences estimates using Afrobarometer data from ten countries, which reveal a positive effect on the likelihood of participating in a protest. Since having access to high-speed Internet allows access to social networks and other content, two mechanisms are explored to explain this positive impact: information and coordination channels. The main explanatory channel appears to be the enhanced coordination.
+This study leverages the staggered arrival of submarine Internet cables and the terrestrial backbone network in Africa to examine the influence of high-speed Internet (encompassing both fixed and mobile) on political mobilization. Utilizing Afrobarometer and ACLED data across ten countries, robust difference-in-differences estimates indicate a significant increase in both the likelihood of protest participation and the frequency of protests. Crucially, this effect is observed in 'free' countries, where political rights and civil liberties are actively exercised. The analysis explores two key mechanisms—information dissemination and coordination facilitation—with enhanced coordination emerging as the key driver of the observable impact.
 
+
+<!---
+- [Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4247083)
+--->
 
 ----
 
@@ -72,7 +76,7 @@ This research project links investment in the telecommunications sector and one 
 
 --->
 
-----
+
 
 ## Publications
 
