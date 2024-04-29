@@ -31,7 +31,7 @@ output:
   <img  align="right" src="images/plot_methodo_chap1_bon.jpeg" class="rounded-image" alt="plot_methodo_chap1_bon.jpeg"  width="350px" >
 </div>
 
-**From Connection to Coordination: Unraveling the Relationship between High-Speed Internet and Protests in Africa** 
+**From Connection to Coordination: High-Speed Internet and Protests in Africa** 
 
 This study leverages the staggered arrival of submarine Internet cables and the terrestrial backbone network in Africa to examine the influence of high-speed Internet (encompassing both fixed and mobile) on political mobilization. Utilizing Afrobarometer and ACLED data across ten countries, robust difference-in-differences estimates indicate a significant increase in both the likelihood of protest participation and the frequency of protests. Crucially, this effect is observed in 'free' countries, where political rights and civil liberties are actively exercised. The analysis explores two key mechanisms—information dissemination and coordination facilitation—with enhanced coordination emerging as the key driver of the observable impact.
 
