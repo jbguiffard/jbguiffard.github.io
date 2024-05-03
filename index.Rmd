@@ -24,7 +24,7 @@ output:
 --->
 
 <div>
-  <img  align="right" src="images/IMG-20230620-WA0005_profil.jpg" class="rounded-image" alt="IMG-20230620-WA0005_profil.jpg"  width="340px" >
+  <img  align="right" src="images/profil_image_vertical.jpg" class="rounded-image" alt="profil_image_vertical.jpg"  width="340px" >
 </div>
 
 
