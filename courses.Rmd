@@ -4,14 +4,13 @@ subtitle: "IEDES - Master mention Etudes du Développement"
 output:
   html_document:
     fig_width: 1
-    css: columns.css
+    theme: united
+    highlight: tango
+    css: styles.css
 ---
 
 
 ----
-
-<link rel="shortcut icon" href="favicon.ico">
-
 
 <style>
 figure {
@@ -21,6 +20,7 @@ figure {
 figcaption {
   margin-top: 10px;
 }
+
 </style>
 
 <style>
@@ -28,7 +28,17 @@ figcaption {
     border-radius: 10px; /* Ajoute des coins arrondis de 10 pixels */
     box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.4); /* Ajoute une ombre de 2 pixels de hauteur et 4 pixels de flou */
   }
+    .section-title {
+    font-size: 1.8em;
+    margin-top: 30px;
+    border-bottom: 2px solid #007bff;
+    display: inline-block;
+    padding-bottom: 5px;
+  }
 </style>
+
+<link rel="shortcut icon" href="favicon.ico">
+
 
 <p>
 <div class="row">
@@ -41,7 +51,9 @@ figcaption {
 
 
 
-*Master 1*
+<h2 class="section-title">Master 1</h2>
+
+
 
 **Development Measurement**
 
@@ -83,7 +95,7 @@ This course deepens the basics of econometrics, providing students with a solid 
 
 ---
 
-*Master 2*
+<h2 class="section-title">Master 2</h2>
 
 
 [**Climate and Data**](https://jeanbaptisteguiffard.github.io/courses_climatedata.html)
@@ -117,7 +129,7 @@ Lessons:
 
 ----
 
-**Ressources**
+<h2 class="section-title">Ressources</h2>
 
 ![](images/2_packages_tidyverse.png){ width=100%}
 

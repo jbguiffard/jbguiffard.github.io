@@ -3,11 +3,9 @@ title: "Short Vitae"
 output:
   html_document:
     fig_width: 1
----
-
-
-<link rel="shortcut icon" href="favicon.ico">
-
+    theme: united
+    highlight: tango
+    css: styles.css
 ---
 
 <style>
@@ -26,18 +24,28 @@ figcaption {
     border-radius: 10px; /* Ajoute des coins arrondis de 10 pixels */
     box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.4); /* Ajoute une ombre de 2 pixels de hauteur et 4 pixels de flou */
   }
+    .section-title {
+    font-size: 1.8em;
+    margin-top: 30px;
+    border-bottom: 2px solid #007bff;
+    display: inline-block;
+    padding-bottom: 5px;
+  }
 </style>
 
-<p>
-<div class="row">
-<figure>
-  <img alt="Tunis picture" src="images/IMG_20230722_155321_tunis_2023_2.jpg" class="rounded-image"/>
-  <figcaption> <i>Tunis, July 2023 </i> </figcaption>
-</figure>
-</div>
-</p>
 
-**Teaching**
+
+<div>
+  <img alt="Pavillon picture" src="images/IMG_20230722_155321_tunis_2023_2.jpg" class="rounded-image"/>
+  <figcaption> <i>Jardin tropical René-Dumont, January 2022 </i> </figcaption>>
+</div>
+
+<link rel="shortcut icon" href="favicon.ico">
+
+
+
+<h2 class="section-title">Teaching</h2>
+
 
 **Graduate Assistant (ATER)** in Development Economics (master level)
 
@@ -96,7 +104,8 @@ Caen University, 2017
 
 ----
 
-**Education**
+<h2 class="section-title">Education</h2>
+
 
 **PhD in Economics**, Since 2019
 
@@ -114,6 +123,6 @@ Caen University, France
 
 ----
 
-[Curriculum Vitae](https://jeanbaptisteguiffard.github.io/CV/cv_guiffard_jb.pdf)
+[**Curriculum Vitae**](https://jeanbaptisteguiffard.github.io/CV/cv_guiffard_jb.pdf)
 
 ----

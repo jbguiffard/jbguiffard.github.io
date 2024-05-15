@@ -4,24 +4,10 @@ subtitle: "Au tour de nos matériaux"
 output:
   html_document:
     fig_width: 1
+    theme: united
+    highlight: tango
+    css: styles.css
 ---
-
-
-<link rel="shortcut icon" href="favicon.ico">
-
-
-----
-
-
-<!---
-
-<img src="images/pavillon_Indochine.jpg" align="right" width="440px"/>
-
-
-<br clear="left"/>
-
-![](images/pavillon_indo_modif.jpg)
---->
 
 <style>
 figure {
@@ -31,6 +17,7 @@ figure {
 figcaption {
   margin-top: 10px;
 }
+
 </style>
 
 <style>
@@ -38,22 +25,29 @@ figcaption {
     border-radius: 10px; /* Ajoute des coins arrondis de 10 pixels */
     box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.4); /* Ajoute une ombre de 2 pixels de hauteur et 4 pixels de flou */
   }
+    .section-title {
+    font-size: 1.8em;
+    margin-top: 30px;
+    border-bottom: 2px solid #007bff;
+    display: inline-block;
+    padding-bottom: 5px;
+  }
 </style>
 
-<p>
-<div class="row">
-<figure>
-  <img alt="Pavillon picture" src="images/pavillon_indo_modif.jpg" class="rounded-image"/>
-  <figcaption> <i>Jardin tropical René-Dumont, January 2022 </i> </figcaption>
-</figure>
+<link rel="shortcut icon" href="favicon.ico">
+
+
+
+<div>
+  <img alt="Pavillon picture" src="images/pavillon_Indochine - Copie1.jpg" class="rounded-image"/>
+  <figcaption> <i>Jardin tropical René-Dumont, January 2022 </i> </figcaption>>
 </div>
-</p>
 
 
 
 ---
 
-**2021-2022 (First Edition)**
+<h2 class="section-title">2021-2022 (First Edition)</h2>
 
 **Représenter les espaces de circulation et les réseaux**
 

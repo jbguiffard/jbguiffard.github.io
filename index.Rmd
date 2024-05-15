@@ -1,36 +1,78 @@
 ---
 title: "Jean-Baptiste Guiffard"
-subtitle:  "PhD Candidate at [Paris-1 Panthéon-Sorbonne](https://iedes.pantheonsorbonne.fr/)"
+subtitle: "PhD Candidate at [Paris-1 Panthéon-Sorbonne](https://iedes.pantheonsorbonne.fr/)"
 output:
   html_document:
     fig_width: 1
+    theme: united
+    highlight: tango
+    css: styles.css
 ---
 
 <style>
+  @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap');
+  
+  body {
+    font-family: 'Roboto', sans-serif;
+    line-height: 1.6;
+    color: #333;
+    background-color: #f8f9fa;
+  }
+
   .rounded-image {
-    border-radius: 10px; /* Ajoute des coins arrondis de 10 pixels */
-    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.4); /* Ajoute une ombre de 2 pixels de hauteur et 4 pixels de flou */
+    border-radius: 10px;
+    box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.2);
+    margin: 20px 0;
+  }
+  
+  .contact-info {
+    margin-top: 20px;
+  }
+
+  .contact-info h3 {
+    margin-bottom: 10px;
+    font-weight: 700;
+  }
+  
+  .contact-info p {
+    margin: 5px 0;
+  }
+
+  .contact-info a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  .contact-info a:hover {
+    text-decoration: underline;
+  }
+
+  .social-links img {
+    width: 30px;
+    margin-right: 10px;
+    transition: transform 0.2s;
+  }
+
+  .social-links img:hover {
+    transform: scale(1.1);
+  }
+  
+  .section-title {
+    font-size: 1.8em;
+    margin-top: 30px;
+    border-bottom: 2px solid #007bff;
+    display: inline-block;
+    padding-bottom: 5px;
   }
 </style>
 
 <link rel="shortcut icon" href="favicon.ico">
 
-<!---
-<img src="images/profil_image_vertical.jpg" align="right" width="440px"/>
-
-<br clear="left"/>
-
-![](images/profil_image.jpg)
---->
-
 <div>
-  <img  align="right" src="images/profil_image_vertical.jpg" class="rounded-image" alt="profil_image_vertical.jpg"  width="340px" >
+  <img align="right" src="images/IMG-20230620-WA0005_profil.jpg" class="rounded-image" alt="Profile Image" width="340px">
 </div>
 
-
-
-
-**About me**
+<h2 class="section-title">About Me</h2>
 
 I'm a 5th year PhD student at the [UMR Développement & Sociétés](https://umr-devsoc.pantheonsorbonne.fr/) (IRD/ Université Paris 1 Panthéon-Sorbonne) and a teaching assistant (ATER) in development economics at the [Sorbonne Institute of Development Studies](https://iedes.pantheonsorbonne.fr/) (Université Paris 1 Panthéon-Sorbonne).
 
@@ -38,41 +80,21 @@ My research interests are in digital economics, with a particular focus on devel
 
 Thank you for visiting my website and learning more about my research interests. I look forward to sharing my findings with you in the future.
 
-
-
 - Member of the [International Telecommunications Society](https://www.itsworld.org/)
-
 - Member of the [AFEDEV network](https://afedev.fr/)
-
 - Co-organizer of the [AuToMat Seminar](https://jeanbaptisteguiffard.github.io/automat.html)
-
 - Co-organizer of the [Journée d'études sur les données spatiales](https://umr-devsoc.pantheonsorbonne.fr/actualite/journee-detudes-donnees-spatiales-nouvelles-sources-nouvelles-perspectives)
 
+<h2 class="section-title">Contact</h2>
 
+<div class="contact-info">
+  <p><strong>Workplace:</strong> 45 bis Avenue de la Belle Gabrielle, 94130, Nogent-sur-Marne, France</p>
+  <p><strong>Email:</strong> <a href="mailto:jean-baptiste.guiffard@univ-paris1.fr">jean-baptiste.guiffard@univ-paris1.fr</a></p>
+</div>
 
-
-<br clear="left"/>
-
-$~$
-
-----
-
-
-**Contact**
-
-Workplace: 45 bis Avenue de la Belle Gabrielle, 94130, Nogent-sur-Marne, France
-
-<!---
-Phone number: +33 6 87 96 61 05
---->
-
-Email:  jean-baptiste.guiffard@univ-paris1.fr
-
-<!---
-[![](images/Logo_Twitter.webp){width=8%}](https://twitter.com/JBGuiffard)
-[![](images/logo-mastodon.png){width=8%}](https://econtwitter.net/@jbguiffard)
-[![](images/logo-linkedin.png){width=8%}](https://www.linkedin.com/in/jean-baptiste-guiffard-b7063090/)
-[![](images/threads_logo.png){width=8%}](https://www.threads.net/@jeanbaptisteguiffard)
---->
-
-
+<div class="social-links">
+  <a href="https://twitter.com/JBGuiffard" target="_blank"><img src="images/Logo_Twitter.webp" alt="Twitter"></a>
+  <a href="https://econtwitter.net/@jbguiffard" target="_blank"><img src="images/logo-mastodon.png" alt="Mastodon"></a>
+  <a href="https://www.linkedin.com/in/jean-baptiste-guiffard-b7063090/" target="_blank"><img src="images/logo-linkedin.png" alt="LinkedIn"></a>
+  <a href="https://www.threads.net/@jeanbaptisteguiffard" target="_blank"><img src="images/threads_logo.png" alt="Threads"></a>
+</div>

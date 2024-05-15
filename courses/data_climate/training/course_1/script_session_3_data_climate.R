@@ -7,7 +7,7 @@
 # Données et Climat Session 3 
 
 #setwd('C:/Users/jbgui/OneDrive - Université Paris 1 Panthéon-Sorbonne/COURS_DISPENSES/IEDES_2022_2023/Data_Climat')
-setwd('C:/Users/Giffarrd/OneDrive - Université Paris 1 Panthéon-Sorbonne/Documents/jeanbaptisteguiffard.github.io/courses/data_climate/training/course_1')
+setwd('C:/Users/jbguiffard/OneDrive - Université Paris 1 Panthéon-Sorbonne/Documents/jeanbaptisteguiffard.github.io/courses/data_climate/training/course_1')
 library(flextable)
 library(dplyr)
 library(magrittr)
@@ -15,6 +15,7 @@ library(magrittr)
 # Traitement des données cartographiques avec le package sf
 
 library(sf)
+library(ggplot2)
 world_map <- st_read('DATA/world-administrative-boundaries.shp')
 plot(st_geometry(world_map))
 
@@ -59,6 +60,24 @@ nuclear_pw_plants.pts <- st_as_sf(nuclear_pw_plants,
 
 plot(st_geometry(Europe_map))
 plot(nuclear_pw_plants.pts,col="orange",cex=1,pch=16,add=T)
+
+st_crs(nuclear_pw_plants.pts) <- 4326
+nuclear_pw_plants.pts <- st_transform(nuclear_pw_plants.pts, st_crs(Europe_map))
+
+nuclear_plants_country <- st_intersection(Europe_map, nuclear_pw_plants.pts)
+plot(st_geometry(Europe_map['continent']))
+plot(nuclear_plants_country['iso3'], add=TRUE)
+
+gg3 <- ggplot() +
+  geom_sf(data = Europe_map, fill = "gray90", color = "grey") +
+  geom_sf(data = nuclear_plants_country, aes(color = iso3), size = 1) +
+  scale_color_viridis_d(name = "Country name", aesthetics = "color") + # For events
+  theme_minimal() +
+  labs(title = "Localisation des centrales nucléaires") +
+  theme(legend.position = "bottom") 
+
+gg3
+
 
 n_pw_plts_country <- st_intersects(Europe_map, nuclear_pw_plants.pts)
 Europe_map$n_nuclear_pw <- sapply(X = n_pw_plts_country, FUN = length) 
