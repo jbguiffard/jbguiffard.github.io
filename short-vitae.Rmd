@@ -37,7 +37,7 @@ figcaption {
 
 <div>
   <img alt="Pavillon picture" src="images/IMG_20230722_155321_tunis_2023_2.jpg" class="rounded-image"/>
-  <figcaption> <i>Jardin tropical René-Dumont, January 2022 </i> </figcaption>>
+  <figcaption> <i>Tunis, July 2023 </i> </figcaption>>
 </div>
 
 <link rel="shortcut icon" href="favicon.ico">
