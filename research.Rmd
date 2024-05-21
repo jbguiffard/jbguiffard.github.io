@@ -104,7 +104,7 @@ This research project links investment in the telecommunications sector and one 
 
 <a align="left" href="https://www.scimagojr.com/journalsearch.php?q=20870&amp;tip=sid&amp;exact=no" title="SCImago Journal & Country Rank">
   <img border="0" src="https://www.scimagojr.com/journal_img.php?id=20870" alt="SCImago Journal & Country Rank" width="5%" height="5%" />
-</a> [**Valuing the Virtual: The Impact of Fiber to the Home on Property Prices in France**](https://doi.org/10.1016/j.telpol.2024.102732) - *Telecommunications Policy, Volume 48, Issue 4, May 2024*
+</a> [**Valuing the Virtual: The Impact of Fiber to the Home on Property Prices in France**](https://doi.org/10.1016/j.telpol.2024.102732) - *Telecommunications Policy, Volume 48, Issue 4, 2024*
 
 
 
@@ -122,7 +122,7 @@ This paper examines the value that households place on very high-speed internet 
 </div>
 
 
-**Impact of broadband internet on preventive healthcare behaviors in Senegal** (with [Pauline Kergall](https://sites.google.com/view/paulinekergall/home?authuser=0)) - *Forthcoming* in *Economics and Statistics*
+[**Impact of Broadband Internet on Preventive Healthcare Behaviours in Senegal**](https://www.insee.fr/en/statistiques/8186105?sommaire=8186112) (with [Pauline Kergall](https://sites.google.com/view/paulinekergall/home?authuser=0)) - *Economie et Statistique / Economics and Statistics, 542, 99–123, 2024*
 
 In sub-Saharan African (SSA) countries the main channels of morbidity and mortality are preventable and treatable diseases. Yet, SSA countries invest little in preventive healthcare. Available literature has shown that providing health information can have an impact on health behaviors. In SSA, most of the internet traffic (fixed and mobile) goes through backbone networks. The arrival of optic fiber submarine cables in 2010 brought broadband connectivity to Senegal, allowing access to healthcare information online. Using the Demographic and Health Surveys (DHS) datasets combined with the Afterfibre database, and a Difference-in-Difference methodology, this study aims to assess the impact of the arrival of broadband internet on preventive health behaviors in Senegal. Broadband access is found to be positively associated with the use of bednet, mixed results are found regarding the use of antenatal care, while no impact on child immunization is found. If the positive impacts of internet access are confirmed, the expansion of broadband internet could have important positive spillover effects to improve health through increased access to information.
 
