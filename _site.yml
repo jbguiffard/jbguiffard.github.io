@@ -2,7 +2,7 @@ name: "Jean-Baptiste Guiffard"
 navbar:
   title: "Jean-Baptiste Guiffard"
   left:
-    - text: "Short Vitae"
+    - text: "CV"
       href: short-vitae.html
     - text: "Research"
       href: research.html

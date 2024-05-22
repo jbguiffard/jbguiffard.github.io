@@ -4,10 +4,21 @@ subtitle: "Au tour de nos matériaux"
 output:
   html_document:
     fig_width: 1
-    theme: united
+    theme: journal
     highlight: tango
     css: styles.css
 ---
+
+
+<style>
+  body {
+    font-family: 'Roboto', sans-serif;
+    line-height: 1.6;
+    color: #333;
+    background-color: #f8f9fa;
+  }
+</style>
+
 
 <style>
 figure {

@@ -4,10 +4,13 @@ subtitle: "PhD Candidate at [Paris-1 Panthéon-Sorbonne](https://iedes.pantheons
 output:
   html_document:
     fig_width: 1
-    theme: united
+    theme: journal
     highlight: tango
     css: styles.css
 ---
+
+
+
 
 <style>
   @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap');

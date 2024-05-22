@@ -1,10 +1,24 @@
 ---
 title: "Courses"
-subtitle: "Climate and Data"
+subtitle: "Tutored Projects"
 output:
   html_document:
     fig_width: 1
+    theme: journal
+    highlight: tango
+    css: styles.css
 ---
+
+
+<style>
+  body {
+    font-family: 'Roboto', sans-serif;
+    line-height: 1.6;
+    color: #333;
+    background-color: #f8f9fa;
+  }
+</style>
+
 
 <link rel="shortcut icon" href="favicon.ico">
 
@@ -26,6 +40,7 @@ figcaption {
   }
 </style>
 
+<!---
 <p>
 <div class="row">
 <figure>
@@ -33,7 +48,7 @@ figcaption {
 </figure>
 </div>
 </p>
-
+--->
 
 Lessons: 
 
