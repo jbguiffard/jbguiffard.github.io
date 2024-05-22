@@ -3,7 +3,7 @@ title: "Research"
 output:
   html_document:
     fig_width: 1
-    theme: journal
+    theme: lumen
     highlight: tango
     css: styles.css
 ---

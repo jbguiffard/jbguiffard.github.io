@@ -4,20 +4,11 @@ subtitle: "IEDES - Master mention Etudes du Développement"
 output:
   html_document:
     fig_width: 1
-    theme: journal
+    theme: lumen
     highlight: tango
     css: styles.css
 ---
 
-
-<style>
-  body {
-    font-family: 'Roboto', sans-serif;
-    line-height: 1.6;
-    color: #333;
-    background-color: #f8f9fa;
-  }
-</style>
 
 
 

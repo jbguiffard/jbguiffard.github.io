@@ -3,20 +3,11 @@ title: "CV"
 output:
   html_document:
     fig_width: 1
-    theme: journal
+    theme: lumen
     highlight: tango
     css: styles.css
 ---
 
-
-<style>
-  body {
-    font-family: 'Roboto', sans-serif;
-    line-height: 1.6;
-    color: #333;
-    background-color: #f8f9fa;
-  }
-</style>
 
 
 
@@ -47,19 +38,26 @@ figcaption {
 
 
 
-<div>
-  <img alt="Pavillon picture" src="images/IMG_20230722_155321_tunis_2023_2.jpg" class="rounded-image"/>
-  <figcaption> <i>Tunis, July 2023 </i> </figcaption>>
-</div>
+
 
 <link rel="shortcut icon" href="favicon.ico">
 
 ----
 
-[**Curriculum Vitae**](https://jeanbaptisteguiffard.github.io/CV/cv_guiffard_jb.pdf)
+<p>
+<embed src="https://jeanbaptisteguiffard.github.io/CV/cv_guiffard_jb.pdf" type="application/pdf" width="100%" height="600px" />
+</p>
+
+<!---
+
+<div>
+  <img alt="Pavillon picture" src="images/IMG_20230722_155321_tunis_2023_2.jpg" class="rounded-image"/>
+  <figcaption> <i>Tunis, July 2023 </i> </figcaption>>
+</div>
 
 ----
 
+[**Curriculum Vitae**](https://jeanbaptisteguiffard.github.io/CV/cv_guiffard_jb.pdf)
 
 <h2 class="section-title">Teaching</h2>
 
@@ -140,4 +138,4 @@ Caen University, France
 
 ----
 
-
+--->
