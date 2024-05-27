@@ -4,8 +4,6 @@ subtitle: "IEDES - Master mention Etudes du Développement"
 output:
   html_document:
     fig_width: 1
-    theme: lumen
-    highlight: tango
     css: styles.css
 ---
 

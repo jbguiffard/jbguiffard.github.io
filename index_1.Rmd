@@ -1,39 +1,56 @@
 ---
-title: "Research"
+title: "Jean-Baptiste Guiffard"
+subtitle: "PhD Candidate at [Paris-1 Panthéon-Sorbonne](https://iedes.pantheonsorbonne.fr/)"
 output:
   html_document:
     fig_width: 1
     css: styles.css
+    toc: false
 ---
 
-
 <style>
-  body {
-    font-family: 'Roboto', sans-serif;
-    line-height: 1.6;
-    color: #333;
-    background-color: #f8f9fa;
-  }
-</style>
-
-
-<style>
-figure {
-  text-align: center;
-}
-
-figcaption {
-  margin-top: 10px;
-}
-
-</style>
-
-<style>
+  @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap');
+  
+ 
   .rounded-image {
-    border-radius: 10px; /* Ajoute des coins arrondis de 10 pixels */
-    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.4); /* Ajoute une ombre de 2 pixels de hauteur et 4 pixels de flou */
+    border-radius: 10px;
+    box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.2);
+    margin: 20px 0;
   }
-    .section-title {
+  
+  .contact-info {
+    margin-top: 20px;
+  }
+
+  .contact-info h3 {
+    margin-bottom: 10px;
+    font-weight: 700;
+  }
+  
+  .contact-info p {
+    margin: 5px 0;
+  }
+
+  .contact-info a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  .contact-info a:hover {
+    text-decoration: underline;
+  }
+
+  .social-links img {
+    width: 30px;
+    margin-right: 10px;
+    transition: transform 0.2s;
+  }
+
+  .social-links img:hover {
+    transform: scale(1.1);
+  }
+  
+  .section-title {
     font-size: 1.8em;
     margin-top: 30px;
     border-bottom: 2px solid #007bff;
@@ -41,14 +58,45 @@ figcaption {
     padding-bottom: 5px;
   }
 </style>
-
 <link rel="shortcut icon" href="favicon.ico">
 
+<div>
+  <img align="right" src="images/IMG-20230620-WA0005_profil.jpg" class="rounded-image" alt="Profile Image" width="340px">
+</div>
+
+<h2 class="section-title">About Me</h2>
+
+I'm a 5th year PhD student at the [UMR Développement & Sociétés](https://umr-devsoc.pantheonsorbonne.fr/) (IRD/ Université Paris 1 Panthéon-Sorbonne) and a teaching assistant (ATER) in development economics at the [Sorbonne Institute of Development Studies](https://iedes.pantheonsorbonne.fr/) (Université Paris 1 Panthéon-Sorbonne).
+
+My research interests are in digital economics, with a particular focus on development economics. My thesis provides three impact evaluations of broadband internet deployment on various outcomes (political mobilization, house market, firms' choice of location...). My thesis advisors are [Mohamed Ali Marouani](https://sites.google.com/view/mohamedali-marouani/rieme-conference-paris) and [François Roubaud](https://dial.ird.fr/membres/membres-permanents/roubaud-francois/).
+
+Thank you for visiting my website and learning more about my research interests. I look forward to sharing my findings with you in the future.
+
+- Member of the [International Telecommunications Society](https://www.itsworld.org/)
+- Member of the [AFEDEV network](https://afedev.fr/)
+- Co-organizer of the [AuToMat Seminar](https://jeanbaptisteguiffard.github.io/automat.html)
+- Co-organizer of the [Journée d'études sur les données spatiales](https://umr-devsoc.pantheonsorbonne.fr/actualite/journee-detudes-donnees-spatiales-nouvelles-sources-nouvelles-perspectives)
+
+<h2 class="section-title">Contact</h2>
+
+<div class="contact-info">
+  <p><strong>Workplace:</strong> 45 bis Avenue de la Belle Gabrielle, 94130, Nogent-sur-Marne, France</p>
+  <p><strong>Email:</strong> <a href="mailto:jean-baptiste.guiffard@univ-paris1.fr">jean-baptiste.guiffard@univ-paris1.fr</a></p>
+</div>
+
+<div class="social-links">
+  <a href="https://twitter.com/JBGuiffard" target="_blank"><img src="images/Logo_Twitter.webp" alt="Twitter"></a>
+  <a href="https://econtwitter.net/@jbguiffard" target="_blank"><img src="images/logo-mastodon.png" alt="Mastodon"></a>
+  <a href="https://www.linkedin.com/in/jean-baptiste-guiffard-b7063090/" target="_blank"><img src="images/logo-linkedin.png" alt="LinkedIn"></a>
+  <a href="https://www.threads.net/@jeanbaptisteguiffard" target="_blank"><img src="images/threads_logo.png" alt="Threads"></a>
+</div>
 
 
 
 
-<h2 class="section-title">Publications</h2>
+<div id="research" class="section">
+  <h2 class="section-title">Research</h2>
+  <h2 class="section-title">Publications</h2>
 
 
 <div>
@@ -124,18 +172,35 @@ The conditions of spectrum allocation or reallocation are significant in determi
 
 
 This paper investigates the impact of mobile broadband Internet on business creation in Tunisia. Using a rich dataset of Tunisian delegations, the study employs a count model to assess the influence of mobile broadband Internet quality and other infrastructure and delegation characteristics on firm location decisions. The empirical findings demonstrate a robust positive relationship between the density of 4G antennas per 10,000 inhabitants and the number of new business creations. Notably, this relationship is stronger and exhibits later effects in rural areas, particularly on the peripheries of major urban centers, suggesting varying rates of technology adoption and challenging the hypothesis of the ``death of distance" that broadband Internet was expected to bring. This research highlights the potential role of mobile broadband in stimulating local economic growth and sheds nuanced light on the economic implications of the digital divide.
-
-
+</div>
 
 <!---
+<div id="courses" class="section">
+  <h2 class="section-title">Courses and Resources</h2>
+  <!-- Courses content here -->
+</div>
 
-----
-
-**The Relationship between License Duration and Telecom Investment in Africa and the Middle East: an Econometric Analysis** 
-
-This research project links investment in the telecommunications sector and one of the terms of the regulatory framework for this sector, the mobile licence duration in African and Middle-eastern countries. Using World Cellular Information Service and Worldwide Governance Indicators data, we were able to build a database combining the amount of CAPEX per capita with the license duration (the average duration of all active licenses) adding governance quality indicators for 13 developing countries in Africa and the Middle East over a 9-year period. Based on an OLS estimate, we found that the licence duration has a positive effect on investment provided that the political stability of the country is above a certain threshold.
-
---->
+<div id="seminaire-automat" class="section">
+  <h2 class="section-title">Séminaire AuToMat</h2>
+  <!-- Seminar content here -->
+</div>
+---->
 
 
+<div class="social-links">
+  <!-- Social media links here -->
+</div>
 
+
+
+<script>
+document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+  anchor.addEventListener('click', function (e) {
+    e.preventDefault();
+
+    document.querySelector(this.getAttribute('href')).scrollIntoView({
+      behavior: 'smooth'
+    });
+  });
+});
+</script>

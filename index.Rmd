@@ -4,8 +4,6 @@ subtitle: "PhD Candidate at [Paris-1 Panthéon-Sorbonne](https://iedes.pantheons
 output:
   html_document:
     fig_width: 1
-    theme: lumen
-    highlight: tango
     css: styles.css
 ---
 

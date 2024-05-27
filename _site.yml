@@ -6,8 +6,6 @@ navbar:
       href: short-vitae.html
     - text: "Research"
       href: research.html
-    - text: "Conferences"
-      href: conferences.html
     - text: "Courses and Resources"
       href: courses.html
     - text: "Séminaire AuToMat"
@@ -25,6 +23,6 @@ navbar:
 output_dir: "."
 output:
   html_document:
-    theme: yeti
+    theme: default
     highlight: textmate
 
