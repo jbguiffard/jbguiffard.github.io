@@ -13,10 +13,10 @@
 
 <title>Research</title>
 
-<script src="site_libs/header-attrs-2.20/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.27/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
+<link href="site_libs/bootstrap-3.3.5/css/yeti.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
@@ -30,7 +30,7 @@
        code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
        pre:not([class]) { background-color: white }</style>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
-<link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 
 <style type="text/css">
@@ -244,10 +244,10 @@ $(document).ready(function () {
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
         <li>
-  <a href="short-vitae.html">CV</a>
+  <a href="research.html">Research</a>
 </li>
 <li>
-  <a href="research.html">Research</a>
+  <a href="short-vitae.html">CV</a>
 </li>
 <li>
   <a href="courses.html">Courses and Resources</a>
@@ -290,12 +290,11 @@ $(document).ready(function () {
 
 
 <style>
-  body {
-    font-family: 'Roboto', sans-serif;
-    line-height: 1.6;
-    color: #333;
-    background-color: #f8f9fa;
-  }
+ .rounded-image {
+    border-radius: 10px;
+    box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.2);
+    margin: 20px 20px 20px 0; /* Adds 20px margin to the top, right, bottom, and no margin to the left */
+}
 </style>
 <style>
 figure {
@@ -308,10 +307,6 @@ figcaption {
 
 </style>
 <style>
-  .rounded-image {
-    border-radius: 10px; /* Ajoute des coins arrondis de 10 pixels */
-    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.4); /* Ajoute une ombre de 2 pixels de hauteur et 4 pixels de flou */
-  }
     .section-title {
     font-size: 1.8em;
     margin-top: 30px;
@@ -319,43 +314,79 @@ figcaption {
     display: inline-block;
     padding-bottom: 5px;
   }
+  .content {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center; /* Vertically centers the items in the flex container */
+    margin-bottom: 40px; /* Adds spacing between each content block */
+  }
+
+  .figure {
+    flex: 1 1 40%; /* Takes up 40% of the flex container, allowing flexibility */
+    text-align: center; /* Centers the image within the figure block */
+    padding-right: 20px; /* Adds space between the image and the text */
+  }
+
+  .abstract {
+    flex: 1 1 60%; /* Takes up 60% of the flex container */
+    text-align: left; /* Ensures the text is aligned to the left */
+  }
+
+  .rounded-image {
+    max-width: 100%; /* Ensures the image is responsive within its container */
+    height: auto; /* Maintains aspect ratio */
+    border-radius: 10px;
+    box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.2);
+  }
+
+  .section-title {
+    width: 100%; /* Ensures the title spans across the full width */
+    font-size: 1.8em;
+    margin-top: 30px;
+    border-bottom: 2px solid #007bff;
+    padding-bottom: 5px;
+    clear: both; /* Clears the floating elements */
+  }
 </style>
 <p><link rel="shortcut icon" href="favicon.ico"></p>
 <h2 class="section-title">
 Publications
 </h2>
-<div>
-<p><img  align="right" src="images/map_methodo_bretteville_14022024.png" class="rounded-image" alt="map_methodo_bretteville_14022024.png"  width="320px" ></p>
+<div class="content">
+<div class="figure">
+<p><img src="images/map_methodo_bretteville_14022024.png" class="rounded-image" alt="Map Methodology Bretteville"></p>
 </div>
-<p><a align="left" href="https://www.scimagojr.com/journalsearch.php?q=20870&amp;tip=sid&amp;exact=no" title="SCImago Journal & Country Rank">
-<img border="0" src="https://www.scimagojr.com/journal_img.php?id=20870" alt="SCImago Journal & Country Rank" width="5%" height="5%" />
+<div class="abstract">
+<a href="https://www.scimagojr.com/journalsearch.php?q=20870&tip=sid&exact=no" title="SCImago Journal & Country Rank">
+<img src="https://www.scimagojr.com/journal_img.php?id=20870" alt="SCImago Journal & Country Rank" style="width: 5%; height: 5%;">
 </a> <a
 href="https://doi.org/10.1016/j.telpol.2024.102732"><strong>Valuing the
 Virtual: The Impact of Fiber to the Home on Property Prices in
 France</strong></a> - <em>Telecommunications Policy, Volume 48, Issue 4,
 2024</em> (<a
-href="https://jeanbaptisteguiffard.github.io/docs/articles/1-s2.0-S0308596124000296-main.pdf">PDF</a>)</p>
-<p>This paper examines the value that households place on very
-high-speed internet access, explicitly focusing on the impact of
-eligibility for Fiber to the Home (FTTH) technology on property prices.
-Using a Spatial Discontinuity Design based on the border of fiber
-eligibility zones which have significantly expanded under France’s
-<em>Plan Très Haut-Débit</em>, I find that FTTH eligibility is a
-significant determinant of property prices, with an average increase of
-0.9 percent. I also consider heterogeneities in FTTH valuation,
-accounting for socioeconomic characteristics, local factors, and the
-performance of legacy copper networks. These findings highlight the
-growing importance of fast and reliable broadband access for households
-and have important implications for policymakers and Internet service
-providers.</p>
-<!---
-<a href="https://www.scimagojr.com/journalsearch.php?q=20870&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=20870" alt="SCImago Journal &amp; Country Rank"  /></a>
---->
-<hr />
-<div>
-<p><img  align="right" src="images/mechanisms_paper_kergall.png" class="rounded-image" alt="mechanisms_paper_kergall.png"  width="420px" ></p>
+href="https://jeanbaptisteguiffard.github.io/docs/articles/1-s2.0-S0308596124000296-main.pdf">PDF</a>)
+<p>
+This paper examines the value that households place on very high-speed
+internet access, explicitly focusing on the impact of eligibility for
+Fiber to the Home (FTTH) technology on property prices. Using a Spatial
+Discontinuity Design based on the border of fiber eligibility zones
+which have significantly expanded under France’s <em>Plan Très
+Haut-Débit</em>, I find that FTTH eligibility is a significant
+determinant of property prices, with an average increase of 0.9 percent.
+I also consider heterogeneities in FTTH valuation, accounting for
+socioeconomic characteristics, local factors, and the performance of
+legacy copper networks. These findings highlight the growing importance
+of fast and reliable broadband access for households and have important
+implications for policymakers and Internet service providers.
+</p>
 </div>
-<p><a
+</div>
+<div class="content">
+<div class="figure">
+<p><img src="images/mechanisms_paper_kergall.png" class="rounded-image" alt="Kergall Guiffard 2024"></p>
+</div>
+<div class="abstract">
+<a
 href="https://www.insee.fr/en/statistiques/8186105?sommaire=8186112"><strong>Impact
 of Broadband Internet on Preventive Healthcare Behaviours in
 Senegal</strong></a> (with <a
@@ -363,8 +394,9 @@ href="https://sites.google.com/view/paulinekergall/home?authuser=0">Pauline
 Kergall</a>) - <em>Economie et Statistique / Economics and Statistics,
 542, 99–123, 2024</em> (<a
 href="https://jeanbaptisteguiffard.github.io/docs/articles/06_ES542_Kergall-Guiffard_EN.pdf">EN</a>/<a
-href="https://jeanbaptisteguiffard.github.io/docs/articles/06_ES542_Kergall-Guiffard_FR.pdf">FR</a>)</p>
-<p>In sub-Saharan African (SSA) countries the main channels of morbidity
+href="https://jeanbaptisteguiffard.github.io/docs/articles/06_ES542_Kergall-Guiffard_FR.pdf">FR</a>)
+<p>
+In sub-Saharan African (SSA) countries the main channels of morbidity
 and mortality are preventable and treatable diseases. Yet, SSA countries
 invest little in preventive healthcare. Available literature has shown
 that providing health information can have an impact on health
@@ -380,16 +412,22 @@ associated with the use of bednet, mixed results are found regarding the
 use of antenatal care, while no impact on child immunization is found.
 If the positive impacts of internet access are confirmed, the expansion
 of broadband internet could have important positive spillover effects to
-improve health through increased access to information.</p>
+improve health through increased access to information.
+</p>
+</div>
+</div>
 <h2 class="section-title">
 Work in Progress
 </h2>
-<div>
-<p><img  align="right" src="images/plot_methodo_chap1_bon.jpeg" class="rounded-image" alt="plot_methodo_chap1_bon.jpeg"  width="290px" ></p>
+<div class="content">
+<div class="figure">
+<p><img src="images/plot_methodo_chap1_bon.jpeg" class="rounded-image" alt="Map chap 1"></p>
 </div>
-<p><strong>From Connection to Coordination: High-Speed Internet and
-Protests in Africa</strong></p>
-<p>What is the role of broadband Internet in shaping political
+<div class="abstract">
+<strong>From Connection to Coordination: High-Speed Internet and
+Protests in Africa</strong>
+<p>
+What is the role of broadband Internet in shaping political
 participation in Africa? This study leverages the staggered arrival of
 submarine Internet cables and the terrestrial backbone network in Africa
 to examine the influence of high-speed Internet on protests. Combining
@@ -401,23 +439,24 @@ particularly observed in countries that actively exercise political
 rights and civil liberties. The analysis explores two key
 mechanisms—information dissemination and coordination facilitation—with
 the latter identified as the predominant factor influencing the observed
-effects.</p>
-<!---
-- [Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4247083)
---->
-<hr />
-<div>
-<p><img  align="right" src="images/marginal_cost_MNO_germany.jpg" class="rounded-image" alt="marginal_cost_MNO_germany.jpg"  width="320px" ></p>
+effects.
+</p>
 </div>
-<p><strong>Welfare Cost of Mobile Spectrum (Mis)allocation</strong>
-(with <a href="https://www.tse-fr.eu/fr/people/marc-ivaldi">Marc
-Ivaldi</a>, <a
-href="https://www.researchgate.net/profile/Julienne-Liang">Julienne
+</div>
+<div class="content">
+<div class="figure">
+<p><img src="images/marginal_cost_MNO_germany.jpg" class="rounded-image" alt="marginal cost"></p>
+</div>
+<div class="abstract">
+<strong>Welfare Cost of Mobile Spectrum (Mis)allocation</strong> (with
+<a href="https://www.tse-fr.eu/fr/people/marc-ivaldi">Marc Ivaldi</a>,
+<a href="https://www.researchgate.net/profile/Julienne-Liang">Julienne
 Liang</a> and Louise Aïmène) - <a
 href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4228058">Working
-Paper</a></p>
-<p>The conditions of spectrum allocation or reallocation are significant
-in determining the market structure in the telecom sector which in turn
+Paper</a>
+<p>
+The conditions of spectrum allocation or reallocation are significant in
+determining the market structure in the telecom sector which in turn
 affects the prices and the quality of mobile networks. In a more
 concentrated market, the quantity of spectrum is less diluted, and
 operators can offer higher quality to their customers; In a more
@@ -433,16 +472,21 @@ consumer surplus of the incomplete spectrum allocation and the arrival
 of an additional operator in Germany. Results show that reallocating
 additional spectrum to three instead of four operators is consumer
 welfare improving as prices do not increase much while quality is
-significantly improved.</p>
-<hr />
-<div>
-<p><img  align="right" src="images/tunisie_maps_chap3.jpg" class="rounded-image" alt="tunisie_maps_chap3.jpg"  width="350px" ></p>
+significantly improved.
+</p>
 </div>
-<p><strong>From Bytes to Business: Mobile Broadband, Firm Creations and
+</div>
+<div class="content">
+<div class="figure">
+<p><img src="images/tunisie_maps_chap3.jpg" class="rounded-image" alt="Map tunisia"></p>
+</div>
+<div class="abstract">
+<strong>From Bytes to Business: Mobile Broadband, Firm Creations and
 Digital Divide in Tunisia</strong> (with <a
 href="https://sites.google.com/view/mohamedali-marouani/home">Mohamed
-Ali Marouani</a>)</p>
-<p>This paper investigates the impact of mobile broadband Internet on
+Ali Marouani</a>)
+<p>
+This paper investigates the impact of mobile broadband Internet on
 business creation in Tunisia. Using a rich dataset of Tunisian
 delegations, the study employs a count model to assess the influence of
 mobile broadband Internet quality and other infrastructure and
@@ -455,16 +499,10 @@ centers, suggesting varying rates of technology adoption and challenging
 the hypothesis of the ``death of distance” that broadband Internet was
 expected to bring. This research highlights the potential role of mobile
 broadband in stimulating local economic growth and sheds nuanced light
-on the economic implications of the digital divide.</p>
-<!---
-
-----
-
-**The Relationship between License Duration and Telecom Investment in Africa and the Middle East: an Econometric Analysis** 
-
-This research project links investment in the telecommunications sector and one of the terms of the regulatory framework for this sector, the mobile licence duration in African and Middle-eastern countries. Using World Cellular Information Service and Worldwide Governance Indicators data, we were able to build a database combining the amount of CAPEX per capita with the license duration (the average duration of all active licenses) adding governance quality indicators for 13 developing countries in Africa and the Middle East over a 9-year period. Based on an OLS estimate, we found that the licence duration has a positive effect on investment provided that the political stability of the country is above a certain threshold.
-
---->
+on the economic implications of the digital divide.
+</p>
+</div>
+</div>
 
 
 

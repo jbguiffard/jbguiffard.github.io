@@ -17,8 +17,8 @@ output:
   .rounded-image {
     border-radius: 10px;
     box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.2);
-    margin: 20px 0;
-  }
+    margin: 20px 20px 20px 0; /* Adds 20px margin to the top, right, bottom, and no margin to the left */
+}
   
   .contact-info {
     margin-top: 20px;
@@ -63,17 +63,18 @@ output:
 
 <link rel="shortcut icon" href="favicon.ico">
 
-<div>
-  <img align="right" src="images/IMG-20230620-WA0005_profil.jpg" class="rounded-image" alt="Profile Image" width="340px">
-</div>
 
-<h2 class="section-title">About Me</h2>
+
+<h2 class="section-title">About me</h2>
+
+<div>
+  <img align="right" src="images/profil_image.jpg" class="rounded-image" alt="Profile Image" width="400px">
+</div>
 
 I'm a 5th year PhD student at the [UMR Développement & Sociétés](https://umr-devsoc.pantheonsorbonne.fr/) (IRD/ Université Paris 1 Panthéon-Sorbonne) and a teaching assistant (ATER) in development economics at the [Sorbonne Institute of Development Studies](https://iedes.pantheonsorbonne.fr/) (Université Paris 1 Panthéon-Sorbonne).
 
 My research interests are in digital economics, with a particular focus on development economics. My thesis provides three impact evaluations of broadband internet deployment on various outcomes (political mobilization, house market, firms' choice of location...). My thesis advisors are [Mohamed Ali Marouani](https://sites.google.com/view/mohamedali-marouani/rieme-conference-paris) and [François Roubaud](https://dial.ird.fr/membres/membres-permanents/roubaud-francois/).
 
-Thank you for visiting my website and learning more about my research interests. I look forward to sharing my findings with you in the future.
 
 - Member of the [International Telecommunications Society](https://www.itsworld.org/)
 - Member of the [AFEDEV network](https://afedev.fr/)
