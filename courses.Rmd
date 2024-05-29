@@ -39,6 +39,7 @@ figcaption {
 <link rel="shortcut icon" href="favicon.ico">
 
 
+<!---
 <p>
 <div class="row">
 <figure>
@@ -47,7 +48,7 @@ figcaption {
 </div>
 </p>
 
-
+---->
 
 
 <h2 class="section-title">Master 1</h2>
