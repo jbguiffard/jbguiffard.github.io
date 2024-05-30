@@ -290,53 +290,29 @@ $(document).ready(function () {
 
 
 <style>
- .rounded-image {
-    border-radius: 10px;
-    box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.2);
-    margin: 20px 20px 20px 0; /* Adds 20px margin to the top, right, bottom, and no margin to the left */
-}
-</style>
-<style>
-figure {
-  text-align: center;
-}
-
-figcaption {
-  margin-top: 10px;
-}
-
-</style>
-<style>
-    .section-title {
-    font-size: 1.8em;
-    margin-top: 30px;
-    border-bottom: 2px solid #007bff;
-    display: inline-block;
-    padding-bottom: 5px;
-  }
   .content {
     display: flex;
     flex-wrap: wrap;
-    align-items: center; /* Vertically centers the items in the flex container */
+    align-items: center; /* Vertically centers items in the container */
     margin-bottom: 40px; /* Adds spacing between each content block */
   }
 
   .figure {
-    flex: 1 1 40%; /* Takes up 40% of the flex container, allowing flexibility */
+    flex: 1 1 40%; /* Allows flexibility in taking up to 40% of the container */
     text-align: center; /* Centers the image within the figure block */
-    padding-right: 20px; /* Adds space between the image and the text */
   }
 
   .abstract {
-    flex: 1 1 60%; /* Takes up 60% of the flex container */
-    text-align: left; /* Ensures the text is aligned to the left */
+    flex: 1 1 60%; /* Allows flexibility in taking up to 60% of the container */
+    text-align: left; /* Aligns the text to the left */
   }
 
   .rounded-image {
-    max-width: 100%; /* Ensures the image is responsive within its container */
-    height: auto; /* Maintains aspect ratio */
+    max-width: 90%; /* Ensures the image is responsive within its container */
+    height: auto; /* Maintains the image's aspect ratio */
     border-radius: 10px;
     box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.2);
+    margin-bottom: 20px; /* Adds space below the image */
   }
 
   .section-title {
@@ -346,6 +322,17 @@ figcaption {
     border-bottom: 2px solid #007bff;
     padding-bottom: 5px;
     clear: both; /* Clears the floating elements */
+  }
+
+  /* Media Query for screens smaller than 768px */
+  @media (max-width: 768px) {
+    .content {
+      flex-direction: column; /* Stacks the flex items vertically */
+    }
+
+    .figure, .abstract {
+      flex: 1 1 100%; /* Each takes full width of the container */
+    }
   }
 </style>
 <p><link rel="shortcut icon" href="favicon.ico"></p>
