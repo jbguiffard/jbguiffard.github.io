@@ -1,6 +1,5 @@
 ---
 title: "Courses and Ressources"
-subtitle: "IEDES - Master mention Etudes du Développement"
 output:
   html_document:
     fig_width: 1
@@ -51,19 +50,10 @@ figcaption {
 ---->
 
 
-<h2 class="section-title">Master 1</h2>
+<h2 class="section-title">IEDES - Master mention Etudes du Développement</h2>
 
 
-
-**Development Measurement**
-
-The aim of this course is to shed critical light on the indicators used to measure development. This course is structured around two central questions:
-
-1. How the main development indicators are constructed, what information they provide and what their limitations are?
-
-2. How to address data sources and the complexity of measurement in developing countries?
-
-**Econometrics**
+**Master 1 - Econometrics**
 
 This course deepens the basics of econometrics, providing students with a solid understanding of the estimation and modelling techniques essential for analysing economic problems related to development. The following topics will be covered: 
 
@@ -89,16 +79,9 @@ This course deepens the basics of econometrics, providing students with a solid 
 **Tutored Projects in Development Economics**
 --->
 
-
-
-
-
 ---
 
-<h2 class="section-title">Master 2</h2>
-
-
-[**Climate and Data**](https://jeanbaptisteguiffard.github.io/courses_climatedata.html)
+[**Master 2 - Climate and Data**](https://jeanbaptisteguiffard.github.io/courses_climatedata.html)
 
 
 To become familiar with climate issues and to understand the construction of sustainable development indicators, this course proposes: 
@@ -108,6 +91,10 @@ To become familiar with climate issues and to understand the construction of sus
 2. Advanced skills in data collection, processing, and analysis on R (graphical representations, maps, data extractions, web scraping, textual analysis. . . )
 
 3. A common theme: climate data and sustainable development indicators.
+
+
+
+
 
 
 
