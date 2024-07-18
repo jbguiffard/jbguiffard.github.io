@@ -55,7 +55,7 @@ Date of Birth: January 9, 1995 \\
 \noindent\rule{\textwidth}{0.2pt}
 
 
-- **Paris I - Panthéon-Sorbonne University** (November 2019 – *Present*)  
+- **Paris I - Panthéon-Sorbonne University** (November 2019 – September 2024)  
   *PhD degree in Economics*
   - Thesis directors: Mohamed Ali Marouani (CES, D&S, Paris-1 Panthéon-Sorbonne University, IRD); François Roubaud (DIAL, IRD & Paris-Dauphine University)
   - Thesis title : *"Essays in Digital Economics: Three Impact Evaluations of Broadband Internet"*
@@ -69,7 +69,7 @@ Date of Birth: January 9, 1995 \\
   
 - **Paris VIII - Vincennes-Saint-Denis University** (2017 - 2018)\
   *Master 1 in Economics and Sociology, Valedictorian*
-  - Laureate of secondary-school teaching diploma in Economic and Social Sciences (2018)
+  - Holder of secondary-school teaching diploma in Economic and Social Sciences (2018)
   
 - **Caen University** (2013 - 2017)\
   *Double Degree:*
@@ -121,7 +121,7 @@ Date of Birth: January 9, 1995 \\
 
 - [52nd Research Conference on Communications, Information, and Internet Policy](http://www.tprcweb.com/overview-2024), Washington, USA. *Scheduled*
 
-- [International Conference on Development Economics (ICDE)](https://icde2024.sciencesconf.org/), AMSE, Marseille, France. *Scheduled*
+- [International Conference on Development Economics (ICDE)](https://icde2024.sciencesconf.org/), AMSE, Marseille, France. 
 
 **2023**
 
@@ -175,6 +175,14 @@ Date of Birth: January 9, 1995 \\
 # Teaching
 \vspace{-23pt}
 \noindent\rule{\textwidth}{0.2pt}
+
+- **Ecole Polytechnique, Palaiseau, France** (2024 – 2025)\
+  *Lecturer in Applied Econometrics* - M1
+
+- **Paris I - Panthéon-Sorbonne University, Nogent-sur-Marne, France** (2024 – 2025)\
+  *Lecturer in Economics*
+  - *Climate and Data* (an Introduction to R and an education on data and the construction of sustainable development indicators.) - M2
+  - *Applied Econometrics* - M1
 
 - **Paris I - Panthéon-Sorbonne University, Nogent-sur-Marne, France** (2023 – 2024)\
   *Teaching Assistant in Economics (ATER Full-time)*
