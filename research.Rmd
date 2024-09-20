@@ -95,7 +95,7 @@ output:
   <img src="images/plot_methodo_chap1_bon.jpeg" class="rounded-image" alt="Map chap 1">
 </div>
 <div class="abstract">
-   **From Connection to Coordination: High-Speed Internet and Protests in Africa**
+   [**From Connection to Coordination: High-Speed Internet and Protests in Africa**](https://ssrn.com/abstract=4950715)
 <p>What is the role of broadband Internet in shaping political participation in Africa? This study leverages the staggered arrival of submarine Internet cables and the terrestrial backbone network in Africa to examine the influence of high-speed Internet on protests. Combining large-scale cross-country surveys on political behaviors and disaggregated data on conflict events, robust difference-in-differences estimates indicate a significant increase in both the likelihood of protest participation and the frequency of protests. This effect is particularly observed in countries that actively exercise political rights and civil liberties. The analysis explores two key mechanisms---information dissemination and coordination facilitation---with the latter identified as the predominant factor influencing the observed effects.</p>
 </div>
 </div>
