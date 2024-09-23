@@ -50,6 +50,16 @@ Date of Birth: January 9, 1995 \\
 **Secondary:** Development Economics, Economic Geography, Industrial Organization
 
 
+
+# Current Positions
+\vspace{-23pt}
+\noindent\rule{\textwidth}{0.2pt}
+
+- Post-doctoral researcher, Telecom-Paris, (2024 - *Present*)
+
+- Research associate at [UMR Développement et Sociétés](https://umr-devsoc.pantheonsorbonne.fr/), (2024 - *Present*)
+
+
 # Doctoral Studies
 \vspace{-23pt}
 \noindent\rule{\textwidth}{0.2pt}
@@ -76,6 +86,7 @@ Date of Birth: January 9, 1995 \\
   - *Economics Degree, Summa cum Laude, Valedictorian*
   - *History Degree, with honours*
 
+\newpage
 
 # Publications
 \vspace{-23pt}
@@ -213,7 +224,7 @@ Date of Birth: January 9, 1995 \\
   *Teaching Assistant in microeconomics, macroeconomics and inferential statistics (undergraduate level)*
 
 
-
+\newpage
 
 # Other academic activities
 \vspace{-23pt}
@@ -236,9 +247,11 @@ Date of Birth: January 9, 1995 \\
   *Co-organization of a joint UMR DEVSOC and CIRED PhD poster session*
   
 
-# Grants
+# Grants and Awards
 \vspace{-23pt}
 \noindent\rule{\textwidth}{0.2pt}
+
+- Best Student Paper (2024) - [52nd Research Conference on Communications, Information, and Internet Policy](https://www.tprcweb.com/student-paper-competition-finalists), Washington, USA (1,000$).
 
 - Member of the ANR JuGe coordinated by Karine Marazyan, Charlotte Guénard and Paola Villar (300,000€).
 
