@@ -1,28 +1,29 @@
 name: "Jean-Baptiste Guiffard"
-navbar:
-  title: "Jean-Baptiste Guiffard"
-  left:
-    - text: "CV"
-      href: short-vitae.html
-    - text: "Research"
-      href: research.html
-    - text: "Courses and Resources"
-      href: courses.html
-    - text: "Séminaire AuToMat"
-      href: automat.html
-  right:
-    - text: "Social Media"
-      menu:
-        - text: "Twitter"
-          href: "https://twitter.com/JBGuiffard"
-        - text: "Mastodon"
-          href: "https://econtwitter.net/@jbguiffard"
-        - text: "LinkedIn"
-          href: "https://www.linkedin.com/in/jean-baptiste-guiffard-b7063090/"
+
+# Commenter ou supprimer cette section pour enlever le menu de navigation
+# navbar:
+#   title: "Jean-Baptiste Guiffard"
+#   left:
+#     - text: "CV"
+#       href: short-vitae.html
+#     - text: "Research"
+#       href: research.html
+#     - text: "Courses and Resources"
+#       href: courses.html
+#     - text: "Séminaire AuToMat"
+#       href: automat.html
+#   right:
+#     - text: "Social Media"
+#       menu:
+#         - text: "Twitter"
+#           href: "https://twitter.com/JBGuiffard"
+#         - text: "Mastodon"
+#           href: "https://econtwitter.net/@jbguiffard"
+#         - text: "LinkedIn"
+#           href: "https://www.linkedin.com/in/jean-baptiste-guiffard-b7063090/"
 
 output_dir: "."
 output:
   html_document:
     theme: yeti
     highlight: haddock
-

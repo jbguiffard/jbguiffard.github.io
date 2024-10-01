@@ -55,6 +55,7 @@ Date of Birth: January 9, 1995 \\
 \vspace{-23pt}
 \noindent\rule{\textwidth}{0.2pt}
 
+
 - Post-doctoral researcher, Telecom-Paris, (2024 - *Present*)
 
 - Research associate at [UMR Développement et Sociétés](https://umr-devsoc.pantheonsorbonne.fr/), (2024 - *Present*)
@@ -67,8 +68,9 @@ Date of Birth: January 9, 1995 \\
 
 - **Paris I - Panthéon-Sorbonne University** (November 2019 – September 2024)  
   *PhD degree in Economics*
-  - Thesis directors: Mohamed Ali Marouani (CES, D&S, Paris-1 Panthéon-Sorbonne University, IRD); François Roubaud (DIAL, IRD & Paris-Dauphine University)
   - Thesis title : *"Essays in Digital Economics: Three Impact Evaluations of Broadband Internet"*
+  - Supervised by Mohamed Ali Marouani (CES, D&S, Paris-1 Panthéon-Sorbonne University) and François Roubaud (DIAL, IRD & Paris-Dauphine University).
+  - Commitee: Jenny Aker, Marc Bourreau, Joël Cariolle, François Combarnous, Georges Houngbonon.
   
 # Pre-Doctoral Studies
 \vspace{-23pt}
@@ -173,7 +175,7 @@ Date of Birth: January 9, 1995 \\
 \vspace{-23pt}
 \noindent\rule{\textwidth}{0.2pt}
 
-- **Paris I - Panthéon-Sorbonne University, Nogent-sur-Marne, France** (2022 – *Present*)  
+- **Paris I - Panthéon-Sorbonne University, Nogent-sur-Marne, France** (2022 – 2024)  
   *Teaching Assistant in Economics (ATER Full-time)*
 
 - **Orange SA, Issy-les-Moulineaux, France** (2019 - 2022)\
@@ -199,7 +201,7 @@ Date of Birth: January 9, 1995 \\
   *Teaching Assistant in Economics (ATER Full-time)*
   - *Development Measurement* (lecture) - M1
   - *Development Economics* (seminar) - M1
-  - *Climate and Data* (an Introduction to R and an education on data and the construction of sustainable development indicators.) - M2
+  - *Climate and Data* - M2
   - *Alumni Conferences* - M2
   - *Applied Econometrics* - M1
   - *Tutored Projects in Development Economics* - M1
@@ -210,7 +212,7 @@ Date of Birth: January 9, 1995 \\
   *Teaching Assistant in Economics (ATER Part-time)*
   - *Development Measurement* (Labor and Employment in Developing Countries) - M1
   - *Quantitative Methods training course* - M1
-  - *Climate and Data* (an Introduction to R and an education on data and the construction of sustainable development indicators.) - M2
+  - *Climate and Data* - M2
   - *Applied Econometrics* - M1
   - *Tutored Projects in Development Economics* - M1
 
@@ -234,7 +236,7 @@ Date of Birth: January 9, 1995 \\
   *Co-organization of the seminar "Au Tour de Nos Matériaux"*
   - [AuToMat](https://jeanbaptisteguiffard.github.io/automat.html) - Multidisciplinary methodological seminar
 
-- **UMR Développement et Sociétés, Nogent-sur-Marne, France** (2022 - *Present*) \
+- **UMR Développement et Sociétés, Nogent-sur-Marne, France** (2022 - 2025) \
   *Representative of young researchers at the laboratory council* 
 
 - **Member of the Board of Directors of the French Association for Development Economics (AFEDEV)** (2023 - *Present*) \
@@ -252,6 +254,8 @@ Date of Birth: January 9, 1995 \\
 \noindent\rule{\textwidth}{0.2pt}
 
 - Best Student Paper (2024) - [52nd Research Conference on Communications, Information, and Internet Policy](https://www.tprcweb.com/student-paper-competition-finalists), Washington, USA (1,000$).
+
+- Funding Bonus Qualité Recherche (BQR) for the organization of the AuToMat seminar (2,200€).
 
 - Member of the ANR JuGe coordinated by Karine Marazyan, Charlotte Guénard and Paola Villar (300,000€).
 
