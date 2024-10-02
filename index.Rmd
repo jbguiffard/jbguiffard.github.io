@@ -247,7 +247,7 @@ output: html_document
 <a href="index.html">Home</a>
 <a href="research.html">Research</a>
 <a href="teaching.html">Teaching</a>
-<a href="docs/cv_dagnelie.pdf" target="_blank">CV</a>
+<a href="short-vitae.html" target="_blank">CV</a>
 <a href="automat.html">AuToMat Seminar</a>
 <a href="javascript:void(0);" class="icon" onclick="myFunction1()">
 <i class="fa fa-bars"></i>
