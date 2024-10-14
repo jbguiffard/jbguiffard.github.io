@@ -1,5 +1,5 @@
 ---
-title: "Jean-Baptiste Guiffard"
+title: "Courses and Ressources"
 output: html_document
 ---
 
@@ -241,33 +241,6 @@ output: html_document
 </style> 
 
 <link rel="shortcut icon" href="favicon.ico">
-
-<div class="header" id="myHeader">
-<div class="topnav" id="myTopnav">
-<a href="index.html">Home</a>
-<a href="research.html">Research</a>
-<a href="courses.html">Courses and Resources</a>
-<a href="short-vitae.html" target="_blank">CV</a>
-<a href="automat.html">AuToMat Seminar</a>
-<a href="javascript:void(0);" class="icon" onclick="myFunction1()">
-<i class="fa fa-bars"></i>
-</a>
-</div>
-
-<script> 
-function myFunction1() { 
-var x = document.getElementById("myTopnav"); 
-if (x.className === "topnav") { 
-x.className += " responsive"; 
-} else { 
-x.className = "topnav"; 
-} 
-} 
-</script> 
-
-</div> 
-
-
 
 
 

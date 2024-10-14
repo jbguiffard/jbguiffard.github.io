@@ -242,32 +242,9 @@ output: html_document
 
 <link rel="shortcut icon" href="favicon.ico">
 
-<div class="header" id="myHeader">
-<div class="topnav" id="myTopnav">
-<a href="index.html">Home</a>
-<a href="research.html">Research</a>
-<a href="teaching.html">Teaching</a>
-<a href="short-vitae.html" target="_blank">CV</a>
-<a href="automat.html">AuToMat Seminar</a>
-<a href="javascript:void(0);" class="icon" onclick="myFunction1()">
-<i class="fa fa-bars"></i>
-</a>
-</div>
 
-<script> 
-function myFunction1() { 
-var x = document.getElementById("myTopnav"); 
-if (x.className === "topnav") { 
-x.className += " responsive"; 
-} else { 
-x.className = "topnav"; 
-} 
-} 
-</script> 
 
-</div> 
-
-<h3>Post-doc at <a href="https://www.telecom-paris.fr/fr/ecole/departements-enseignement-recherche/sciences-economiques-sociales#:~:text=Le%20d%C3%A9partement%20SES%20%C3%A9tudie%20les" target="_blank">Telecom-Paris (Institut Polytechnique de Paris)</a></h3> 
+<h3>Post-doctoral Researcher at <a href="https://www.telecom-paris.fr/fr/ecole/departements-enseignement-recherche/sciences-economiques-sociales#:~:text=Le%20d%C3%A9partement%20SES%20%C3%A9tudie%20les" target="_blank">Telecom-Paris (CREST, Institut Polytechnique de Paris)</a></h3> 
 <h3>Associate Researcher at <a href="https://umr-devsoc.pantheonsorbonne.fr/" target="_blank">UMR Développement & Sociétés</a> (Université Paris 1 Panthéon-Sorbonne, IRD)</h3> 
 
 

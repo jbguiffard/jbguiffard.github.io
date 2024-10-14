@@ -1,5 +1,5 @@
 ---
-title: "Jean-Baptiste Guiffard"
+title: "AuToMat Seminar"
 output: html_document
 ---
 
@@ -242,42 +242,17 @@ output: html_document
 
 <link rel="shortcut icon" href="favicon.ico">
 
-<div class="header" id="myHeader">
-<div class="topnav" id="myTopnav">
-<a href="index.html">Home</a>
-<a href="research.html">Research</a>
-<a href="courses.html">Courses and Resources</a>
-<a href="short-vitae.html" target="_blank">CV</a>
-<a href="automat.html">AuToMat Seminar</a>
-<a href="javascript:void(0);" class="icon" onclick="myFunction1()">
-<i class="fa fa-bars"></i>
-</a>
-</div>
-
-<script> 
-function myFunction1() { 
-var x = document.getElementById("myTopnav"); 
-if (x.className === "topnav") { 
-x.className += " responsive"; 
-} else { 
-x.className = "topnav"; 
-} 
-} 
-</script> 
-
-</div> 
-
 
 
 
 <div>
   <img alt="Pavillon picture" src="images/pavillon_Indochine - Copie1.jpg" class="rounded-image"/>
-  <figcaption> <i>Jardin tropical René-Dumont, January 2022 </i> </figcaption>>
+  <figcaption> <i>Jardin tropical René-Dumont, January 2022 </i> </figcaption>
 </div>
 
 
 
-
+-----
 
 Welcome to the Methodological Seminar hosted by the UMR Development & Societies! This seminar is open to PhD students, senior researchers, IEDES students, and external individuals interested in attending. Our primary objectives are:
 
