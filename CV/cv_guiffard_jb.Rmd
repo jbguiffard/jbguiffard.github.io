@@ -24,9 +24,9 @@ header-includes:
 \begin{minipage}[t]{0.55\textwidth}
 \raggedright
 \textbf{Contact information}\\
-Email: \href{mailto:jean-baptiste.guiffard@univ-paris1.fr}{jean-baptiste.guiffard@univ-paris1.fr} \\
+Email: \href{mailto:guiffard@telecom-paris.fr}{guiffard@telecom-paris.fr} \\
 Phone: +33 6 87 96 61 05 \\
-Address: 45 bis Avenue de la Belle Gabrielle, 94130, Nogent-sur-Marne, France \\
+Address: 19 place Marguerite Perey, 91120, Palaiseau, France \\
 Website: \href{https://jeanbaptisteguiffard.github.io/}{jeanbaptisteguiffard.github.io}
 \end{minipage}
 \hfill
@@ -113,8 +113,11 @@ Date of Birth: January 9, 1995 \\
 
 1. **From Bytes to Business: Mobile Broadband, Firm Creations and Digital Divide in Tunisia** (2024) --- with Mohamed Ali Marouani
 
-2. **Migration and intergenerational transmission of marriage-related practices in West Africa over the long run: Evidence from oral genealogies** (2023) --- with Antoine Castet, Karine Marazyan, and Munir Squires
+2. **Digital platforms, high-speed Internet, and the transition from informal to formal employment in Brazil** (2025) --- with Joël Cariolle
 
+<!---
+2. **Migration and intergenerational transmission of marriage-related practices in West Africa over the long run: Evidence from oral genealogies** (2023) --- with Antoine Castet, Karine Marazyan, and Munir Squires
+--->
 
 <!---
 %{\bf Migration Dynamics in West Africa on Long Period} \hfill { 2022} 
@@ -129,6 +132,14 @@ Date of Birth: January 9, 1995 \\
 # Seminars and Conferences
 \vspace{-23pt}
 \noindent\rule{\textwidth}{0.2pt}
+
+
+**2025**
+
+
+- [ERF 31st Annual Conference](https://erf.org.eg/conference/erf-31st-annual-conference/), Cairo, Egypt.
+
+- [2025 ADRES Job Market Conférence](https://adres2025.sciencesconf.org), BETA, University of Strasbourg, France.
 
 **2024**
 
@@ -249,7 +260,9 @@ Date of Birth: January 9, 1995 \\
   
 - **UMR Développement et Sociétés, Nogent-sur-Marne, France** (October 2023)\
   *Co-organization of a joint UMR DEVSOC and CIRED PhD poster session*
-  
+
+- **Refereeing**
+  *Telematics and Informatics*
 
 # Grants and Awards
 \vspace{-23pt}
