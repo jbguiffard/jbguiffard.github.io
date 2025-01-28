@@ -1,5 +1,5 @@
 ---
-title: "Research"
+title: ""
 output: html_document
 ---
 
@@ -125,6 +125,30 @@ img {
     overflow: hidden;
     text-align: justify;
 }
+
+.social-links {
+        text-align: center;
+        margin-top: 20px;
+        display: flex;
+        justify-content: center;
+        gap: 10px;
+        align-items: center;
+}
+
+.social-links a {
+        display: inline-block;
+}
+
+.social-links img {
+        width: 40px;
+        height: auto;
+        transition: transform 0.2s;
+}
+
+.social-links img:hover {
+        transform: scale(1.1);
+}
+
 </style> 
 
 

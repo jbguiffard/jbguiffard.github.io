@@ -11,7 +11,7 @@
 
 
 
-<title>Courses and Ressources</title>
+<title>teaching.knit</title>
 
 <script src="site_libs/header-attrs-2.27/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
@@ -219,7 +219,6 @@ pre code {
 
 
 
-<h1 class="title toc-ignore">Courses and Ressources</h1>
 
 </div>
 
@@ -328,6 +327,28 @@ hr {
     background-color: #1c1c1c;
 }
 
+.social-links {
+        text-align: center;
+        margin-top: 20px;
+        display: flex;
+        justify-content: center;
+        gap: 10px;
+        align-items: center;
+}
+
+.social-links a {
+        display: inline-block;
+}
+
+.social-links img {
+        width: 40px;
+        height: auto;
+        transition: transform 0.2s;
+}
+
+.social-links img:hover {
+        transform: scale(1.1);
+}
 </style>
 <p><link rel="shortcut icon" href="favicon.ico"></p>
 <p>
@@ -424,8 +445,13 @@ R</a></p></li>
 <footer role="contentinfo" id="site-footer">
 
 <!-- /.bottom-menu -->
-	<p class="copyright" align="right">&#169; 2025,
-		powered by <a href="http://www.r-project.org">R</a> + <a href="http://rmarkdown.rstudio.com">RMarkdown</a> + <a href="http://github.com">Github</a>.</p>
+	<p 
+<div class="social-links">
+  <a href="https://bsky.app/profile/jbguiffard.bsky.social" target="_blank"><img src="images/Bluesky_Logo.png" alt="Bluesky"></a>
+  <a href="https://www.linkedin.com/in/jean-baptiste-guiffard-b7063090/" target="_blank"><img src="images/logo-linkedin.png" alt="LinkedIn"></a>
+</div>
+		
+</p>
 </footer>
 
 

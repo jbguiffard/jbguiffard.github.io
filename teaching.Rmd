@@ -1,5 +1,5 @@
 ---
-title: "Courses and Ressources"
+title: ""
 output: html_document
 ---
 
@@ -112,6 +112,28 @@ hr {
     background-color: #1c1c1c;
 }
 
+.social-links {
+        text-align: center;
+        margin-top: 20px;
+        display: flex;
+        justify-content: center;
+        gap: 10px;
+        align-items: center;
+}
+
+.social-links a {
+        display: inline-block;
+}
+
+.social-links img {
+        width: 40px;
+        height: auto;
+        transition: transform 0.2s;
+}
+
+.social-links img:hover {
+        transform: scale(1.1);
+}
 </style> 
 
 <link rel="shortcut icon" href="favicon.ico">

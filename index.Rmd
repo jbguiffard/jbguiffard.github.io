@@ -181,13 +181,15 @@ I am currently a postdoctoral researcher at [CREST (Télécom Paris, Institut Po
 
 I hold a PhD in Economics from the Université Paris 1 Panthéon-Sorbonne.
 
-
-[Curriculum vitae](https://jeanbaptisteguiffard.github.io/CV/cv_guiffard_jb.pdf)
-
+<!---
 - Member of the [International Telecommunications Society](https://www.itsworld.org/)
 - Member of the [AFEDEV network](https://afedev.fr/)
 - Co-organizer of the [AuToMat Seminar](https://jeanbaptisteguiffard.github.io/automat.html)
 - Co-organizer of the [Journée d'études sur les données spatiales](https://umr-devsoc.pantheonsorbonne.fr/actualite/journee-detudes-donnees-spatiales-nouvelles-sources-nouvelles-perspectives)
+--->
+
+[**Curriculum vitae**](https://jeanbaptisteguiffard.github.io/CV/cv_guiffard_jb.pdf)
+
 
 
 ## Contact
@@ -199,9 +201,3 @@ Departement SES <br>
 
 
 **Email:** guiffard@telecom-paris.fr
-
-
-<div class="social-links">
-  <a href="https://bsky.app/profile/jbguiffard.bsky.social" target="_blank"><img src="images/Bluesky_Logo.png" alt="Bluesky"></a>
-  <a href="https://www.linkedin.com/in/jean-baptiste-guiffard-b7063090/" target="_blank"><img src="images/logo-linkedin.png" alt="LinkedIn"></a>
-</div>
