@@ -1,28 +1,41 @@
-name: "Jean-Baptiste Guiffard"
+# References for the YAML syntax:
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml/
 
-navbar:
-   title: "Jean-Baptiste Guiffard"
-   left:
-     - text: "CV"
-       href: short-vitae.html
-     - text: "Research"
-       href: research.html
-     - text: "Courses and Resources"
-       href: courses.html
-     - text: "Séminaire AuToMat"
-       href: automat.html
-   right:
-     - text: "Social Media"
-       menu:
-         - text: "Twitter"
-           href: "https://twitter.com/JBGuiffard"
-         - text: "Mastodon"
-           href: "https://econtwitter.net/@jbguiffard"
-         - text: "LinkedIn"
-           href: "https://www.linkedin.com/in/jean-baptiste-guiffard-b7063090/"
+# Site
+title: Thiago Scarelli
+author: Thiago Scarelli
+Description: Jean-Baptiste Guiffard is a Post-doctoral researcher at CREST (Telecom-Paris).
+domain: jeanbaptisteguiffard.github.io
+url: https://jeanbaptisteguiffard.github.io
+lang: en_US
+locale: en_US
+
+# Social
+name: Jean-Baptiste Guiffard
+
+# Jekyll
+permalink: /:year/:month/:title/
+markdown: kramdown
+highlighter: rouge
+
+# Gems
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      css: "css/style.css"
 
 output_dir: "."
 output:
   html_document:
-    theme: paper
-    highlight: monochrome
+    highlight: textmate
+    include:
+      in_header: _includes/head.html
+      before_body: _includes/nav.html
+      after_body: _includes/footer.html

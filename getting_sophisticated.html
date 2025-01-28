@@ -16,7 +16,7 @@
 <script src="site_libs/header-attrs-2.27/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<link href="site_libs/bootstrap-3.3.5/css/paper.min.css" rel="stylesheet" />
+<link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
@@ -33,6 +33,58 @@
 <link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
 <script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+
+<head>
+	<meta charset="UTF-8">
+	<meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
+	<meta http-equiv=X-UA-Compatible content="IE=edge,chrome=1">
+
+	<meta name="description" content="{{ site.description }}">
+	<meta name="author" content="{{ site.author }}">
+
+	<!-- Stylesheet -->
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Barlow">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Barlow Condensed">	
+	<link rel="stylesheet" href="/assets/css/styles.css">
+
+	<!-- Icons -->
+	<link rel="shortcut icon" href="/assets/images/favicon.ico" type="image/x-icon">
+	<link rel="icon" href="/assets/images/favicon.ico" type="image/x-icon">
+	<link rel="icon" type="image/png" sizes = "32x32" href="/assets/images/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes = "16x16" href="/assets/images/favicon-16x16.png">
+	<link rel="apple-touch-icon" sizes="60x60" href="/assets/images/apple-touch-icon.png">
+	<link rel="mask-icon" href="/assets/images/safari-pinned-tab.svg" color="#346c6c">
+
+	<title>
+        {% if page.title %}
+            {{ site.title }} | {{ page.title }}
+        {% else %}
+            {{ site.title }}
+        {% endif %}
+	</title>
+
+	<!-- Mobile -->
+	<meta name="HandheldFriendly" content="True">
+	<meta name="MobileOptimized" content="320">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	
+	<!-- Google tag (gtag.js) -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-2C7PZ0KVVS"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+		
+		gtag('config', 'G-2C7PZ0KVVS');
+	<link rel="shortcut icon" href="favicon.ico">
+	</script>
+
+	
+
+
+</head>
 
 <style type="text/css">
   code{white-space: pre-wrap;}
@@ -43,92 +95,18 @@
   ul.task-list{list-style: none;}
     </style>
 
-
-
-<style type="text/css">
-  code {
-    white-space: pre;
+<style type="text/css">code{white-space: pre;}</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
   }
-  .sourceCode {
-    overflow: visible;
-  }
-</style>
-<style type="text/css" data-origin="pandoc">
-pre > code.sourceCode { white-space: pre; position: relative; }
-pre > code.sourceCode > span { line-height: 1.25; }
-pre > code.sourceCode > span:empty { height: 1.2em; }
-.sourceCode { overflow: visible; }
-code.sourceCode > span { color: inherit; text-decoration: inherit; }
-div.sourceCode { margin: 1em 0; }
-pre.sourceCode { margin: 0; }
-@media screen {
-div.sourceCode { overflow: auto; }
 }
-@media print {
-pre > code.sourceCode { white-space: pre-wrap; }
-pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
-}
-pre.numberSource code
-  { counter-reset: source-line 0; }
-pre.numberSource code > span
-  { position: relative; left: -4em; counter-increment: source-line; }
-pre.numberSource code > span > a:first-child::before
-  { content: counter(source-line);
-    position: relative; left: -1em; text-align: right; vertical-align: baseline;
-    border: none; display: inline-block;
-    -webkit-touch-callout: none; -webkit-user-select: none;
-    -khtml-user-select: none; -moz-user-select: none;
-    -ms-user-select: none; user-select: none;
-    padding: 0 4px; width: 4em;
-  }
-pre.numberSource { margin-left: 3em;  padding-left: 4px; }
-div.sourceCode
-  {   }
-@media screen {
-pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
-}
-code span.al { font-weight: bold; } /* Alert */
-code span.an { font-style: italic; } /* Annotation */
-code span.cf { font-weight: bold; } /* ControlFlow */
-code span.co { font-style: italic; } /* Comment */
-code span.cv { font-style: italic; } /* CommentVar */
-code span.do { font-style: italic; } /* Documentation */
-code span.dt { text-decoration: underline; } /* DataType */
-code span.er { font-weight: bold; } /* Error */
-code span.in { font-style: italic; } /* Information */
-code span.kw { font-weight: bold; } /* Keyword */
-code span.pp { font-weight: bold; } /* Preprocessor */
-code span.wa { font-style: italic; } /* Warning */
-
-</style>
-<script>
-// apply pandoc div.sourceCode style to pre.sourceCode instead
-(function() {
-  var sheets = document.styleSheets;
-  for (var i = 0; i < sheets.length; i++) {
-    if (sheets[i].ownerNode.dataset["origin"] !== "pandoc") continue;
-    try { var rules = sheets[i].cssRules; } catch (e) { continue; }
-    var j = 0;
-    while (j < rules.length) {
-      var rule = rules[j];
-      // check if there is a div.sourceCode rule
-      if (rule.type !== rule.STYLE_RULE || rule.selectorText !== "div.sourceCode") {
-        j++;
-        continue;
-      }
-      var style = rule.style.cssText;
-      // check if color or background-color is set
-      if (rule.style.color === '' && rule.style.backgroundColor === '') {
-        j++;
-        continue;
-      }
-      // replace div.sourceCode by a pre.sourceCode rule
-      sheets[i].deleteRule(j);
-      sheets[i].insertRule('pre.sourceCode{' + style + '}', j);
-    }
-  }
-})();
 </script>
+
+
 
 
 
@@ -166,80 +144,6 @@ pre code {
 </style>
 
 
-<style type="text/css">
-.dropdown-submenu {
-  position: relative;
-}
-.dropdown-submenu>.dropdown-menu {
-  top: 0;
-  left: 100%;
-  margin-top: -6px;
-  margin-left: -1px;
-  border-radius: 0 6px 6px 6px;
-}
-.dropdown-submenu:hover>.dropdown-menu {
-  display: block;
-}
-.dropdown-submenu>a:after {
-  display: block;
-  content: " ";
-  float: right;
-  width: 0;
-  height: 0;
-  border-color: transparent;
-  border-style: solid;
-  border-width: 5px 0 5px 5px;
-  border-left-color: #cccccc;
-  margin-top: 5px;
-  margin-right: -10px;
-}
-.dropdown-submenu:hover>a:after {
-  border-left-color: #adb5bd;
-}
-.dropdown-submenu.pull-left {
-  float: none;
-}
-.dropdown-submenu.pull-left>.dropdown-menu {
-  left: -100%;
-  margin-left: 10px;
-  border-radius: 6px 0 6px 6px;
-}
-</style>
-
-<script type="text/javascript">
-// manage active state of menu based on current page
-$(document).ready(function () {
-  // active menu anchor
-  href = window.location.pathname
-  href = href.substr(href.lastIndexOf('/') + 1)
-  if (href === "")
-    href = "index.html";
-  var menuAnchor = $('a[href="' + href + '"]');
-
-  // mark the anchor link active (and if it's in a dropdown, also mark that active)
-  var dropdown = menuAnchor.closest('li.dropdown');
-  if (window.bootstrap) { // Bootstrap 4+
-    menuAnchor.addClass('active');
-    dropdown.find('> .dropdown-toggle').addClass('active');
-  } else { // Bootstrap 3
-    menuAnchor.parent().addClass('active');
-    dropdown.addClass('active');
-  }
-
-  // Navbar adjustments
-  var navHeight = $(".navbar").first().height() + 15;
-  var style = document.createElement('style');
-  var pt = "padding-top: " + navHeight + "px; ";
-  var mt = "margin-top: -" + navHeight + "px; ";
-  var css = "";
-  // offset scroll position for anchor links (for fixed navbar)
-  for (var i = 1; i <= 6; i++) {
-    css += ".section h" + i + "{ " + pt + mt + "}\n";
-  }
-  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
-  document.head.appendChild(style);
-});
-</script>
 
 <!-- tabsets -->
 
@@ -377,55 +281,15 @@ div.tocify {
 
 
 
-
-<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
-  <div class="container">
-    <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-      </button>
-      <a class="navbar-brand" href="index.html">Jean-Baptiste Guiffard</a>
-    </div>
-    <div id="navbar" class="navbar-collapse collapse">
-      <ul class="nav navbar-nav">
-        <li>
-  <a href="short-vitae.html">CV</a>
-</li>
-<li>
-  <a href="research.html">Research</a>
-</li>
-<li>
-  <a href="courses.html">Courses and Resources</a>
-</li>
-<li>
-  <a href="automat.html">Séminaire AuToMat</a>
-</li>
-      </ul>
-      <ul class="nav navbar-nav navbar-right">
-        <li class="dropdown">
-  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-    Social Media
-     
-    <span class="caret"></span>
-  </a>
-  <ul class="dropdown-menu" role="menu">
-    <li>
-      <a href="https://twitter.com/JBGuiffard">Twitter</a>
-    </li>
-    <li>
-      <a href="https://econtwitter.net/@jbguiffard">Mastodon</a>
-    </li>
-    <li>
-      <a href="https://www.linkedin.com/in/jean-baptiste-guiffard-b7063090/">LinkedIn</a>
-    </li>
-  </ul>
-</li>
-      </ul>
-    </div><!--/.nav-collapse -->
-  </div><!--/.container -->
-</div><!--/.navbar -->
+<div class="nav">
+    <h1>Jean-Baptiste Guiffard</h1>
+    <nav>
+        <a href="index.html">About</a> <strong>|</strong>
+        <a href="research.html">Research</a> <strong>|</strong>
+        <a href="teaching.html">Teaching</a> <strong>|</strong>
+        <a href="automat.html">AuToMat Seminar</a>
+    </nav>
+</div>
 
 <div id="header">
 
@@ -567,7 +431,7 @@ Markdown chapter in R for Data Science</a>.</p>
 <div id="in-line" class="section level3">
 <h3>in line</h3>
 <p>Here is an example inline. The date when I last built the website is
-2024-10-14. My favorite number is 13.1415927. There are 48 files and
+2025-01-28. My favorite number is 13.1415927. There are 49 files and
 folders in our repo. This is not just text; his is executable R code
 that is 100% awesome!</p>
 <p><br></p>
@@ -577,8 +441,8 @@ that is 100% awesome!</p>
 <p>And here is an example of a code chunk. Let’s plot the first bit of
 an <code>iris</code> variable (which is a dataset that comes with base
 R).</p>
-<div class="sourceCode" id="cb2"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb2-1"><a href="#cb2-1" tabindex="-1"></a>x <span class="ot">&lt;-</span> iris<span class="sc">$</span>Sepal.Length[<span class="dv">1</span><span class="sc">:</span><span class="dv">15</span>]</span>
-<span id="cb2-2"><a href="#cb2-2" tabindex="-1"></a><span class="fu">plot</span>(x)</span></code></pre></div>
+<pre class="r"><code>x &lt;- iris$Sepal.Length[1:15]
+plot(x)</code></pre>
 <p><img src="getting_sophisticated_files/figure-html/plot%20iris-1.png" width="672" /></p>
 </div>
 <div id="calling-another-file" class="section level3">
@@ -587,15 +451,15 @@ R).</p>
 <h4><code>R</code> script</h4>
 <p>You can source an R script. This is a super powerful way to avoid
 copy-pasting your analyses. For example:</p>
-<div class="sourceCode" id="cb3"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb3-1"><a href="#cb3-1" tabindex="-1"></a><span class="do">## source an external script </span></span>
-<span id="cb3-2"><a href="#cb3-2" tabindex="-1"></a><span class="fu">source</span>(<span class="st">&quot;advanced/my_script.R&quot;</span>)</span>
-<span id="cb3-3"><a href="#cb3-3" tabindex="-1"></a></span>
-<span id="cb3-4"><a href="#cb3-4" tabindex="-1"></a><span class="do">## use the calc_gdp() function `my_script.R`</span></span>
-<span id="cb3-5"><a href="#cb3-5" tabindex="-1"></a>my_data <span class="ot">&lt;-</span> <span class="fu">calc_gdp</span>(my_country <span class="ot">&lt;-</span> <span class="st">&#39;Slovenia&#39;</span>)</span>
-<span id="cb3-6"><a href="#cb3-6" tabindex="-1"></a></span>
-<span id="cb3-7"><a href="#cb3-7" tabindex="-1"></a><span class="fu">ggplot</span>(<span class="at">data =</span> my_data, <span class="fu">aes</span>(<span class="at">x =</span> year, <span class="at">y =</span> pop)) <span class="sc">+</span> </span>
-<span id="cb3-8"><a href="#cb3-8" tabindex="-1"></a>  <span class="fu">geom_point</span>() <span class="sc">+</span> </span>
-<span id="cb3-9"><a href="#cb3-9" tabindex="-1"></a>  <span class="fu">labs</span>(<span class="at">title =</span> my_data<span class="sc">$</span>country)</span></code></pre></div>
+<pre class="r"><code>## source an external script 
+source(&quot;advanced/my_script.R&quot;)
+
+## use the calc_gdp() function `my_script.R`
+my_data &lt;- calc_gdp(my_country &lt;- &#39;Slovenia&#39;)
+
+ggplot(data = my_data, aes(x = year, y = pop)) + 
+  geom_point() + 
+  labs(title = my_data$country)</code></pre>
 <p><img src="getting_sophisticated_files/figure-html/source%20gdp%20script-1.png" width="672" /></p>
 <p><br></p>
 </div>
@@ -604,7 +468,7 @@ copy-pasting your analyses. For example:</p>
 <p>This is something that R Markdown websites will look for; when it
 exists it will give you ‘global variables’ that will be available for
 all pages across your site.</p>
-<div class="sourceCode" id="cb4"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb4-1"><a href="#cb4-1" tabindex="-1"></a><span class="fu">source</span>(<span class="st">&quot;_site.R&quot;</span>)</span></code></pre></div>
+<pre class="r"><code>source(&quot;_site.R&quot;)</code></pre>
 <p><br></p>
 </div>
 <div id="r-markdown-file" class="section level4">
@@ -649,6 +513,12 @@ into Google.</p></li>
 </center>
 </div>
 
+<footer role="contentinfo" id="site-footer">
+
+<!-- /.bottom-menu -->
+	<p class="copyright" align="right">&#169; 2025,
+		powered by <a href="http://www.r-project.org">R</a> + <a href="http://rmarkdown.rstudio.com">RMarkdown</a> + <a href="http://github.com">Github</a>.</p>
+</footer>
 
 
 </div>

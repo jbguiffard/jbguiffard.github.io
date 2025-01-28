@@ -1,0 +1,347 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>Séminaire AuToMat</title>
+
+<script src="site_libs/header-attrs-2.27/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+
+
+
+<link rel="stylesheet" href="styles.css" type="text/css" />
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
+}
+pre code {
+  padding: 0;
+}
+</style>
+
+
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "\e258";
+  font-family: 'Glyphicons Halflings';
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div id="header">
+
+
+
+<h1 class="title toc-ignore">Séminaire AuToMat</h1>
+<h3 class="subtitle">Au tour de nos matériaux</h3>
+
+</div>
+
+
+<style>
+figure {
+  text-align: center;
+}
+
+figcaption {
+  margin-top: 10px;
+}
+
+</style>
+<style>
+  .rounded-image {
+    border-radius: 10px; /* Ajoute des coins arrondis de 10 pixels */
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.4); /* Ajoute une ombre de 2 pixels de hauteur et 4 pixels de flou */
+  }
+    .section-title {
+    font-size: 1.8em;
+    margin-top: 30px;
+    border-bottom: 2px solid #007bff;
+    display: inline-block;
+    padding-bottom: 5px;
+  }
+</style>
+<p><link rel="shortcut icon" href="favicon.ico"></p>
+<div>
+<img alt="Pavillon picture" src="images/pavillon_Indochine%20-%20Copie1.jpg" class="rounded-image"/>
+<figcaption>
+<i>Jardin tropical René-Dumont, January 2022 </i>
+</figcaption>
+<blockquote>
+
+</blockquote>
+</div>
+<hr />
+<h2 class="section-title">
+2021-2022 (First Edition)
+</h2>
+<p><strong>Représenter les espaces de circulation et les
+réseaux</strong></p>
+<ul>
+<li><p><strong>Thursday, February, 3rd 2022 (17h30-18h30)</strong> : <a
+href="https://www.pantheonsorbonne.fr/page-perso/ggillot">Gaëlle
+Gillot</a> (UMR D&amp;S, IEDES) - <a
+href="https://www.youtube.com/watch?v=wNynnf3KFnM">Enregistrement</a></p></li>
+<li><p><strong>Thursday, February, 17th 2022 (17h30-18h30)</strong> : <a
+href="https://www.lam.sciencespobordeaux.fr/membre/quentin-chapus/">Quentin
+Chapus</a> (INRAE) - <a
+href="https://www.youtube.com/watch?v=hrB52QnHC30">Enregistrement</a></p></li>
+<li><p><strong>Thursday, Februrary, 24th 2022 (17h30-18h30)</strong> :
+<a href="https://jeanbaptisteguiffard.github.io/">Jean-Baptiste
+Guiffard</a> (UMR D&amp;S) - <em>Web scraper et représenter des réseaux
+de chercheurs (I)</em> - <a
+href="https://www.youtube.com/watch?v=HTxqQFzNV7A">Enregistrement</a></p></li>
+<li><p><strong>Thursday, March, 10th 2022 (17h30-18h30)</strong> : <a
+href="https://jeanbaptisteguiffard.github.io/">Jean-Baptiste
+Guiffard</a> (UMR D&amp;S) - <em>Web scraper et représenter des réseaux
+de chercheurs (II)</em> - <a
+href="https://www.youtube.com/watch?v=3-Dbgg_xBEk">Enregistrement</a></p></li>
+</ul>
+<p><strong>Découvrir R</strong></p>
+<ul>
+<li><p><strong>Thursday, March, 17th 2022 (17h30-18h30)</strong> : <a
+href="https://sites.google.com/view/antoinecastet">Antoine Castet</a>
+(UMR D&amp;S) et <a
+href="https://jeanbaptisteguiffard.github.io/">Jean-Baptiste
+Guiffard</a> (UMR D&amp;S) - <em>Les bases du langage (langage de base
+et Dplyr)</em> - <a
+href="https://www.youtube.com/watch?v=L8K-PVIid4g">Enregistrement</a></p></li>
+<li><p><strong>Thursday, March, 24th 2022 (17h30-18h30)</strong> : <a
+href="https://sites.google.com/view/antoinecastet">Antoine Castet</a>
+(UMR D&amp;S) et <a
+href="https://jeanbaptisteguiffard.github.io/">Jean-Baptiste
+Guiffard</a> (UMR D&amp;S) - <em>Représentations graphiques et tableaux
+de statistiques</em> - <a
+href="https://www.youtube.com/watch?v=acHVPQ9H1Uc">Enregistrement</a></p></li>
+<li><p><strong>Thursday, April, 7th 2022 (17h30-18h30)</strong> : <a
+href="https://sites.google.com/view/antoinecastet">Antoine Castet</a>
+(UMR D&amp;S) et <a
+href="https://jeanbaptisteguiffard.github.io/">Jean-Baptiste
+Guiffard</a> (UMR D&amp;S) - <em>Introduction à Rmarkdown</em> - <a
+href="https://www.youtube.com/watch?v=Wq28FTFgAVY&amp;feature=youtu.be">Enregistrement</a></p></li>
+</ul>
+<p><strong>Des données en cartes</strong></p>
+<ul>
+<li><p><strong>Thursday, April, 21th 2022 (17h30-18h30)</strong> : <a
+href="https://sites.google.com/site/karinemarazyan/index">Karine
+Marazyan</a> (UMR D&amp;S), <a
+href="https://sites.google.com/view/antoinecastet">Antoine Castet</a>
+(UMR D&amp;S) et <a
+href="https://jeanbaptisteguiffard.github.io/">Jean-Baptiste
+Guiffard</a> (UMR D&amp;S) - <em>L’usage des cartes dans des travaux de
+recherche en économie</em> - <a
+href="https://www.youtube.com/watch?v=vEKANlvIsjA">Enregistrement</a></p></li>
+<li><p><strong>Thursday, May, 5th 2022 (17h30-18h30)</strong> : <a
+href="https://sites.google.com/view/antoinecastet">Antoine Castet</a>
+(UMR D&amp;S) et <a
+href="https://jeanbaptisteguiffard.github.io/">Jean-Baptiste
+Guiffard</a> (UMR D&amp;S) - <em>Aperçu des bases et méthodes
+d’extraction</em> - <a
+href="https://www.youtube.com/watch?v=5CIDZM_E_2k&amp;feature=youtu.be">Enregistrement</a></p></li>
+<li><p><strong>Thursday, May, 12th 2022 (17h30-18h30)</strong> : <a
+href="https://sites.google.com/view/antoinecastet">Antoine Castet</a>
+(UMR D&amp;S) - <em>Une application avec Qgis</em> - <a
+href="https://www.youtube.com/watch?v=6Tt3Vup_2Tk">Enregistrement</a></p></li>
+</ul>
+<p><strong>Lexicographie</strong></p>
+<ul>
+<li><p><strong>Thursday, May, 26th 2022 (17h30-18h30)</strong> : <a
+href="https://sites.google.com/site/karinemarazyan/index">Karine
+Marazyan</a> (UMR D&amp;S) - <em>Les enseignements des données
+d’archives judiciaires au Sénégal</em> - <a
+href="https://www.youtube.com/watch?v=Pi_4SjZu5r0">Enregistrement</a></p></li>
+<li><p><strong>Thursday, June, 9th 2022 (17h30-18h30)</strong> : <a
+href="https://www.travail-genre-societes.com/comite-de-redaction/tania-angeloff/">Tania
+Angeloff</a> (UMR D&amp;S) - <em>Les enseignements d’une correspondance
+intime en Chine sous l’ère Mao</em></p></li>
+</ul>
+<p><strong>Epigénétique</strong></p>
+<ul>
+<li><strong>Thursday, June, 30th 2022 (15h-16h)</strong> : <a
+href="https://www.ecoanthropologie.fr/fr/annuaire/chaix-raphaelle-6056">Raphaëlle
+Chaix</a> (CNRS, MNHN) et <a
+href="https://umr-devsoc.pantheonsorbonne.fr/bourdier-frederic">Frédéric
+Bourdier</a> (IRD, UMR D&amp;S) - <em>Epigender : « Influence des normes
+de genre sur les marqueurs épigénétiques de santé »</em> - <a
+href="https://www.youtube.com/watch?v=tKm859ryqRw">Enregistrement</a></li>
+</ul>
+<p>Référence bibliographique : CHAIX Raphaëlle et al., 2020 — Structures
+sociales et structures génétiques dans les populations humaines. BMSAP.
+Vol. 31, 1-2, p. 18-23. 10.3166/bmsap-2020-0071</p>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>
