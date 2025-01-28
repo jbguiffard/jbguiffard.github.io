@@ -245,6 +245,12 @@ Date of Birth: January 9, 1995 \\
 \vspace{-23pt}
 \noindent\rule{\textwidth}{0.2pt}
 
+- **Telecom-Paris, Palaiseau, France** (2025 - *Present*)\
+  *Co-organization of the Telecom-Paris Working group"*
+
+- **Telecom-Paris, Palaiseau, France** (2025) \
+  *Member of the organization team of the Paris Conference on Digital Economics*
+
 - **IEDES / UMR Développement et Sociétés, Nogent-sur-Marne, France** (January 2022 – *Present*)\
   *Co-organization of the seminar "Au Tour de Nos Matériaux"*
   - [AuToMat](https://jeanbaptisteguiffard.github.io/automat.html) - Multidisciplinary methodological seminar
@@ -260,6 +266,7 @@ Date of Birth: January 9, 1995 \\
   
 - **UMR Développement et Sociétés, Nogent-sur-Marne, France** (October 2023)\
   *Co-organization of a joint UMR DEVSOC and CIRED PhD poster session*
+
 
 - **Refereeing**
   *Telematics and Informatics*
