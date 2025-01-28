@@ -173,7 +173,7 @@ alt="Jean-Baptiste Guiffard."
 style="float: right;
 	padding-left: 22px;
     padding-bottom: 22px;
-    width: 245px;">
+    width: 200px;">
 
 My research lies at the intersection of **digital and development economics**. More specifically, I assess the economic, social and political impact of telecommunications infrastructures and networks, particularly in developing countries. My recent research also focuses on the **role of digital platforms** in the evolution of the labor market, and on democratic dynamics in these same contexts. I am also interested in the economics of industrial organization.
 
