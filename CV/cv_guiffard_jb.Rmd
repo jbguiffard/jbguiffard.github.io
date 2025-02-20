@@ -136,6 +136,7 @@ Date of Birth: January 9, 1995 \\
 
 **2025**
 
+- [ITS 33rd European Conference 2025](https://itseurope.org/2025/), Edinburgh, Scotland.
 
 - [ERF 31st Annual Conference](https://erf.org.eg/conference/erf-31st-annual-conference/), Cairo, Egypt.
 
@@ -239,7 +240,6 @@ Date of Birth: January 9, 1995 \\
   *Teaching Assistant in microeconomics, macroeconomics and inferential statistics (undergraduate level)*
 
 
-\newpage
 
 # Other academic activities
 \vspace{-23pt}
@@ -269,7 +269,7 @@ Date of Birth: January 9, 1995 \\
 
 
 - **Refereeing**
-  *Telematics and Informatics*
+  *Journal of International Development*; *Telematics and Informatics*
 
 # Grants and Awards
 \vspace{-23pt}
